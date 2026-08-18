@@ -1,0 +1,57 @@
+subject,id,raw_response,predicted,correct_answer,is_correct
+anatomy,42c3b6ae-45e3-405f-b8bd-fa6a17924c6b,B,B,B,True
+anatomy,3f35a6bd-899c-4ab8-8525-9256dbb71851,A,A,A,True
+anatomy,292be6a1-f5da-4d67-8ae1-ae4d05a5f4a4,D,D,D,True
+anatomy,d3349274-203b-4673-989c-ec86e66bcbab,A,A,A,True
+anatomy,5986807f-c9d7-43ca-951a-2c4be8c0d62e,D,D,D,True
+anatomy,5ced0a34-d022-4dd1-9782-072aa8c548bb,C,C,C,True
+anatomy,ce41e98c-3f43-4c6a-9dbb-74c77dc10584,A,A,B,False
+anatomy,45588c4c-da93-43ca-8ee4-05feb851be68,D,D,D,True
+anatomy,12f747f6-e1e0-4850-864a-1af7b156c14f,A,A,A,True
+anatomy,c6f28135-76b7-4762-bd13-839b1592e3d3,A,A,D,False
+anatomy,b057a579-865e-4b5d-bd32-c859e19078c6,B,B,B,True
+anatomy,7a51e736-c9fd-452f-8d09-127583a42886,D,D,D,True
+anatomy,1cb974a5-a714-4590-8ba8-9989c6620e23,D,D,D,True
+anatomy,7cfc2dcb-313a-4722-98b1-ac63c7b49e75,B,B,B,True
+anatomy,04b5defc-1a24-4b6f-b647-4f87f2f82fe0,B,B,B,True
+anatomy,b3fbb3fa-16e3-4275-920b-aa7f7d8ef831,A,A,A,True
+anatomy,b3163789-82b3-4054-aabe-3a2b90aa7a98,"To provide the correct answer, I would need to see the accompanying image or diagram labeled with A, B, C, and D. 
+
+However, in standard medical histology diagrams of exocrine glands:
+* **Holocrine",D,A,False
+anatomy,460d8722-fe72-444c-a927-0be1b24de884,B,B,B,True
+anatomy,2df7addb-dc8a-4428-8f08-09327d0a7ccc,A,A,A,True
+anatomy,82d43b40-d7e9-427f-8870-81445cc14391,A,A,A,True
+anatomy,883563e3-4fe8-4b33-926b-5237f09d9c60,A,A,A,True
+anatomy,4df0486d-1aba-4df0-9a1f-fd86bb8acc9a,B,B,B,True
+anatomy,e45edfb9-2b6f-4ffb-9d2e-82ee6504cba5,D,D,D,True
+anatomy,a28512ef-dd2c-48f1-9033-95c1d84daf47,B,B,B,True
+anatomy,a1ab9a3e-f95b-4f09-9da7-e01bcd2a7e10,B,B,B,True
+anatomy,69c15b27-e061-413c-a011-854ea197f141,B,B,B,True
+anatomy,d015dc8c-7306-41b3-9db5-60973de1697c,B,B,B,True
+anatomy,37383322-4c63-4a27-bc22-f63dcd5763db,D,D,D,True
+anatomy,f1457bfc-13d3-40bb-9ad9-c6ec7f6c00dd,B,B,B,True
+anatomy,1c8618e4-c3cc-4048-8214-8c3098ba12ad,A,A,A,True
+anatomy,be5f1787-76b2-4782-be44-2c31745ea4c5,D,D,D,True
+anatomy,6dd554fa-dd9a-4ea8-a150-68273bd7512d,D,D,A,False
+anatomy,620affae-3d54-4be1-b18c-5b2c89d3332d,B,B,B,True
+anatomy,3844fc33-c5f5-48b4-ad6b-45dc4a3ec3c4,A,A,A,True
+anatomy,2b050ce8-53bf-4a3b-a4bd-fe1991b726c9,B,B,B,True
+anatomy,710786df-02cc-4b3f-9ac1-31bc90e56426,B,B,B,True
+anatomy,590248a6-74f4-45bf-a54a-d9b9b09b78b8,D,D,D,True
+anatomy,13088525-20c1-4b21-8fba-f48097969211,B,B,B,True
+anatomy,ef116da3-e330-4439-a183-1f19a7ea3fcd,A,A,A,True
+anatomy,defe1c85-63fe-4a16-ba10-b3749975818a,A,A,A,True
+anatomy,ed8cb5ce-10b7-4f7f-82b9-78d81ca404e0,D,D,D,True
+anatomy,453cceb9-0d23-47f8-95d8-0b0f3d7217c0,B,B,A,False
+anatomy,8e5ce21c-74ea-4b0d-b929-c03ee9d54765,A,A,A,True
+anatomy,18b70783-b5fa-484e-94f3-3084823c57fa,D,D,D,True
+anatomy,7e7eb34c-f362-459d-8bf5-7c485e460260,B,B,B,True
+anatomy,2975d2c6-d494-4adf-ba6e-97df6cd7f341,D,D,D,True
+anatomy,d0aaea50-8928-4b40-ad20-7161f679bbc0,"To provide the correct answer, I need to identify the muscle involved in opening the jaw (depression of the mandible) among the muscles of mastication. 
+
+The muscles of mastication are:
+1. **Masseter**",D,A,False
+anatomy,806f2722-6237-4681-90d7-6c43b7f40634,C,C,C,True
+anatomy,b90144a7-74cd-40fc-9634-b3a00530cb0c,C,C,C,True
+anatomy,2b6830cf-090a-415c-adee-e61a42038930,D,D,D,True

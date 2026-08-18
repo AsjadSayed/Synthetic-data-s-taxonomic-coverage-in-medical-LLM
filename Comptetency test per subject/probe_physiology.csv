@@ -1,0 +1,55 @@
+subject,id,raw_response,predicted,correct_answer,is_correct
+physiology,4f393b71-3955-4db3-a376-99af5015b825,A,A,A,True
+physiology,fef5262b-beee-4456-aef1-aa0f161733ea,B,B,B,True
+physiology,4c6b43ff-d302-4bb0-b9b6-873cd50cb014,D,D,D,True
+physiology,2e81781f-8c3e-4d9a-86b3-a2651e07dce9,B,B,B,True
+physiology,9e8038c4-e848-450c-8f57-f9bfa7b75fb0,A,A,A,True
+physiology,108d98b3-bf9a-4d0b-92f0-3736950e4c20,B,B,B,True
+physiology,12cd753a-42ac-4773-a89b-7869b1185af1,C,C,C,True
+physiology,73d2ce31-c410-4210-9ae1-0cc9157a2e46,"Based on the standard physiological values represented in typical spirometry curves (where a normal FEV1 is approximately 4.0 L and FVC is approximately 5.0 L, yielding a ratio of 80%), the",B,C,False
+physiology,82b0de7a-8e54-4c49-a872-9170f2d7b599,C,C,C,True
+physiology,a36b6f9e-f19b-48b1-9d33-4845fffe975f,D,D,D,True
+physiology,7aa9be4f-bb90-4284-8816-b7360a1a444b,"To determine which of the options does *not* increase calcium absorption from the gut, let's analyze each choice:
+
+*   **Vitamin D:** Strongly increases calcium absorption by promoting the synthesis of calcium-binding proteins (cal",D,C,False
+physiology,e262d5f1-129a-4aa9-9c08-5b875b97ebb6,B,B,B,True
+physiology,d70bc405-92bf-4118-8ea8-70b2ee771de7,A,A,B,False
+physiology,c0ed32bb-dbf2-4184-91f0-ee93c27f119f,A,A,A,True
+physiology,c5065606-5cbb-4adc-85a7-f7e14bf4a75e,C,C,A,False
+physiology,e1cf9f3f-2fd8-40e3-96c3-1a6ecb016b22,A,A,A,True
+physiology,56e99b61-7d98-4e09-aa8a-e267fa924351,C,C,C,True
+physiology,2767698c-2189-4770-a4fd-825b7b7edf9c,A,A,A,True
+physiology,6bfb7ced-ef9e-4df7-ae35-ce5699bbc7a5,C,C,C,True
+physiology,b0ed6bc7-e3ee-4e1b-abf2-b0fecb47c96c,B,B,B,True
+physiology,59fcd56f-73e9-49e5-8cd0-8097402935ec,A,A,A,True
+physiology,8604f600-1e0e-432d-8113-0bea0db44951,B,B,B,True
+physiology,b9d0ecb7-910b-4740-a744-5e7fa0780a3e,C,C,C,True
+physiology,7f3f6968-3304-4039-89b0-eebab7f702b4,C,C,C,True
+physiology,d98f10a4-8b10-44bd-8160-ec5719d2f4c1,B,B,B,True
+physiology,46f87e87-5b3e-465d-ae94-bd65b5f333c2,D,D,D,True
+physiology,c4bcd30a-daa7-4da1-9316-83c2cbb64532,C,C,C,True
+physiology,0b1e3ca7-b56b-4c9c-a660-2ff1a12393b1,B,B,B,True
+physiology,539291d5-becc-4ccc-8862-9d9ff4fcc121,D,D,D,True
+physiology,75ea3569-eb32-44a0-81dd-705aa50c2769,A,A,A,True
+physiology,9694e5f6-a417-49f7-a455-7a8d08c68f5c,A,A,A,True
+physiology,10105277-cd6c-4309-82b7-3f1866a336e0,B,B,B,True
+physiology,e6cba7bc-8cd8-43cb-a3e5-37725a07a3b4,A,A,A,True
+physiology,ea356491-9065-46ad-b1d2-bfed7eb2d2ca,"To provide the correct answer, we need to refer to the standard diagram of a single-breath nitrogen washout test or a capnogram (which has phases/stages labeled A, B, C, and D). 
+
+In",D,A,False
+physiology,b4d9ead1-e3c7-446d-b49b-7e4dcbdada18,C,C,C,True
+physiology,1e56931d-0093-4a8b-8538-72003358c34d,C,C,C,True
+physiology,f8c972d0-7aa8-45f7-a333-823c27dd5db8,A,A,A,True
+physiology,f229b847-b096-4925-ba33-f2a0427cea4d,C,C,C,True
+physiology,c6365cce-507c-40f6-90a2-46b867f47b6e,C,C,C,True
+physiology,212c1720-9f09-49d2-9a44-47bd914b35c9,D,D,D,True
+physiology,c2d32d1d-8609-4fef-91f6-580329f7a7e5,A,A,B,False
+physiology,e737ad44-e48a-4f53-8077-79b181818e5f,D,D,D,True
+physiology,6b5b69d0-83bf-4cd0-bb15-8f99cc9ea3d7,C,C,C,True
+physiology,5641b32f-91e7-4a52-bd8a-a1db071d0d45,A,A,B,False
+physiology,bc7fdabc-0c33-4e85-befe-0015ca601164,D,D,D,True
+physiology,dcded707-a751-431c-bba8-9b04446cc735,C,C,C,True
+physiology,2cf21e00-e098-4ed3-83d5-118302a0d9ea,B,B,B,True
+physiology,5a4d6226-a00e-45c0-bc74-5b1c718b1620,A,A,A,True
+physiology,32911eb7-ec0f-4745-b62c-ce3ed4897eea,D,D,D,True
+physiology,e803c024-5cd2-48f7-a3d1-c72f5e1563a6,C,C,C,True

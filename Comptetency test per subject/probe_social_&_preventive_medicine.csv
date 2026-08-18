@@ -1,0 +1,67 @@
+subject,id,raw_response,predicted,correct_answer,is_correct
+social & preventive medicine,8cc404b2-cdb1-4bea-be17-2dcd2edb48d8,D,D,D,True
+social & preventive medicine,23f03d9b-b4b5-4a84-b7a5-7dcd77b9ed63,C,C,C,True
+social & preventive medicine,fc83df2a-e58c-4bb9-b4e8-d20541d3f9c4,D,D,D,True
+social & preventive medicine,9eb1442f-0fb3-4f6b-adaa-41bc417180bb,"To find the accurate sample size ($n$) for estimating a single proportion, we use the standard formula for sample size estimation with relative precision:
+
+$$n = \frac{Z_{1-\alpha/2}^2 \times",D,B,False
+social & preventive medicine,2dbbf01a-5a68-40c9-a24f-fd4af9d314e8,C,C,C,True
+social & preventive medicine,1488b57a-2f58-4b18-8124-e94d25e980fb,"To determine the correct answer, we look at the traditional calculation of the Human Development Index (HDI) regarding its Education Index component (before the 2010 methodology update, which is typically the basis for this specific classic public",D,D,True
+social & preventive medicine,91b8c11b-1fd3-40dc-9660-5756b52296ed,B,B,B,True
+social & preventive medicine,5515fbdd-b28a-4493-914c-b8cefe901334,B,B,B,True
+social & preventive medicine,4c8ba505-85f6-426b-9f60-bea158011d06,A,A,A,True
+social & preventive medicine,1348a664-1ccc-422f-a083-91d77cb24b92,A,A,A,True
+social & preventive medicine,b65ef6a8-7a2f-4538-926c-4bc0c0640313,D,D,D,True
+social & preventive medicine,764c0c80-b716-45a1-9fe7-b13588090401,C,C,C,True
+social & preventive medicine,fab688a9-c8b9-49de-9fd1-596e226477e6,C,C,C,True
+social & preventive medicine,6506849d-8885-4adf-88b7-4e010e026d6c,C,C,A,False
+social & preventive medicine,a5b0d222-214a-4d53-9dda-e37cf9f4d3f4,D,D,D,True
+social & preventive medicine,02e841ba-5ecf-4f3b-974e-e1a077bcae5a,B,B,B,True
+social & preventive medicine,98db720a-e70e-4db0-8df7-77da4048523e,D,D,D,True
+social & preventive medicine,5d7ae586-3ecd-41a4-a172-d32ab3dc4f6a,B,B,D,False
+social & preventive medicine,bf96e90e-8e47-4660-93c7-bd01ec8735fb,A,A,A,True
+social & preventive medicine,60522ee9-d25d-4890-a184-59a47df07377,B,B,B,True
+social & preventive medicine,1badc5bb-d61a-48ea-9288-3754612f74a5,"To find the expected number of Antenatal Care (ANC) registrations in a given population, the standard public health formula used (particularly in the context of Indian healthcare planning, such as for a sub-center or a specific population",D,A,False
+social & preventive medicine,15811471-d00e-471c-adf9-2edc497bb4ce,C,C,C,True
+social & preventive medicine,78cde0de-1205-4bcb-a646-992a909fd268,A,A,A,True
+social & preventive medicine,796e190d-09a8-4eef-98a4-26eecd5b7de7,B,B,B,True
+social & preventive medicine,1450ca65-dcd0-49a1-bb7d-b633740c3436,A,A,B,False
+social & preventive medicine,579951c3-517c-41e4-ac39-0a48f474c01b,"To calculate the Infant Mortality Rate (IMR):
+
+1. **Total Live Births**: 
+   * Total births = 456
+   * Stillbirths (no signs of life at birth) =",C,C,True
+social & preventive medicine,b55fd5c5-4bb5-41d9-b78f-0932ac3854e6,A,A,A,True
+social & preventive medicine,dc729d5e-47ad-4b7e-8b0c-8d5ea7c8f3f4,C,C,C,True
+social & preventive medicine,22c12f88-d394-4d93-8be6-336a477a51b4,C,C,C,True
+social & preventive medicine,f0f91922-12fd-4213-871c-19e47532a6d6,C,C,C,True
+social & preventive medicine,9220447e-0ac6-41b7-b22d-07d1340b3641,"To determine which of the parameters are causative factors, we look at the Odds Ratio (OR). 
+
+* A factor is considered **causative** (risk factor) if the OR is greater than 1.0 (",D,B,False
+social & preventive medicine,c06d48a3-baba-4dfd-8144-39234497be00,B,B,B,True
+social & preventive medicine,607d0116-5f85-4d42-87d2-e6fd96abc366,D,D,D,True
+social & preventive medicine,484de2a0-f89b-4e79-88c3-11cb2da4fcde,B,B,B,True
+social & preventive medicine,af9a1805-2fda-43e1-9c73-64731258f12c,"To find the blood pressure value above which 95% of the population lies, we use the properties of a normal distribution. 
+
+1. For a normal distribution, 95% of the population lies within approximately",D,B,False
+social & preventive medicine,3149d45d-d152-4d8a-a992-430c0d1bed57,A,A,A,True
+social & preventive medicine,ac1196e0-224c-4c6c-a6b8-2853a776ade6,B,B,B,True
+social & preventive medicine,2166e021-8b96-47ad-9e4d-fa55a623938b,A,A,A,True
+social & preventive medicine,9c831bcb-dde8-45d5-853c-135a983c38c8,"To find the relation between the two variances, we first calculate the variance (which is the square of the standard deviation, $SD^2$) for both variables:
+
+1. **Variance of Diastolic Blood Pressure (DB",D,B,False
+social & preventive medicine,05984a75-d9af-4a87-8ac5-824576bf0d9f,A,A,A,True
+social & preventive medicine,3b261ffc-4ab3-4e68-a7b8-8e3881edfa55,A,A,A,True
+social & preventive medicine,5969f19a-3697-4e23-a8de-b63dbe06997e,C,C,C,True
+social & preventive medicine,eff524ae-ed1d-4b56-815a-2b4aad9bcdcb,A,A,A,True
+social & preventive medicine,7c6fe266-845b-4f4b-8ddb-ca5d016e0396,D,D,D,True
+social & preventive medicine,99f70efa-2951-4dfb-ba1a-e4d9b7a0b08e,A,A,A,True
+social & preventive medicine,ef1fe490-ef5b-40a4-8aae-062d5976bd90,"To find the 90% confidence interval (CI) for the population mean GFR:
+
+1. **Identify the given values:**
+   * Sample size ($n$) = 100
+   * Sample mean",D,A,False
+social & preventive medicine,b0d97337-7157-40c6-984d-87e24959fa80,B,B,B,True
+social & preventive medicine,f8f510ef-4928-4806-ba2a-f984e29463c8,C,C,C,True
+social & preventive medicine,e12d833f-2b7c-44e6-b395-70341c49eb5a,C,C,C,True
+social & preventive medicine,0190dc62-5b1a-48f7-b0c2-f91fb0fd66e7,"Based on the options provided, there is a typographical error where option C and D are identical, and the options do not perfectly align with the standard textbook definition of antigenic drift (which is caused by point mutations, not frameshift",B,D,False

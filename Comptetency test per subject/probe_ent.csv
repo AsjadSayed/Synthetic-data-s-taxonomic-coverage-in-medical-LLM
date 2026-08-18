@@ -1,0 +1,58 @@
+subject,id,raw_response,predicted,correct_answer,is_correct
+ent,97ed634a-a034-41a1-b92d-3781331b6f5a,C,C,C,True
+ent,1fc80d00-8929-4d18-9f07-25d005ceec59,B,B,A,False
+ent,aedc1587-ff44-45d7-ac9c-abf3f90c6a1a,B,B,B,True
+ent,2267ecd3-7b7f-4416-86f8-5ef2312e643e,D,D,A,False
+ent,b3554a03-5d0e-42ef-8033-6b3062193ae1,B,B,B,True
+ent,624cf635-1421-416e-978a-996781f350c0,A,A,A,True
+ent,be68160f-1668-4576-abcc-882aa211beb3,A,A,A,True
+ent,a86db080-2d2a-4eb2-abb0-11de110167f8,B,B,B,True
+ent,da2078b0-6ce5-4ba3-82f2-7b145665be2b,A,A,A,True
+ent,99f08890-7505-4062-9293-1f135de62e5c,B,B,B,True
+ent,d8b1befc-377a-4e40-aef2-3bca58710670,C,C,B,False
+ent,c4c72573-bba7-4544-8e80-7bf4fe8d0f2d,D,D,C,False
+ent,50c890ad-538a-4ca0-9900-4736b795af01,C,C,B,False
+ent,16ce8442-864b-43f1-b815-f9096e55fa54,A,A,A,True
+ent,762824c1-92d7-4a9e-9fcb-3a7fb3adfe69,A,A,A,True
+ent,38810794-2735-4239-b36f-d9a509a2997f,C,C,B,False
+ent,fd03f7de-6c4a-4244-97c6-12829919c1ed,B,B,B,True
+ent,7a42db5f-21a1-41f2-a436-17f685bbea63,A,A,A,True
+ent,99f0588d-fd2b-405a-ac4e-5615d0533fff,C,C,D,False
+ent,1a8b0cf7-f674-4339-ba6f-a664cb96178d,D,D,D,True
+ent,afd502ff-b700-4ecf-acec-f849331dd1ed,"Based on the standard anatomical landmarks visualized during a cortical mastoidectomy:
+
+* **A** typically points to the **lateral semicircular canal** (which forms a key landmark in the antrum, appearing as a dome of",B,C,False
+ent,8b538660-2509-4f93-a358-104099bb3cb8,D,D,A,False
+ent,b192b045-d178-4bbf-8796-3c26dae548f3,B,B,B,True
+ent,ec1866a1-00c2-425a-8886-ff7321defbd9,B,B,B,True
+ent,ccb55b07-8a29-4e45-a38c-8f0db374c703,B,B,B,True
+ent,4d1e7661-fffc-42d0-8bed-1e4ecc040fe8,C,C,C,True
+ent,56a82596-5a2c-461b-b6a4-00019b3e4eaf,C,C,C,True
+ent,5e7cb3e3-57f6-4748-96dd-0b8f6e2fa902,D,D,A,False
+ent,9bad2095-2dd9-4485-946a-4ef51d16e8a4,C,C,C,True
+ent,09b9375c-41ee-4295-ad27-2a11074d4434,B,B,A,False
+ent,751d9564-7804-41b2-a03d-210ffdcba7d6,B,B,B,True
+ent,825a499b-6eac-41df-b015-85662bfe6aa9,"To determine the staging of this oral cavity (tongue) cancer according to the 8th edition of the AJCC guidelines:
+
+1. **T category:** The lesion size is 2.5 cm × 3.",D,A,False
+ent,86e26dc5-2f48-45b1-82df-b14ffbc11fcb,A,A,A,True
+ent,04f192d7-760b-468b-a895-658b0efeb566,"To find the correct sequence of the auditory pathway from peripheral (ear) to central (brain):
+
+1. **Cochlear nucleus** (First central relay after the auditory nerve)
+2. **Inferior colliculus",D,A,False
+ent,357eebd0-e51d-46c8-8cc4-0fff4a79387b,A,A,A,True
+ent,1482f619-ffc5-4773-b48e-995421bcab06,B,B,A,False
+ent,e584f190-0cb1-4ef7-9e2a-e4f0ccc8e01b,C,C,C,True
+ent,671eebea-f741-4ed8-bf68-36e36c8de1eb,B,B,B,True
+ent,6beed60d-08f5-4efa-bd22-4a6901e451a2,A,A,A,True
+ent,8616b528-3a38-4bc5-b002-2e5133f56496,B,B,B,True
+ent,b9e53e10-851b-41bd-b2e3-0ddc302ffd99,B,B,B,True
+ent,d05667f6-6469-49d1-b8c5-0cacd49cc623,B,B,B,True
+ent,693c8309-0775-4b3a-899a-5fd7064993f3,D,D,D,True
+ent,514ac65d-87cb-47b7-b8b0-ffc36253753f,A,A,A,True
+ent,ac97880a-0862-45cf-bed5-a2000a93343c,C,C,C,True
+ent,69f1a181-5580-4146-ba87-bbd3980f948c,C,C,C,True
+ent,6ace03e9-b26c-455d-a158-71cbf9a0854b,C,C,C,True
+ent,3b38f235-0a3f-4781-ae19-a7858523b39f,C,C,C,True
+ent,8f57df40-4509-4083-a86d-d53e7bcaf328,C,C,C,True
+ent,6b13b5d1-10ab-414c-bfd4-76b9463300f2,C,C,B,False

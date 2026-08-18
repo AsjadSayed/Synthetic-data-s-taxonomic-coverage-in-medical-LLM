@@ -1,0 +1,56 @@
+subject,id,raw_response,predicted,correct_answer,is_correct
+pediatrics,867140e4-9b9f-4784-b252-9720f89a385e,C,C,C,True
+pediatrics,66445905-f680-4952-8f35-71253c0c525d,C,C,C,True
+pediatrics,23cdcc3c-aabd-403a-b2f7-59ecfab6ed23,C,C,C,True
+pediatrics,14e05154-05a2-4472-a63e-261d765893ae,B,B,A,False
+pediatrics,f4adbaa0-775b-4ef4-89e6-5f8b8290d6d9,B,B,B,True
+pediatrics,6101f100-7f2c-4957-8862-e5abfc113729,A,A,A,True
+pediatrics,ae05f0f4-de2f-43c0-9233-6ba28a77c8d3,D,D,D,True
+pediatrics,cc50db92-b976-499e-b7ef-2d8c27458043,C,C,C,True
+pediatrics,fa73f211-d8c8-4926-910b-d8a1f5444208,A,A,A,True
+pediatrics,e6478418-d6bb-47d3-b31c-a19b3a149a6c,C,C,C,True
+pediatrics,822d5c68-39fe-40e8-97ef-f50d7af91ebb,B,B,B,True
+pediatrics,e9d9c003-7fb0-404f-aa20-bea77c101f75,B,B,B,True
+pediatrics,5029ecd7-0f3f-495a-b662-b45589a2f9d7,B,B,B,True
+pediatrics,ee3171ee-b65b-477b-9a73-ea8316b648aa,A,A,A,True
+pediatrics,2c4e0c71-ef7f-4f02-a2d3-a7a8860fe37e,A,A,A,True
+pediatrics,605726f9-65ea-400a-987f-c07d48525120,A,A,A,True
+pediatrics,913d6913-f5de-41a9-8159-d7ac61d57c47,D,D,D,True
+pediatrics,d5fc68b9-e8d6-4ddf-8581-03e75a01fdea,D,D,D,True
+pediatrics,2cde59aa-666b-4fa6-802b-74ecdd525bfb,B,B,B,True
+pediatrics,4e8f5ba7-452a-464f-a328-d8b96eafade6,D,D,D,True
+pediatrics,c7c97482-3fe5-4798-bd40-50926d7595f8,A,A,A,True
+pediatrics,f6829756-2e11-47cb-85a8-3ba40ecb3332,A,A,D,False
+pediatrics,3101996f-b393-4e05-9cb4-542df72f1b5c,A,A,A,True
+pediatrics,8ecd6b53-cf1a-4e9c-8f2c-48e457979779,A,A,A,True
+pediatrics,8695d0f1-5264-4bb9-acd8-9d9b634f2b4c,B,B,B,True
+pediatrics,f204b864-ca16-4d18-9d0c-6c6a9cb3533a,C,C,C,True
+pediatrics,567c4ef0-c8b3-40db-8076-d293f225f852,D,D,D,True
+pediatrics,e6d619bc-90fe-44e0-b5c6-59c4b3a15720,D,D,D,True
+pediatrics,ac195c22-e47e-49f9-87d5-87b26416ea05,D,D,D,True
+pediatrics,c86f02db-18ea-4ef1-a03a-1bee6d661c7b,D,D,D,True
+pediatrics,cd810094-0eba-482e-b598-78e7470bd340,B,B,A,False
+pediatrics,5fa2e23f-c19c-4828-b240-59b7a0a84834,A,A,A,True
+pediatrics,87c9ed45-4f13-4ec7-9af1-571dc39c84a9,A,A,A,True
+pediatrics,84ecb174-49df-4354-9212-518584a1828b,A,A,A,True
+pediatrics,0f8e11c2-a438-4c71-86fb-e302e5852a05,B,B,B,True
+pediatrics,406dfa1b-f27b-4db0-8c21-7c300498f63d,B,B,B,True
+pediatrics,d3709637-27e6-4481-9617-103d7ef63048,C,C,C,True
+pediatrics,33a697bc-627a-4a24-b381-19c181fcdded,A,A,A,True
+pediatrics,f3e76c88-e70d-4d84-9f61-6d93ef188950,"To determine the correct answer, let's evaluate each statement based on standard American Heart Association (AHA) CPR guidelines for infants:
+
+1. **The sequence followed is Compression - Breathing - Airway**: **False**. The",D,D,True
+pediatrics,77a4b51b-b0d3-44fc-bed3-2ecccad80de0,B,B,B,True
+pediatrics,bf8d5b76-bda5-4221-95ef-d536c00c24ee,B,B,B,True
+pediatrics,ca2561d2-80a5-439b-949c-98d7c9dfb448,D,D,D,True
+pediatrics,018e350b-8675-4b2d-99a2-eba98fe07f31,"The correct answer is **B** (which corresponds to ""cd"" – Crack pot sign and Depressed fontanelle). 
+
+*Explanation:* 
+* **Enlarged head** (a) and **Sunset sign",C,B,False
+pediatrics,2a9cc59f-8f5f-4035-8010-07d1cc7a2f64,D,D,D,True
+pediatrics,2f0e50d9-79cb-4de8-b650-3b3815da5266,B,B,B,True
+pediatrics,bf0eabec-95a0-46e1-a9b7-dae6c29dadde,B,B,B,True
+pediatrics,5f5f1b55-68a6-4c77-a46a-97d7157a4adc,D,D,D,True
+pediatrics,65f3f017-4699-470d-baaa-0743a0a5d10a,A,A,A,True
+pediatrics,3754573b-da5e-4350-9604-2bff0e3a30b3,A,A,A,True
+pediatrics,16a4ed7f-088f-4bff-b638-418bad1f9eef,A,A,A,True

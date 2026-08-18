@@ -1,0 +1,58 @@
+subject,id,raw_response,predicted,correct_answer,is_correct
+microbiology,0f2fc319-7fca-4f39-b2e9-be49e7abe79d,C,C,C,True
+microbiology,ba3d2acf-22c5-416f-9d73-63d879a0a03c,A,A,A,True
+microbiology,03b86472-e565-4e69-bd54-d84383824de1,A,A,A,True
+microbiology,d8a284c5-175a-4439-8ef2-5ff24b41f3cc,B,B,B,True
+microbiology,818e92da-69f5-41d8-a15a-f22c851140fb,C,C,C,True
+microbiology,2fb9aa7b-5106-4856-943d-f6554959feab,A,A,A,True
+microbiology,080ecd84-88cb-49eb-a9f5-03569b7fa1f0,B,B,B,True
+microbiology,8919343b-cb06-4265-8e82-209b335117b3,D,D,D,True
+microbiology,a432db53-67f5-4865-af52-18edf81d1225,D,D,A,False
+microbiology,eea22c1f-7847-43c5-89be-6123accc8846,B,B,B,True
+microbiology,97a84ea2-f289-4103-a306-a1cb3526c24e,D,D,D,True
+microbiology,22e57519-9267-43a7-888e-70bc373bc109,D,D,C,False
+microbiology,e4749151-5d65-4cf3-b663-67e75d1da084,"To determine the correct answer, we need to look at the size of the ova (eggs) of the trematodes (flukes) listed:
+
+*   **Fasciola gigantica** eggs are very large, typically",D,D,True
+microbiology,15417774-021b-4c2c-8d47-6d80322fe687,B,B,B,True
+microbiology,2610a5af-a6cb-488f-98df-4341a3a9c7f9,C,C,C,True
+microbiology,f7469b1f-dda2-476a-9b27-312a080e0c8a,D,D,D,True
+microbiology,6150409c-32c4-4db3-93a7-63b2f7ac66c5,D,D,D,True
+microbiology,c56d4b66-8192-4b25-9d20-7312a5f5d4cb,C,C,C,True
+microbiology,415631ce-90ea-4872-a5cf-3fe2c83e3b4d,D,D,D,True
+microbiology,26160738-1887-4252-86d4-1719a5a80bd3,B,B,B,True
+microbiology,a1bea2c7-217e-4240-a208-541618437eec,D,D,D,True
+microbiology,326b16f4-3bd9-4656-9515-093e7d67ae21,C,C,C,True
+microbiology,dec39d56-fcb3-4cf1-8e83-e09a09a8ce6e,B,B,A,False
+microbiology,5a2facfc-eefa-4828-b96a-c319e1c71745,A,A,A,True
+microbiology,de1065e8-37ba-4b6b-a05d-f967fdf76f58,A,A,A,True
+microbiology,a06fc39f-e910-48cc-990f-fd3b93ede264,B,B,B,True
+microbiology,2388aeb7-4920-452f-9acb-28be49c72966,D,D,D,True
+microbiology,6147509e-347c-407e-a498-533631e8811e,B,B,B,True
+microbiology,f8d6c4a7-2037-44be-bbf6-8a1ea4b0de54,C,C,C,True
+microbiology,e14c42e1-754e-40a6-9b50-5d27b40e5a7d,A,A,A,True
+microbiology,8e686bff-ca17-4507-89bc-cce7d6ab9e7f,C,C,C,True
+microbiology,56176afa-3442-46be-9cdc-c8e569a72d04,A,A,A,True
+microbiology,e8de9b5f-8d91-4770-b700-0a4ac5dd29e2,"It appears that the clinical vignette or description of the symptoms/mechanism of action was omitted from your question. 
+
+However, if this is from a standard question bank referring to a specific classic presentation:
+* **Botulism",A,A,True
+microbiology,653d9209-e3ec-4f56-bb30-6e9f74c210df,A,A,C,False
+microbiology,cb22bfd6-e7d0-4944-8677-45b1a3d35c21,"To provide the correct answer, we first identify the helminth based on the description of its ovum (which typically refers to *Taenia solium* in standard medical board questions of this format). 
+
+For *Ta",D,B,False
+microbiology,24ba87cd-83d3-4768-b6fa-c246bde2b821,C,C,C,True
+microbiology,7dddfcb4-e0a3-4d71-b95e-49241da2abd5,A,A,A,True
+microbiology,423b742c-8580-47ff-a3db-eafd9de39d41,"Based on the typical presentation of a parasitic infection causing abdominal pain in a child, and the standard medical curriculum questions of this type (which often feature images of *Ascaris lumbricoides* or *Enterobius verm",B,C,False
+microbiology,0d8286b5-43b3-4ea2-9af4-d39822a11972,B,B,B,True
+microbiology,58e40694-1799-476f-8618-af488bda8892,A,A,A,True
+microbiology,3bd3eaf4-a529-4b2a-8d98-79249b580503,D,D,D,True
+microbiology,dbf438a0-20c0-4eb7-a94a-f337ffabf5af,B,B,B,True
+microbiology,f23569ea-da84-4e74-aa14-69c64f04424d,D,D,D,True
+microbiology,a6abadc2-5c2e-4dce-9cfa-1464b3be8c8d,A,A,A,True
+microbiology,b2378ac9-d9c4-415f-9e8d-f77a39b6117a,A,A,A,True
+microbiology,7d01f5ce-d737-4838-bf15-68a4dea15b1a,B,B,B,True
+microbiology,a31714d8-1531-4865-8d0d-f2430b8d68c1,B,B,B,True
+microbiology,35fb00cb-9acc-4177-8873-c3915a142c99,A,A,A,True
+microbiology,a1fa0704-7aab-4226-990d-5790d34c5d27,D,D,D,True
+microbiology,3aab1eeb-6cbe-4fc3-b2de-5b459ab610f6,B,B,B,True

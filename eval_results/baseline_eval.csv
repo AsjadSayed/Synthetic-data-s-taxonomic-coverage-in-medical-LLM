@@ -1,0 +1,4095 @@
+subject,predicted,true,correct,raw
+physiology,A,A,True,A<turn|>
+physiology,A,A,True,A<turn|>
+medicine,C,C,True,C<turn|>
+physiology,C,C,True,C<turn|>
+biochemistry,D,A,False,D<turn|>
+ophthalmology,B,A,False,B<turn|>
+medicine,A,A,True,A<turn|>
+anatomy,C,B,False,C<turn|>
+medicine,B,B,True,B<turn|>
+pediatrics,B,B,True,B<turn|>
+pathology,C,B,False,C<turn|>
+medicine,D,A,False,D<turn|>
+physiology,B,B,True,B<turn|>
+medicine,A,A,True,A<turn|>
+dental,C,A,False,C<turn|>
+microbiology,D,B,False,D<turn|>
+dental,D,D,True,D<turn|>
+radiology,A,A,True,A<turn|>
+dental,D,A,False,D<turn|>
+biochemistry,A,B,False,A<turn|>
+dental,A,A,True,A<turn|>
+gynaecology & obstetrics,D,A,False,D<turn|>
+dental,D,D,True,D<turn|>
+pharmacology,B,B,True,B<turn|>
+dental,C,A,False,C<turn|>
+dental,B,D,False,B<turn|>
+dental,A,A,True,A<turn|>
+social & preventive medicine,C,C,True,C<turn|>
+biochemistry,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+anatomy,A,A,True,A<turn|>
+pediatrics,A,D,False,A<turn|>
+microbiology,A,C,False,A<turn|>
+pediatrics,C,B,False,C<turn|>
+pediatrics,D,D,True,D<turn|>
+gynaecology & obstetrics,A,C,False,A<turn|>
+ent,C,C,True,C<turn|>
+medicine,B,B,True,B<turn|>
+social & preventive medicine,A,A,True,A<turn|>
+pediatrics,D,D,True,D<turn|>
+surgery,A,D,False,A<turn|>
+dental,D,A,False,D<turn|>
+dental,A,B,False,A<turn|>
+anatomy,D,B,False,D<turn|>
+pathology,C,A,False,C<turn|>
+dental,A,C,False,A<turn|>
+anatomy,C,C,True,C<turn|>
+ophthalmology,A,B,False,A<turn|>
+medicine,C,C,True,C<turn|>
+anatomy,B,B,True,B<turn|>
+medicine,A,A,True,A<turn|>
+pediatrics,B,B,True,B<turn|>
+pathology,C,C,True,C<turn|>
+dental,B,C,False,B<turn|>
+ent,A,A,True,A<turn|>
+biochemistry,D,D,True,D<turn|>
+surgery,D,D,True,D<turn|>
+physiology,D,C,False,D<turn|>
+pharmacology,A,A,True,A<turn|>
+biochemistry,D,D,True,D<turn|>
+pathology,A,A,True,A<turn|>
+surgery,D,D,True,D<turn|>
+dental,D,C,False,D<turn|>
+gynaecology & obstetrics,D,D,True,D<turn|>
+physiology,C,C,True,C<turn|>
+microbiology,D,B,False,D<turn|>
+dental,B,B,True,B<turn|>
+biochemistry,C,C,True,C<turn|>
+medicine,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+dental,D,D,True,D<turn|>
+pediatrics,D,A,False,D<turn|>
+dental,A,A,True,A<turn|>
+dental,A,B,False,A<turn|>
+gynaecology & obstetrics,A,B,False,A<turn|>
+pediatrics,B,B,True,B<turn|>
+physiology,C,C,True,C<turn|>
+biochemistry,A,A,True,A<turn|>
+biochemistry,D,A,False,D<turn|>
+gynaecology & obstetrics,C,A,False,C<turn|>
+dental,A,A,True,A<turn|>
+dental,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+anatomy,D,D,True,D<turn|>
+pathology,A,A,True,A<turn|>
+surgery,A,D,False,A<turn|>
+gynaecology & obstetrics,D,B,False,D<turn|>
+dental,B,B,True,B<turn|>
+pathology,D,A,False,D<turn|>
+pharmacology,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+pathology,D,B,False,D<turn|>
+forensic medicine,A,D,False,A<turn|>
+surgery,B,B,True,B<turn|>
+microbiology,A,D,False,A<turn|>
+pharmacology,A,A,True,A<turn|>
+surgery,A,B,False,A<turn|>
+physiology,C,A,False,C<turn|>
+pathology,D,D,True,D<turn|>
+dental,B,B,True,B<turn|>
+medicine,A,A,True,A<turn|>
+gynaecology & obstetrics,B,D,False,B<turn|>
+pathology,C,B,False,C<turn|>
+dental,D,C,False,D<turn|>
+dental,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+ophthalmology,A,D,False,A<turn|>
+dental,C,A,False,C<turn|>
+ophthalmology,A,C,False,A<turn|>
+dental,C,A,False,C<turn|>
+anatomy,A,B,False,A<turn|>
+medicine,C,C,True,C<turn|>
+pharmacology,B,B,True,B<turn|>
+dental,D,A,False,D<turn|>
+dental,A,A,True,A<turn|>
+microbiology,C,C,True,C<turn|>
+dental,B,A,False,B<turn|>
+dental,A,A,True,A<turn|>
+forensic medicine,D,D,True,D<turn|>
+biochemistry,B,B,True,B<turn|>
+surgery,A,A,True,A<turn|>
+surgery,B,A,False,B<turn|>
+physiology,A,B,False,A<turn|>
+physiology,D,D,True,D<turn|>
+dental,D,B,False,D<turn|>
+pediatrics,C,C,True,C<turn|>
+biochemistry,D,D,True,D<turn|>
+pharmacology,C,B,False,C<turn|>
+surgery,B,B,True,B<turn|>
+ent,B,B,True,B<turn|>
+biochemistry,D,A,False,D<turn|>
+surgery,C,B,False,C<turn|>
+dental,A,A,True,A<turn|>
+dental,C,C,True,C<turn|>
+anatomy,A,A,True,A<turn|>
+dental,A,C,False,A<turn|>
+microbiology,C,A,False,C<turn|>
+pediatrics,A,A,True,A<turn|>
+dental,A,C,False,A<turn|>
+pathology,A,B,False,A<turn|>
+biochemistry,C,A,False,C<turn|>
+pathology,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+pediatrics,D,D,True,D<turn|>
+pharmacology,A,B,False,A<turn|>
+surgery,B,A,False,B<turn|>
+pharmacology,A,B,False,A<turn|>
+ophthalmology,B,C,False,B<turn|>
+dental,D,A,False,D<turn|>
+dental,B,B,True,B<turn|>
+microbiology,A,B,False,A<turn|>
+dental,A,A,True,A<turn|>
+dental,D,D,True,D<turn|>
+pharmacology,C,C,True,C<turn|>
+surgery,D,D,True,D<turn|>
+surgery,C,B,False,C<turn|>
+anatomy,D,B,False,D<turn|>
+dental,A,B,False,A<turn|>
+surgery,A,D,False,A<turn|>
+anatomy,A,A,True,A<turn|>
+dental,C,C,True,C<turn|>
+pediatrics,C,D,False,C<turn|>
+medicine,A,B,False,A<turn|>
+surgery,A,B,False,A<turn|>
+forensic medicine,A,C,False,A<turn|>
+dental,A,B,False,A<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+dental,A,B,False,A<turn|>
+dental,A,A,True,A<turn|>
+physiology,B,B,True,B<turn|>
+dental,C,C,True,C<turn|>
+physiology,A,B,False,A<turn|>
+pharmacology,C,C,True,C<turn|>
+microbiology,D,D,True,D<turn|>
+dental,A,D,False,A<turn|>
+microbiology,C,B,False,C<turn|>
+pathology,A,A,True,A<turn|>
+surgery,A,A,True,A<turn|>
+ent,C,A,False,C<turn|>
+social & preventive medicine,C,C,True,C<turn|>
+dental,D,C,False,D<turn|>
+pharmacology,D,B,False,D<turn|>
+pediatrics,C,A,False,C<turn|>
+physiology,C,C,True,C<turn|>
+ophthalmology,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+anatomy,D,B,False,D<turn|>
+surgery,B,B,True,B<turn|>
+ent,C,B,False,C<turn|>
+dental,A,A,True,A<turn|>
+dental,C,B,False,C<turn|>
+microbiology,B,D,False,B<turn|>
+dental,D,A,False,D<turn|>
+physiology,B,D,False,B<turn|>
+pharmacology,A,C,False,A<turn|>
+social & preventive medicine,B,B,True,B<turn|>
+physiology,B,C,False,B<turn|>
+gynaecology & obstetrics,C,C,True,C<turn|>
+dental,C,D,False,C<turn|>
+pediatrics,A,C,False,A<turn|>
+pediatrics,D,C,False,D<turn|>
+dental,A,D,False,A<turn|>
+medicine,D,B,False,D<turn|>
+dental,B,B,True,B<turn|>
+dental,C,A,False,C<turn|>
+dental,D,D,True,D<turn|>
+pediatrics,D,C,False,D<turn|>
+forensic medicine,B,C,False,B<turn|>
+dental,D,C,False,D<turn|>
+physiology,D,A,False,D<turn|>
+pharmacology,A,A,True,A<turn|>
+ophthalmology,D,D,True,D<turn|>
+ent,A,A,True,A<turn|>
+pharmacology,A,C,False,A<turn|>
+pharmacology,C,B,False,C<turn|>
+pharmacology,D,C,False,D<turn|>
+dental,D,D,True,D<turn|>
+surgery,C,A,False,C<turn|>
+dental,C,A,False,C<turn|>
+social & preventive medicine,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+dental,B,B,True,B<turn|>
+dental,C,A,False,C<turn|>
+dental,D,A,False,D<turn|>
+dental,C,D,False,C<turn|>
+pathology,D,D,True,D<turn|>
+microbiology,B,D,False,B<turn|>
+forensic medicine,B,C,False,B<turn|>
+social & preventive medicine,C,C,True,C<turn|>
+pathology,D,C,False,D<turn|>
+medicine,D,C,False,D<turn|>
+dental,D,D,True,D<turn|>
+dental,A,A,True,A<turn|>
+medicine,D,D,True,D<turn|>
+dental,B,C,False,B<turn|>
+pathology,B,D,False,B<turn|>
+dental,C,A,False,C<turn|>
+surgery,A,A,True,A<turn|>
+dental,A,C,False,A<turn|>
+pediatrics,A,A,True,A<turn|>
+pathology,A,D,False,A<turn|>
+dental,D,D,True,D<turn|>
+dental,A,A,True,A<turn|>
+dental,A,D,False,A<turn|>
+pediatrics,D,C,False,D<turn|>
+medicine,A,A,True,A<turn|>
+pathology,C,C,True,C<turn|>
+dental,D,D,True,D<turn|>
+anatomy,A,A,True,A<turn|>
+ophthalmology,A,A,True,A<turn|>
+anatomy,A,C,False,A<turn|>
+dental,A,C,False,A<turn|>
+forensic medicine,C,C,True,C<turn|>
+dental,A,D,False,A<turn|>
+pathology,D,D,True,D<turn|>
+pathology,B,B,True,B<turn|>
+dental,C,D,False,C<turn|>
+gynaecology & obstetrics,B,A,False,B<turn|>
+dental,B,B,True,B<turn|>
+medicine,D,B,False,D<turn|>
+medicine,C,C,True,C<turn|>
+medicine,A,C,False,A<turn|>
+medicine,A,D,False,A<turn|>
+dental,A,A,True,A<turn|>
+gynaecology & obstetrics,D,C,False,D<turn|>
+dental,A,C,False,A<turn|>
+pharmacology,D,D,True,D<turn|>
+pediatrics,D,D,True,D<turn|>
+pharmacology,B,B,True,B<turn|>
+dental,C,B,False,C<turn|>
+microbiology,A,D,False,A<turn|>
+pathology,A,A,True,A<turn|>
+microbiology,C,C,True,C<turn|>
+dental,C,C,True,C<turn|>
+pediatrics,D,D,True,D<turn|>
+pharmacology,C,C,True,C<turn|>
+social & preventive medicine,C,C,True,C<turn|>
+physiology,D,C,False,D<turn|>
+surgery,C,D,False,C<turn|>
+medicine,B,B,True,B<turn|>
+pathology,A,C,False,A<turn|>
+pharmacology,C,D,False,C<turn|>
+dental,A,C,False,A<turn|>
+anatomy,A,A,True,A<turn|>
+microbiology,B,D,False,B<turn|>
+dental,D,D,True,D<turn|>
+surgery,B,B,True,B<turn|>
+surgery,C,A,False,C<turn|>
+dental,B,B,True,B<turn|>
+pediatrics,D,B,False,D<turn|>
+physiology,A,A,True,A<turn|>
+surgery,D,A,False,D<turn|>
+biochemistry,C,C,True,C<turn|>
+microbiology,B,B,True,B<turn|>
+surgery,A,D,False,A<turn|>
+microbiology,B,A,False,B<turn|>
+gynaecology & obstetrics,B,B,True,B<turn|>
+biochemistry,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+dental,D,A,False,D<turn|>
+dental,A,B,False,A<turn|>
+dental,C,B,False,C<turn|>
+social & preventive medicine,D,A,False,D<turn|>
+pharmacology,A,D,False,A<turn|>
+dental,A,A,True,A<turn|>
+dental,C,A,False,C<turn|>
+surgery,A,B,False,A<turn|>
+pharmacology,D,A,False,D<turn|>
+biochemistry,D,A,False,D<turn|>
+surgery,A,A,True,A<turn|>
+pathology,B,B,True,B<turn|>
+pharmacology,A,A,True,A<turn|>
+gynaecology & obstetrics,D,D,True,D<turn|>
+medicine,D,D,True,D<turn|>
+pathology,A,B,False,A<turn|>
+dental,B,D,False,B<turn|>
+gynaecology & obstetrics,B,B,True,B<turn|>
+pharmacology,B,B,True,B<turn|>
+microbiology,B,B,True,B<turn|>
+medicine,B,B,True,B<turn|>
+dental,A,D,False,A<turn|>
+pediatrics,C,C,True,C<turn|>
+physiology,D,D,True,D<turn|>
+biochemistry,D,D,True,D<turn|>
+dental,A,A,True,A<turn|>
+dental,C,B,False,C<turn|>
+pharmacology,B,A,False,B<turn|>
+forensic medicine,C,B,False,C<turn|>
+dental,C,A,False,C<turn|>
+pediatrics,B,B,True,B<turn|>
+pathology,B,A,False,B<turn|>
+medicine,C,C,True,C<turn|>
+dental,C,A,False,C<turn|>
+biochemistry,A,D,False,A<turn|>
+dental,D,B,False,D<turn|>
+dental,D,A,False,D<turn|>
+physiology,D,C,False,D<turn|>
+anatomy,B,B,True,B<turn|>
+biochemistry,A,A,True,A<turn|>
+pharmacology,A,C,False,A<turn|>
+medicine,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+dental,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+microbiology,D,D,True,D<turn|>
+pharmacology,C,A,False,C<turn|>
+dental,B,A,False,B<turn|>
+dental,C,C,True,C<turn|>
+medicine,A,B,False,A<turn|>
+dental,C,A,False,C<turn|>
+dental,A,A,True,A<turn|>
+pharmacology,B,B,True,B<turn|>
+gynaecology & obstetrics,B,B,True,B<turn|>
+dental,D,A,False,D<turn|>
+gynaecology & obstetrics,A,B,False,A<turn|>
+microbiology,C,C,True,C<turn|>
+forensic medicine,A,A,True,A<turn|>
+surgery,A,D,False,A<turn|>
+anatomy,B,D,False,B<turn|>
+forensic medicine,A,B,False,A<turn|>
+gynaecology & obstetrics,D,B,False,D<turn|>
+pediatrics,D,B,False,D<turn|>
+surgery,B,B,True,B<turn|>
+dental,D,D,True,D<turn|>
+anatomy,D,B,False,D<turn|>
+social & preventive medicine,A,C,False,A<turn|>
+dental,B,D,False,B<turn|>
+dental,A,B,False,A<turn|>
+dental,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+gynaecology & obstetrics,D,D,True,D<turn|>
+anatomy,A,B,False,A<turn|>
+biochemistry,A,D,False,A<turn|>
+pharmacology,A,A,True,A<turn|>
+physiology,C,C,True,C<turn|>
+medicine,B,B,True,B<turn|>
+ent,A,A,True,A<turn|>
+medicine,A,A,True,A<turn|>
+dental,A,D,False,A<turn|>
+dental,B,A,False,B<turn|>
+dental,B,D,False,B<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+microbiology,A,A,True,A<turn|>
+ent,C,C,True,C<turn|>
+social & preventive medicine,B,B,True,B<turn|>
+anatomy,D,A,False,D<turn|>
+medicine,A,B,False,A<turn|>
+pharmacology,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+pathology,D,D,True,D<turn|>
+ent,C,C,True,C<turn|>
+anatomy,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+physiology,D,A,False,D<turn|>
+pharmacology,A,A,True,A<turn|>
+social & preventive medicine,C,C,True,C<turn|>
+pathology,C,A,False,C<turn|>
+biochemistry,B,B,True,B<turn|>
+pathology,D,D,True,D<turn|>
+microbiology,A,B,False,A<turn|>
+biochemistry,D,D,True,D<turn|>
+surgery,C,B,False,C<turn|>
+gynaecology & obstetrics,C,A,False,C<turn|>
+social & preventive medicine,A,B,False,A<turn|>
+pharmacology,C,C,True,C<turn|>
+dental,A,C,False,A<turn|>
+biochemistry,A,A,True,A<turn|>
+pathology,C,C,True,C<turn|>
+dental,A,D,False,A<turn|>
+dental,A,D,False,A<turn|>
+physiology,A,D,False,A<turn|>
+dental,A,B,False,A<turn|>
+dental,B,D,False,B<turn|>
+dental,D,C,False,D<turn|>
+anatomy,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+surgery,A,A,True,A<turn|>
+dental,C,A,False,C<turn|>
+radiology,B,A,False,B<turn|>
+dental,C,C,True,C<turn|>
+gynaecology & obstetrics,C,A,False,C<turn|>
+pediatrics,D,D,True,D<turn|>
+pathology,C,D,False,C<turn|>
+pediatrics,C,C,True,C<turn|>
+gynaecology & obstetrics,D,D,True,D<turn|>
+dental,A,A,True,A<turn|>
+dental,D,A,False,D<turn|>
+surgery,C,C,True,C<turn|>
+pathology,C,C,True,C<turn|>
+social & preventive medicine,A,B,False,A<turn|>
+microbiology,A,A,True,A<turn|>
+social & preventive medicine,D,A,False,D<turn|>
+pathology,D,D,True,D<turn|>
+dental,D,A,False,D<turn|>
+gynaecology & obstetrics,A,C,False,A<turn|>
+pharmacology,A,C,False,A<turn|>
+medicine,D,D,True,D<turn|>
+surgery,A,D,False,A<turn|>
+dental,B,C,False,B<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+biochemistry,A,A,True,A<turn|>
+surgery,A,B,False,A<turn|>
+dental,C,D,False,C<turn|>
+medicine,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+pediatrics,B,D,False,B<turn|>
+dental,D,B,False,D<turn|>
+dental,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+medicine,D,A,False,D<turn|>
+medicine,D,B,False,D<turn|>
+biochemistry,C,A,False,C<turn|>
+microbiology,C,C,True,C<turn|>
+medicine,D,D,True,D<turn|>
+pediatrics,B,B,True,B<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+surgery,C,B,False,C<turn|>
+surgery,D,C,False,D<turn|>
+biochemistry,D,B,False,D<turn|>
+forensic medicine,C,C,True,C<turn|>
+physiology,A,D,False,A<turn|>
+biochemistry,A,A,True,A<turn|>
+physiology,B,B,True,B<turn|>
+microbiology,A,A,True,A<turn|>
+pathology,B,B,True,B<turn|>
+biochemistry,C,A,False,C<turn|>
+dental,B,B,True,B<turn|>
+forensic medicine,A,A,True,A<turn|>
+dental,D,C,False,D<turn|>
+anatomy,C,C,True,C<turn|>
+biochemistry,B,B,True,B<turn|>
+dental,B,B,True,B<turn|>
+dental,C,C,True,C<turn|>
+social & preventive medicine,A,B,False,A<turn|>
+dental,D,C,False,D<turn|>
+surgery,A,A,True,A<turn|>
+biochemistry,C,D,False,C<turn|>
+medicine,C,C,True,C<turn|>
+anatomy,A,A,True,A<turn|>
+pathology,A,A,True,A<turn|>
+biochemistry,A,C,False,A<turn|>
+dental,A,A,True,A<turn|>
+surgery,C,C,True,C<turn|>
+dental,A,C,False,A<turn|>
+surgery,C,C,True,C<turn|>
+surgery,A,B,False,A<turn|>
+dental,D,D,True,D<turn|>
+dental,A,B,False,A<turn|>
+dental,C,B,False,C<turn|>
+pharmacology,A,A,True,A<turn|>
+physiology,D,D,True,D<turn|>
+physiology,D,D,True,D<turn|>
+dental,C,B,False,C<turn|>
+dental,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+dental,D,C,False,D<turn|>
+dental,A,D,False,A<turn|>
+gynaecology & obstetrics,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+microbiology,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+dental,D,D,True,D<turn|>
+biochemistry,A,B,False,A<turn|>
+biochemistry,C,C,True,C<turn|>
+physiology,D,D,True,D<turn|>
+physiology,A,A,True,A<turn|>
+dental,C,D,False,C<turn|>
+biochemistry,A,A,True,A<turn|>
+pediatrics,B,D,False,B<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+medicine,B,C,False,B<turn|>
+medicine,D,D,True,D<turn|>
+dental,D,A,False,D<turn|>
+gynaecology & obstetrics,C,A,False,C<turn|>
+pathology,A,A,True,A<turn|>
+radiology,A,A,True,A<turn|>
+gynaecology & obstetrics,B,A,False,B<turn|>
+microbiology,A,D,False,A<turn|>
+ophthalmology,A,B,False,A<turn|>
+pediatrics,C,A,False,C<turn|>
+dental,C,C,True,C<turn|>
+surgery,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+surgery,D,D,True,D<turn|>
+pathology,B,B,True,B<turn|>
+medicine,C,C,True,C<turn|>
+pediatrics,D,A,False,D<turn|>
+medicine,B,B,True,B<turn|>
+pediatrics,B,B,True,B<turn|>
+dental,C,B,False,C<turn|>
+microbiology,D,D,True,D<turn|>
+ent,A,B,False,A<turn|>
+dental,A,A,True,A<turn|>
+pharmacology,C,C,True,C<turn|>
+dental,D,D,True,D<turn|>
+radiology,D,A,False,D<turn|>
+surgery,D,C,False,D<turn|>
+dental,A,B,False,A<turn|>
+biochemistry,B,B,True,B<turn|>
+pharmacology,C,D,False,C<turn|>
+pathology,D,D,True,D<turn|>
+pathology,D,D,True,D<turn|>
+microbiology,D,D,True,D<turn|>
+pharmacology,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+dental,C,B,False,C<turn|>
+dental,D,D,True,D<turn|>
+dental,C,A,False,C<turn|>
+pediatrics,D,B,False,D<turn|>
+surgery,C,D,False,C<turn|>
+dental,A,B,False,A<turn|>
+physiology,A,A,True,A<turn|>
+medicine,A,A,True,A<turn|>
+pediatrics,A,A,True,A<turn|>
+pharmacology,B,D,False,B<turn|>
+pathology,A,A,True,A<turn|>
+anatomy,A,A,True,A<turn|>
+pathology,D,D,True,D<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+surgery,A,A,True,A<turn|>
+pathology,B,B,True,B<turn|>
+gynaecology & obstetrics,A,C,False,A<turn|>
+pharmacology,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+pediatrics,C,B,False,C<turn|>
+pathology,A,A,True,A<turn|>
+anatomy,D,A,False,D<turn|>
+surgery,D,A,False,D<turn|>
+surgery,B,B,True,B<turn|>
+pediatrics,B,C,False,B<turn|>
+surgery,C,C,True,C<turn|>
+medicine,A,A,True,A<turn|>
+gynaecology & obstetrics,B,B,True,B<turn|>
+gynaecology & obstetrics,C,C,True,C<turn|>
+medicine,A,A,True,A<turn|>
+medicine,A,A,True,A<turn|>
+ophthalmology,A,A,True,A<turn|>
+medicine,C,B,False,C<turn|>
+pediatrics,C,D,False,C<turn|>
+dental,C,C,True,C<turn|>
+dental,A,B,False,A<turn|>
+dental,A,B,False,A<turn|>
+dental,C,C,True,C<turn|>
+surgery,A,C,False,A<turn|>
+surgery,A,A,True,A<turn|>
+surgery,C,C,True,C<turn|>
+pediatrics,C,A,False,C<turn|>
+dental,C,D,False,C<turn|>
+dental,B,B,True,B<turn|>
+physiology,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+medicine,D,D,True,D<turn|>
+surgery,C,D,False,C<turn|>
+gynaecology & obstetrics,D,D,True,D<turn|>
+pediatrics,A,C,False,A<turn|>
+pathology,A,A,True,A<turn|>
+gynaecology & obstetrics,D,A,False,D<turn|>
+pediatrics,B,D,False,B<turn|>
+dental,B,B,True,B<turn|>
+pharmacology,D,D,True,D<turn|>
+pharmacology,A,A,True,A<turn|>
+radiology,B,B,True,B<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+anatomy,B,B,True,B<turn|>
+medicine,B,B,True,B<turn|>
+pathology,D,C,False,D<turn|>
+dental,B,C,False,B<turn|>
+microbiology,A,A,True,A<turn|>
+surgery,A,D,False,A<turn|>
+anatomy,A,B,False,A<turn|>
+biochemistry,A,A,True,A<turn|>
+physiology,A,A,True,A<turn|>
+anatomy,D,D,True,D<turn|>
+biochemistry,B,C,False,B<turn|>
+radiology,D,D,True,D<turn|>
+dental,C,B,False,C<turn|>
+biochemistry,D,A,False,D<turn|>
+biochemistry,C,C,True,C<turn|>
+dental,A,B,False,A<turn|>
+dental,A,C,False,A<turn|>
+dental,C,C,True,C<turn|>
+ophthalmology,A,A,True,A<turn|>
+gynaecology & obstetrics,B,B,True,B<turn|>
+dental,B,A,False,B<turn|>
+dental,C,C,True,C<turn|>
+surgery,C,A,False,C<turn|>
+medicine,C,B,False,C<turn|>
+microbiology,D,B,False,D<turn|>
+pathology,A,B,False,A<turn|>
+pediatrics,A,C,False,A<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+physiology,A,B,False,A<turn|>
+social & preventive medicine,A,A,True,A<turn|>
+social & preventive medicine,A,A,True,A<turn|>
+medicine,A,D,False,A<turn|>
+radiology,A,A,True,A<turn|>
+social & preventive medicine,C,C,True,C<turn|>
+dental,C,B,False,C<turn|>
+pediatrics,B,D,False,B<turn|>
+dental,D,B,False,D<turn|>
+dental,A,D,False,A<turn|>
+pharmacology,B,B,True,B<turn|>
+pediatrics,C,C,True,C<turn|>
+anatomy,C,C,True,C<turn|>
+medicine,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+pathology,D,A,False,D<turn|>
+pharmacology,B,B,True,B<turn|>
+gynaecology & obstetrics,B,A,False,B<turn|>
+pathology,A,A,True,A<turn|>
+anatomy,D,D,True,D<turn|>
+ent,B,D,False,B<turn|>
+medicine,A,A,True,A<turn|>
+ophthalmology,A,D,False,A<turn|>
+pathology,B,B,True,B<turn|>
+pathology,D,C,False,D<turn|>
+dental,A,A,True,A<turn|>
+dental,D,A,False,D<turn|>
+dental,A,D,False,A<turn|>
+medicine,D,D,True,D<turn|>
+dental,D,D,True,D<turn|>
+pathology,B,B,True,B<turn|>
+forensic medicine,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+forensic medicine,C,A,False,C<turn|>
+anatomy,B,B,True,B<turn|>
+medicine,A,D,False,A<turn|>
+physiology,C,C,True,C<turn|>
+dental,A,B,False,A<turn|>
+surgery,C,B,False,C<turn|>
+dental,D,D,True,D<turn|>
+dental,C,B,False,C<turn|>
+anatomy,C,A,False,C<turn|>
+pharmacology,D,D,True,D<turn|>
+dental,C,D,False,C<turn|>
+anatomy,C,D,False,C<turn|>
+dental,B,B,True,B<turn|>
+dental,C,C,True,C<turn|>
+surgery,A,D,False,A<turn|>
+pediatrics,C,B,False,C<turn|>
+dental,D,D,True,D<turn|>
+dental,A,A,True,A<turn|>
+radiology,A,A,True,A<turn|>
+physiology,C,C,True,C<turn|>
+social & preventive medicine,A,A,True,A<turn|>
+gynaecology & obstetrics,C,C,True,C<turn|>
+anatomy,C,B,False,C<turn|>
+dental,C,A,False,C<turn|>
+dental,A,D,False,A<turn|>
+pharmacology,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+surgery,D,D,True,D<turn|>
+dental,C,B,False,C<turn|>
+dental,D,B,False,D<turn|>
+pediatrics,D,D,True,D<turn|>
+pathology,A,A,True,A<turn|>
+biochemistry,D,D,True,D<turn|>
+dental,B,B,True,B<turn|>
+surgery,A,B,False,A<turn|>
+surgery,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+biochemistry,D,D,True,D<turn|>
+dental,C,A,False,C<turn|>
+dental,A,A,True,A<turn|>
+dental,B,C,False,B<turn|>
+social & preventive medicine,B,D,False,B<turn|>
+anatomy,C,C,True,C<turn|>
+surgery,A,B,False,A<turn|>
+pathology,B,B,True,B<turn|>
+surgery,A,C,False,A<turn|>
+biochemistry,D,B,False,D<turn|>
+radiology,C,C,True,C<turn|>
+medicine,D,A,False,D<turn|>
+anatomy,D,B,False,D<turn|>
+dental,D,D,True,D<turn|>
+forensic medicine,C,C,True,C<turn|>
+pharmacology,B,B,True,B<turn|>
+dental,B,B,True,B<turn|>
+surgery,A,A,True,A<turn|>
+dental,C,D,False,C<turn|>
+dental,B,C,False,B<turn|>
+pediatrics,A,A,True,A<turn|>
+pediatrics,D,B,False,D<turn|>
+pediatrics,C,C,True,C<turn|>
+microbiology,A,C,False,A<turn|>
+radiology,A,A,True,A<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+dental,C,B,False,C<turn|>
+ophthalmology,A,A,True,A<turn|>
+dental,C,C,True,C<turn|>
+dental,C,D,False,C<turn|>
+dental,D,C,False,D<turn|>
+forensic medicine,A,A,True,A<turn|>
+dental,B,D,False,B<turn|>
+surgery,B,B,True,B<turn|>
+medicine,B,B,True,B<turn|>
+radiology,B,A,False,B<turn|>
+medicine,D,D,True,D<turn|>
+dental,A,A,True,A<turn|>
+dental,B,C,False,B<turn|>
+surgery,B,B,True,B<turn|>
+dental,A,C,False,A<turn|>
+dental,B,A,False,B<turn|>
+dental,B,A,False,B<turn|>
+dental,C,C,True,C<turn|>
+pathology,B,B,True,B<turn|>
+dental,D,C,False,D<turn|>
+forensic medicine,D,A,False,D<turn|>
+medicine,C,D,False,C<turn|>
+surgery,A,C,False,A<turn|>
+dental,C,A,False,C<turn|>
+dental,A,B,False,A<turn|>
+anatomy,A,A,True,A<turn|>
+microbiology,B,A,False,B<turn|>
+medicine,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+social & preventive medicine,B,B,True,B<turn|>
+dental,C,C,True,C<turn|>
+gynaecology & obstetrics,C,C,True,C<turn|>
+radiology,C,C,True,C<turn|>
+medicine,A,D,False,A<turn|>
+anatomy,B,B,True,B<turn|>
+dental,D,A,False,D<turn|>
+dental,D,D,True,D<turn|>
+gynaecology & obstetrics,C,A,False,C<turn|>
+dental,B,B,True,B<turn|>
+surgery,A,A,True,A<turn|>
+dental,D,D,True,D<turn|>
+dental,A,C,False,A<turn|>
+medicine,C,D,False,C<turn|>
+ent,D,A,False,D<turn|>
+dental,A,A,True,A<turn|>
+surgery,B,B,True,B<turn|>
+dental,C,A,False,C<turn|>
+forensic medicine,A,A,True,A<turn|>
+physiology,A,A,True,A<turn|>
+biochemistry,C,C,True,C<turn|>
+medicine,A,A,True,A<turn|>
+medicine,A,A,True,A<turn|>
+anatomy,A,B,False,A<turn|>
+physiology,A,C,False,A<turn|>
+medicine,A,A,True,A<turn|>
+radiology,C,C,True,C<turn|>
+surgery,A,A,True,A<turn|>
+physiology,D,D,True,D<turn|>
+anatomy,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+pediatrics,C,A,False,C<turn|>
+biochemistry,A,C,False,A<turn|>
+surgery,A,A,True,A<turn|>
+social & preventive medicine,A,D,False,A<turn|>
+pathology,C,C,True,C<turn|>
+gynaecology & obstetrics,D,D,True,D<turn|>
+pharmacology,A,A,True,A<turn|>
+gynaecology & obstetrics,B,B,True,B<turn|>
+surgery,B,B,True,B<turn|>
+gynaecology & obstetrics,C,A,False,C<turn|>
+surgery,B,B,True,B<turn|>
+dental,D,A,False,D<turn|>
+pediatrics,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+anatomy,A,A,True,A<turn|>
+anatomy,C,C,True,C<turn|>
+radiology,A,B,False,A<turn|>
+dental,A,B,False,A<turn|>
+pathology,A,A,True,A<turn|>
+dental,D,D,True,D<turn|>
+dental,D,D,True,D<turn|>
+pharmacology,C,C,True,C<turn|>
+gynaecology & obstetrics,B,B,True,B<turn|>
+dental,D,D,True,D<turn|>
+biochemistry,C,B,False,C<turn|>
+dental,C,C,True,C<turn|>
+medicine,C,D,False,C<turn|>
+pediatrics,C,B,False,C<turn|>
+dental,B,A,False,B<turn|>
+pathology,B,A,False,B<turn|>
+surgery,B,D,False,B<turn|>
+pediatrics,C,C,True,C<turn|>
+dental,C,B,False,C<turn|>
+anatomy,C,A,False,C<turn|>
+pharmacology,A,B,False,A<turn|>
+dental,B,C,False,B<turn|>
+surgery,A,D,False,A<turn|>
+medicine,D,B,False,D<turn|>
+anatomy,A,B,False,A<turn|>
+pathology,D,C,False,D<turn|>
+social & preventive medicine,B,A,False,B<turn|>
+dental,D,A,False,D<turn|>
+ophthalmology,B,B,True,B<turn|>
+medicine,A,C,False,A<turn|>
+dental,A,A,True,A<turn|>
+medicine,C,C,True,C<turn|>
+anatomy,D,B,False,D<turn|>
+dental,C,D,False,C<turn|>
+dental,C,C,True,C<turn|>
+pharmacology,C,C,True,C<turn|>
+ophthalmology,B,A,False,B<turn|>
+gynaecology & obstetrics,C,A,False,C<turn|>
+ophthalmology,A,D,False,A<turn|>
+ent,A,A,True,A<turn|>
+dental,C,C,True,C<turn|>
+surgery,D,A,False,D<turn|>
+ent,B,B,True,B<turn|>
+ophthalmology,A,A,True,A<turn|>
+dental,B,D,False,B<turn|>
+medicine,C,C,True,C<turn|>
+dental,D,C,False,D<turn|>
+microbiology,A,C,False,A<turn|>
+pathology,D,B,False,D<turn|>
+pathology,B,B,True,B<turn|>
+dental,B,A,False,B<turn|>
+pathology,A,A,True,A<turn|>
+surgery,A,D,False,A<turn|>
+surgery,A,A,True,A<turn|>
+social & preventive medicine,A,D,False,A<turn|>
+pediatrics,B,A,False,B<turn|>
+dental,A,C,False,A<turn|>
+biochemistry,B,A,False,B<turn|>
+physiology,A,D,False,A<turn|>
+biochemistry,C,C,True,C<turn|>
+dental,C,C,True,C<turn|>
+physiology,D,D,True,D<turn|>
+radiology,A,D,False,A<turn|>
+dental,B,A,False,B<turn|>
+pharmacology,B,C,False,B<turn|>
+pathology,D,A,False,D<turn|>
+pathology,D,A,False,D<turn|>
+dental,A,B,False,A<turn|>
+surgery,C,C,True,C<turn|>
+dental,B,A,False,B<turn|>
+dental,A,A,True,A<turn|>
+surgery,D,D,True,D<turn|>
+medicine,D,C,False,D<turn|>
+pharmacology,A,A,True,A<turn|>
+dental,D,B,False,D<turn|>
+dental,A,A,True,A<turn|>
+radiology,A,A,True,A<turn|>
+dental,A,D,False,A<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+medicine,A,A,True,A<turn|>
+pathology,A,C,False,A<turn|>
+dental,B,B,True,B<turn|>
+biochemistry,A,A,True,A<turn|>
+dental,C,D,False,C<turn|>
+dental,B,B,True,B<turn|>
+medicine,A,B,False,A<turn|>
+pediatrics,A,D,False,A<turn|>
+dental,C,A,False,C<turn|>
+dental,C,C,True,C<turn|>
+pediatrics,B,B,True,B<turn|>
+forensic medicine,A,A,True,A<turn|>
+gynaecology & obstetrics,A,B,False,A<turn|>
+biochemistry,D,D,True,D<turn|>
+social & preventive medicine,A,B,False,A<turn|>
+surgery,B,C,False,B<turn|>
+gynaecology & obstetrics,C,C,True,C<turn|>
+ophthalmology,A,B,False,A<turn|>
+dental,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+pathology,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+surgery,B,C,False,B<turn|>
+dental,A,D,False,A<turn|>
+dental,A,B,False,A<turn|>
+dental,B,B,True,B<turn|>
+ent,C,B,False,C<turn|>
+surgery,A,C,False,A<turn|>
+surgery,B,A,False,B<turn|>
+dental,C,A,False,C<turn|>
+ent,D,A,False,D<turn|>
+gynaecology & obstetrics,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+dental,A,C,False,A<turn|>
+physiology,C,C,True,C<turn|>
+dental,D,A,False,D<turn|>
+ophthalmology,A,B,False,A<turn|>
+dental,C,A,False,C<turn|>
+radiology,D,A,False,D<turn|>
+surgery,A,A,True,A<turn|>
+microbiology,A,B,False,A<turn|>
+medicine,B,B,True,B<turn|>
+forensic medicine,C,C,True,C<turn|>
+dental,B,A,False,B<turn|>
+anatomy,C,B,False,C<turn|>
+forensic medicine,A,B,False,A<turn|>
+dental,A,A,True,A<turn|>
+pediatrics,B,B,True,B<turn|>
+pathology,B,B,True,B<turn|>
+dental,B,B,True,B<turn|>
+dental,D,A,False,D<turn|>
+surgery,B,B,True,B<turn|>
+physiology,C,D,False,C<turn|>
+dental,D,C,False,D<turn|>
+surgery,A,B,False,A<turn|>
+pathology,A,B,False,A<turn|>
+surgery,B,B,True,B<turn|>
+dental,D,B,False,D<turn|>
+surgery,B,C,False,B<turn|>
+dental,B,B,True,B<turn|>
+forensic medicine,C,C,True,C<turn|>
+radiology,A,B,False,A<turn|>
+surgery,A,A,True,A<turn|>
+anatomy,C,D,False,C<turn|>
+dental,C,C,True,C<turn|>
+medicine,D,A,False,D<turn|>
+dental,A,C,False,A<turn|>
+pediatrics,C,C,True,C<turn|>
+medicine,C,C,True,C<turn|>
+pharmacology,D,D,True,D<turn|>
+pediatrics,A,A,True,A<turn|>
+dental,C,D,False,C<turn|>
+dental,D,D,True,D<turn|>
+surgery,B,A,False,B<turn|>
+dental,C,A,False,C<turn|>
+pediatrics,C,C,True,C<turn|>
+dental,C,C,True,C<turn|>
+pharmacology,C,A,False,C<turn|>
+pharmacology,C,C,True,C<turn|>
+pathology,C,A,False,C<turn|>
+dental,A,A,True,A<turn|>
+anatomy,A,D,False,A<turn|>
+pharmacology,C,B,False,C<turn|>
+dental,A,D,False,A<turn|>
+dental,D,A,False,D<turn|>
+social & preventive medicine,B,D,False,B<turn|>
+dental,D,B,False,D<turn|>
+surgery,B,B,True,B<turn|>
+pharmacology,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+pathology,A,A,True,A<turn|>
+anatomy,A,B,False,A<turn|>
+dental,A,D,False,A<turn|>
+pathology,D,D,True,D<turn|>
+dental,C,A,False,C<turn|>
+physiology,D,C,False,D<turn|>
+pharmacology,C,C,True,C<turn|>
+anatomy,D,C,False,D<turn|>
+physiology,A,B,False,A<turn|>
+biochemistry,C,A,False,C<turn|>
+surgery,D,C,False,D<turn|>
+social & preventive medicine,C,A,False,C<turn|>
+surgery,A,D,False,A<turn|>
+dental,A,A,True,A<turn|>
+radiology,A,A,True,A<turn|>
+surgery,D,D,True,D<turn|>
+surgery,C,D,False,C<turn|>
+pathology,A,A,True,A<turn|>
+biochemistry,C,C,True,C<turn|>
+pharmacology,B,D,False,B<turn|>
+dental,A,C,False,A<turn|>
+pathology,D,A,False,D<turn|>
+dental,A,A,True,A<turn|>
+radiology,A,C,False,A<turn|>
+dental,C,A,False,C<turn|>
+biochemistry,B,D,False,B<turn|>
+physiology,A,C,False,A<turn|>
+pharmacology,B,A,False,B<turn|>
+surgery,A,A,True,A<turn|>
+dental,C,C,True,C<turn|>
+pharmacology,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+dental,A,C,False,A<turn|>
+dental,A,A,True,A<turn|>
+biochemistry,A,D,False,A<turn|>
+medicine,C,C,True,C<turn|>
+pathology,D,B,False,D<turn|>
+physiology,A,A,True,A<turn|>
+surgery,C,C,True,C<turn|>
+dental,B,B,True,B<turn|>
+microbiology,A,A,True,A<turn|>
+dental,D,A,False,D<turn|>
+dental,D,C,False,D<turn|>
+dental,C,C,True,C<turn|>
+medicine,D,D,True,D<turn|>
+surgery,C,C,True,C<turn|>
+physiology,B,B,True,B<turn|>
+gynaecology & obstetrics,D,D,True,D<turn|>
+pathology,B,B,True,B<turn|>
+dental,D,A,False,D<turn|>
+dental,B,B,True,B<turn|>
+dental,C,A,False,C<turn|>
+pediatrics,B,C,False,B<turn|>
+dental,B,B,True,B<turn|>
+pathology,D,D,True,D<turn|>
+pathology,B,A,False,B<turn|>
+medicine,A,A,True,A<turn|>
+dental,D,C,False,D<turn|>
+pediatrics,D,D,True,D<turn|>
+dental,A,C,False,A<turn|>
+pathology,C,A,False,C<turn|>
+dental,B,A,False,B<turn|>
+microbiology,C,B,False,C<turn|>
+dental,C,D,False,C<turn|>
+anatomy,A,A,True,A<turn|>
+dental,A,B,False,A<turn|>
+dental,B,C,False,B<turn|>
+surgery,B,B,True,B<turn|>
+pathology,A,C,False,A<turn|>
+medicine,D,D,True,D<turn|>
+dental,D,D,True,D<turn|>
+pharmacology,C,B,False,C<turn|>
+dental,C,A,False,C<turn|>
+surgery,B,C,False,B<turn|>
+dental,A,A,True,A<turn|>
+surgery,A,A,True,A<turn|>
+medicine,C,C,True,C<turn|>
+dental,C,A,False,C<turn|>
+dental,C,D,False,C<turn|>
+social & preventive medicine,C,C,True,C<turn|>
+dental,D,D,True,D<turn|>
+surgery,B,B,True,B<turn|>
+dental,A,D,False,A<turn|>
+dental,D,C,False,D<turn|>
+radiology,D,C,False,D<turn|>
+medicine,D,B,False,D<turn|>
+dental,C,B,False,C<turn|>
+pediatrics,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+anatomy,D,D,True,D<turn|>
+physiology,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+pediatrics,C,C,True,C<turn|>
+gynaecology & obstetrics,B,A,False,B<turn|>
+medicine,B,B,True,B<turn|>
+dental,B,B,True,B<turn|>
+pharmacology,D,D,True,D<turn|>
+pharmacology,C,C,True,C<turn|>
+pharmacology,A,B,False,A<turn|>
+dental,D,D,True,D<turn|>
+social & preventive medicine,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+anatomy,A,D,False,A<turn|>
+social & preventive medicine,A,D,False,A<turn|>
+pathology,C,C,True,C<turn|>
+pathology,B,B,True,B<turn|>
+physiology,D,D,True,D<turn|>
+pharmacology,A,A,True,A<turn|>
+anatomy,D,D,True,D<turn|>
+pediatrics,B,A,False,B<turn|>
+dental,D,A,False,D<turn|>
+pharmacology,D,D,True,D<turn|>
+gynaecology & obstetrics,C,B,False,C<turn|>
+dental,D,B,False,D<turn|>
+dental,D,B,False,D<turn|>
+anatomy,C,C,True,C<turn|>
+dental,C,B,False,C<turn|>
+surgery,B,D,False,B<turn|>
+pathology,C,C,True,C<turn|>
+dental,D,D,True,D<turn|>
+pathology,A,A,True,A<turn|>
+social & preventive medicine,A,D,False,A<turn|>
+dental,A,C,False,A<turn|>
+dental,A,A,True,A<turn|>
+pharmacology,C,C,True,C<turn|>
+physiology,A,A,True,A<turn|>
+anatomy,C,D,False,C<turn|>
+dental,D,D,True,D<turn|>
+pathology,A,A,True,A<turn|>
+dental,D,C,False,D<turn|>
+physiology,B,C,False,B<turn|>
+dental,B,B,True,B<turn|>
+dental,C,C,True,C<turn|>
+forensic medicine,A,B,False,A<turn|>
+pathology,B,B,True,B<turn|>
+pharmacology,B,B,True,B<turn|>
+dental,D,B,False,D<turn|>
+anatomy,C,C,True,C<turn|>
+pharmacology,C,B,False,C<turn|>
+pediatrics,B,B,True,B<turn|>
+medicine,B,B,True,B<turn|>
+dental,B,D,False,B<turn|>
+dental,B,B,True,B<turn|>
+dental,C,A,False,C<turn|>
+surgery,D,D,True,D<turn|>
+dental,D,B,False,D<turn|>
+dental,A,A,True,A<turn|>
+anatomy,D,C,False,D<turn|>
+dental,B,C,False,B<turn|>
+gynaecology & obstetrics,B,A,False,B<turn|>
+forensic medicine,C,C,True,C<turn|>
+physiology,A,B,False,A<turn|>
+radiology,A,C,False,A<turn|>
+dental,B,A,False,B<turn|>
+dental,D,C,False,D<turn|>
+radiology,A,B,False,A<turn|>
+anatomy,B,B,True,B<turn|>
+dental,A,B,False,A<turn|>
+pathology,A,A,True,A<turn|>
+medicine,A,A,True,A<turn|>
+pathology,D,D,True,D<turn|>
+pharmacology,A,A,True,A<turn|>
+social & preventive medicine,C,B,False,C<turn|>
+dental,A,A,True,A<turn|>
+dental,B,D,False,B<turn|>
+dental,A,C,False,A<turn|>
+pediatrics,A,C,False,A<turn|>
+dental,C,B,False,C<turn|>
+radiology,,A,False,"I am sorry, but you have not provided an image for me to answer the question. Please provide"
+surgery,D,B,False,D<turn|>
+microbiology,C,C,True,C<turn|>
+dental,B,A,False,B<turn|>
+dental,B,B,True,B<turn|>
+pediatrics,A,A,True,A<turn|>
+medicine,B,D,False,B<turn|>
+anatomy,D,B,False,D<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+pharmacology,D,D,True,D<turn|>
+pathology,D,C,False,D<turn|>
+medicine,B,C,False,B<turn|>
+pediatrics,C,C,True,C<turn|>
+dental,D,A,False,D<turn|>
+pathology,A,C,False,A<turn|>
+microbiology,C,C,True,C<turn|>
+ophthalmology,D,B,False,D<turn|>
+pathology,C,C,True,C<turn|>
+social & preventive medicine,B,B,True,B<turn|>
+gynaecology & obstetrics,D,B,False,D<turn|>
+social & preventive medicine,C,C,True,C<turn|>
+dental,C,B,False,C<turn|>
+pediatrics,B,C,False,B<turn|>
+pediatrics,B,C,False,B<turn|>
+social & preventive medicine,C,B,False,C<turn|>
+surgery,D,B,False,D<turn|>
+pharmacology,A,A,True,A<turn|>
+pathology,B,A,False,B<turn|>
+pediatrics,B,B,True,B<turn|>
+pathology,C,D,False,C<turn|>
+pharmacology,C,C,True,C<turn|>
+dental,A,B,False,A<turn|>
+surgery,A,A,True,A<turn|>
+physiology,A,D,False,A<turn|>
+biochemistry,C,C,True,C<turn|>
+social & preventive medicine,C,C,True,C<turn|>
+social & preventive medicine,C,D,False,C<turn|>
+surgery,D,C,False,D<turn|>
+anatomy,D,D,True,D<turn|>
+dental,B,B,True,B<turn|>
+pathology,A,A,True,A<turn|>
+radiology,B,B,True,B<turn|>
+biochemistry,C,C,True,C<turn|>
+pathology,A,A,True,A<turn|>
+medicine,D,D,True,D<turn|>
+gynaecology & obstetrics,A,D,False,A<turn|>
+pathology,A,B,False,A<turn|>
+pediatrics,A,B,False,A<turn|>
+surgery,A,A,True,A<turn|>
+pharmacology,A,D,False,A<turn|>
+dental,C,C,True,C<turn|>
+surgery,B,A,False,B<turn|>
+physiology,A,A,True,A<turn|>
+pathology,A,B,False,A<turn|>
+physiology,B,B,True,B<turn|>
+pathology,A,A,True,A<turn|>
+pathology,D,D,True,D<turn|>
+surgery,C,B,False,C<turn|>
+dental,A,D,False,A<turn|>
+medicine,D,B,False,D<turn|>
+dental,B,B,True,B<turn|>
+pediatrics,A,A,True,A<turn|>
+biochemistry,D,A,False,D<turn|>
+ophthalmology,C,D,False,C<turn|>
+surgery,A,B,False,A<turn|>
+surgery,A,A,True,A<turn|>
+social & preventive medicine,A,A,True,A<turn|>
+dental,A,B,False,A<turn|>
+gynaecology & obstetrics,D,D,True,D<turn|>
+dental,A,A,True,A<turn|>
+anatomy,D,B,False,D<turn|>
+pathology,D,D,True,D<turn|>
+dental,D,D,True,D<turn|>
+pediatrics,B,A,False,B<turn|>
+ophthalmology,C,C,True,C<turn|>
+pediatrics,A,D,False,A<turn|>
+surgery,A,A,True,A<turn|>
+dental,A,C,False,A<turn|>
+dental,C,C,True,C<turn|>
+dental,D,B,False,D<turn|>
+dental,B,A,False,B<turn|>
+physiology,B,B,True,B<turn|>
+medicine,A,B,False,A<turn|>
+surgery,C,D,False,C<turn|>
+dental,D,D,True,D<turn|>
+anatomy,D,B,False,D<turn|>
+anatomy,D,D,True,D<turn|>
+dental,B,B,True,B<turn|>
+ent,A,B,False,A<turn|>
+gynaecology & obstetrics,D,C,False,D<turn|>
+pharmacology,D,B,False,D<turn|>
+pediatrics,D,B,False,D<turn|>
+anatomy,A,C,False,A<turn|>
+dental,A,B,False,A<turn|>
+anatomy,A,A,True,A<turn|>
+dental,A,B,False,A<turn|>
+dental,A,B,False,A<turn|>
+social & preventive medicine,A,C,False,A<turn|>
+physiology,D,D,True,D<turn|>
+dental,A,C,False,A<turn|>
+surgery,C,D,False,C<turn|>
+pathology,A,B,False,A<turn|>
+dental,C,A,False,C<turn|>
+anatomy,C,A,False,C<turn|>
+dental,C,C,True,C<turn|>
+dental,D,D,True,D<turn|>
+dental,A,A,True,A<turn|>
+dental,B,C,False,B<turn|>
+medicine,C,C,True,C<turn|>
+medicine,A,A,True,A<turn|>
+surgery,A,A,True,A<turn|>
+anatomy,D,D,True,D<turn|>
+medicine,B,B,True,B<turn|>
+medicine,A,B,False,A<turn|>
+surgery,B,D,False,B<turn|>
+dental,D,A,False,D<turn|>
+medicine,A,A,True,A<turn|>
+dental,C,D,False,C<turn|>
+dental,A,A,True,A<turn|>
+medicine,C,C,True,C<turn|>
+dental,A,B,False,A<turn|>
+pathology,C,C,True,C<turn|>
+dental,C,A,False,C<turn|>
+pharmacology,C,B,False,C<turn|>
+dental,C,C,True,C<turn|>
+surgery,C,D,False,C<turn|>
+pathology,B,B,True,B<turn|>
+pharmacology,B,B,True,B<turn|>
+dental,A,B,False,A<turn|>
+dental,D,B,False,D<turn|>
+dental,B,A,False,B<turn|>
+pharmacology,C,C,True,C<turn|>
+dental,B,A,False,B<turn|>
+dental,C,C,True,C<turn|>
+pediatrics,C,C,True,C<turn|>
+dental,B,A,False,B<turn|>
+pathology,D,C,False,D<turn|>
+gynaecology & obstetrics,A,D,False,A<turn|>
+medicine,B,D,False,B<turn|>
+forensic medicine,D,C,False,D<turn|>
+anatomy,D,D,True,D<turn|>
+surgery,A,D,False,A<turn|>
+social & preventive medicine,D,B,False,D<turn|>
+dental,D,A,False,D<turn|>
+surgery,A,A,True,A<turn|>
+forensic medicine,C,B,False,C<turn|>
+dental,A,D,False,A<turn|>
+pathology,B,B,True,B<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+pathology,B,B,True,B<turn|>
+surgery,C,A,False,C<turn|>
+surgery,D,D,True,D<turn|>
+biochemistry,D,D,True,D<turn|>
+pediatrics,B,A,False,B<turn|>
+dental,C,D,False,C<turn|>
+dental,A,A,True,A<turn|>
+dental,B,A,False,B<turn|>
+pediatrics,C,A,False,C<turn|>
+dental,A,B,False,A<turn|>
+social & preventive medicine,B,C,False,B<turn|>
+surgery,D,A,False,D<turn|>
+surgery,A,B,False,A<turn|>
+medicine,A,D,False,A<turn|>
+surgery,B,B,True,B<turn|>
+medicine,A,A,True,A<turn|>
+physiology,D,D,True,D<turn|>
+dental,B,D,False,B<turn|>
+anatomy,B,B,True,B<turn|>
+gynaecology & obstetrics,D,B,False,D<turn|>
+gynaecology & obstetrics,D,D,True,D<turn|>
+surgery,D,D,True,D<turn|>
+dental,D,B,False,D<turn|>
+pathology,A,A,True,A<turn|>
+pediatrics,B,A,False,B<turn|>
+pathology,B,C,False,B<turn|>
+surgery,B,B,True,B<turn|>
+surgery,B,C,False,B<turn|>
+dental,A,A,True,A<turn|>
+pharmacology,C,C,True,C<turn|>
+biochemistry,A,B,False,A<turn|>
+medicine,D,D,True,D<turn|>
+medicine,D,D,True,D<turn|>
+medicine,B,D,False,B<turn|>
+dental,C,C,True,C<turn|>
+dental,B,C,False,B<turn|>
+anatomy,B,B,True,B<turn|>
+surgery,C,A,False,C<turn|>
+pathology,D,D,True,D<turn|>
+anatomy,C,C,True,C<turn|>
+pediatrics,B,B,True,B<turn|>
+anatomy,A,A,True,A<turn|>
+dental,C,C,True,C<turn|>
+pediatrics,C,C,True,C<turn|>
+pathology,C,D,False,C<turn|>
+dental,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+pharmacology,A,A,True,A<turn|>
+gynaecology & obstetrics,C,C,True,C<turn|>
+medicine,C,B,False,C<turn|>
+ophthalmology,B,B,True,B<turn|>
+radiology,A,A,True,A<turn|>
+dental,D,C,False,D<turn|>
+dental,A,B,False,A<turn|>
+gynaecology & obstetrics,C,D,False,C<turn|>
+medicine,B,B,True,B<turn|>
+dental,C,C,True,C<turn|>
+gynaecology & obstetrics,D,D,True,D<turn|>
+dental,A,D,False,A<turn|>
+medicine,D,D,True,D<turn|>
+pediatrics,B,D,False,B<turn|>
+ent,A,A,True,A<turn|>
+pediatrics,D,B,False,D<turn|>
+dental,A,A,True,A<turn|>
+medicine,D,B,False,D<turn|>
+dental,A,D,False,A<turn|>
+microbiology,D,D,True,D<turn|>
+biochemistry,D,D,True,D<turn|>
+pediatrics,C,D,False,C<turn|>
+dental,A,B,False,A<turn|>
+ent,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+dental,D,A,False,D<turn|>
+pathology,A,A,True,A<turn|>
+pharmacology,B,A,False,B<turn|>
+gynaecology & obstetrics,A,D,False,A<turn|>
+pharmacology,A,B,False,A<turn|>
+dental,C,C,True,C<turn|>
+dental,C,C,True,C<turn|>
+anatomy,A,D,False,A<turn|>
+dental,B,A,False,B<turn|>
+pathology,A,D,False,A<turn|>
+pathology,C,C,True,C<turn|>
+microbiology,A,C,False,A<turn|>
+surgery,C,B,False,C<turn|>
+anatomy,C,C,True,C<turn|>
+dental,A,D,False,A<turn|>
+medicine,C,B,False,C<turn|>
+ophthalmology,A,A,True,A<turn|>
+dental,D,A,False,D<turn|>
+surgery,C,D,False,C<turn|>
+pathology,D,C,False,D<turn|>
+surgery,A,A,True,A<turn|>
+medicine,A,A,True,A<turn|>
+anatomy,D,A,False,D<turn|>
+dental,C,B,False,C<turn|>
+biochemistry,C,C,True,C<turn|>
+physiology,B,B,True,B<turn|>
+pathology,D,B,False,D<turn|>
+dental,A,C,False,A<turn|>
+pathology,B,B,True,B<turn|>
+pathology,D,A,False,D<turn|>
+pharmacology,D,D,True,D<turn|>
+dental,C,C,True,C<turn|>
+surgery,A,B,False,A<turn|>
+dental,C,B,False,C<turn|>
+surgery,B,D,False,B<turn|>
+pharmacology,B,B,True,B<turn|>
+dental,C,C,True,C<turn|>
+pediatrics,A,A,True,A<turn|>
+dental,B,A,False,B<turn|>
+forensic medicine,A,C,False,A<turn|>
+pharmacology,D,D,True,D<turn|>
+social & preventive medicine,B,D,False,B<turn|>
+pediatrics,D,D,True,D<turn|>
+physiology,A,A,True,A<turn|>
+pathology,C,A,False,C<turn|>
+radiology,D,D,True,D<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+dental,D,B,False,D<turn|>
+biochemistry,A,A,True,A<turn|>
+gynaecology & obstetrics,D,D,True,D<turn|>
+surgery,C,C,True,C<turn|>
+pharmacology,B,B,True,B<turn|>
+microbiology,D,A,False,D<turn|>
+pathology,A,B,False,A<turn|>
+gynaecology & obstetrics,C,B,False,C<turn|>
+radiology,B,D,False,B<turn|>
+dental,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+dental,B,A,False,B<turn|>
+physiology,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+dental,A,C,False,A<turn|>
+dental,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+social & preventive medicine,B,B,True,B<turn|>
+anatomy,C,C,True,C<turn|>
+medicine,C,A,False,C<turn|>
+pediatrics,D,C,False,D<turn|>
+dental,D,A,False,D<turn|>
+dental,D,D,True,D<turn|>
+surgery,C,C,True,C<turn|>
+forensic medicine,B,A,False,B<turn|>
+dental,A,B,False,A<turn|>
+pediatrics,D,B,False,D<turn|>
+dental,D,D,True,D<turn|>
+biochemistry,B,B,True,B<turn|>
+pharmacology,D,B,False,D<turn|>
+surgery,A,C,False,A<turn|>
+dental,D,D,True,D<turn|>
+ent,A,C,False,A<turn|>
+dental,D,D,True,D<turn|>
+microbiology,C,A,False,C<turn|>
+dental,D,C,False,D<turn|>
+microbiology,B,B,True,B<turn|>
+anatomy,D,A,False,D<turn|>
+dental,B,B,True,B<turn|>
+radiology,D,C,False,D<turn|>
+dental,D,D,True,D<turn|>
+pathology,C,D,False,C<turn|>
+forensic medicine,D,D,True,D<turn|>
+social & preventive medicine,A,C,False,A<turn|>
+microbiology,C,C,True,C<turn|>
+microbiology,C,C,True,C<turn|>
+gynaecology & obstetrics,B,A,False,B<turn|>
+medicine,A,B,False,A<turn|>
+pharmacology,B,B,True,B<turn|>
+surgery,A,A,True,A<turn|>
+surgery,D,D,True,D<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+pharmacology,C,C,True,C<turn|>
+pathology,C,C,True,C<turn|>
+gynaecology & obstetrics,C,A,False,C<turn|>
+dental,D,B,False,D<turn|>
+radiology,A,A,True,A<turn|>
+pathology,C,B,False,C<turn|>
+pediatrics,B,D,False,B<turn|>
+dental,B,A,False,B<turn|>
+dental,D,B,False,D<turn|>
+surgery,D,A,False,D<turn|>
+surgery,B,B,True,B<turn|>
+ent,C,C,True,C<turn|>
+anatomy,D,A,False,D<turn|>
+pathology,A,A,True,A<turn|>
+pathology,C,C,True,C<turn|>
+anatomy,A,A,True,A<turn|>
+dental,A,D,False,A<turn|>
+biochemistry,B,B,True,B<turn|>
+dental,A,D,False,A<turn|>
+pediatrics,C,A,False,C<turn|>
+social & preventive medicine,D,A,False,D<turn|>
+dental,C,D,False,C<turn|>
+pathology,C,C,True,C<turn|>
+physiology,B,B,True,B<turn|>
+radiology,D,C,False,D<turn|>
+gynaecology & obstetrics,C,C,True,C<turn|>
+dental,D,A,False,D<turn|>
+dental,A,B,False,A<turn|>
+medicine,B,C,False,B<turn|>
+pathology,C,B,False,C<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+pathology,D,D,True,D<turn|>
+social & preventive medicine,A,C,False,A<turn|>
+forensic medicine,C,A,False,C<turn|>
+forensic medicine,A,A,True,A<turn|>
+surgery,B,C,False,B<turn|>
+pediatrics,A,B,False,A<turn|>
+biochemistry,A,D,False,A<turn|>
+pathology,B,D,False,B<turn|>
+surgery,A,A,True,A<turn|>
+biochemistry,A,A,True,A<turn|>
+forensic medicine,C,A,False,C<turn|>
+gynaecology & obstetrics,C,D,False,C<turn|>
+surgery,A,D,False,A<turn|>
+physiology,D,B,False,D<turn|>
+pathology,A,D,False,A<turn|>
+dental,B,B,True,B<turn|>
+pharmacology,A,C,False,A<turn|>
+dental,D,B,False,D<turn|>
+dental,A,D,False,A<turn|>
+ophthalmology,D,D,True,D<turn|>
+dental,D,B,False,D<turn|>
+medicine,D,C,False,D<turn|>
+pharmacology,A,A,True,A<turn|>
+dental,D,B,False,D<turn|>
+anatomy,A,A,True,A<turn|>
+dental,D,B,False,D<turn|>
+dental,C,C,True,C<turn|>
+dental,D,D,True,D<turn|>
+medicine,A,A,True,A<turn|>
+pediatrics,D,A,False,D<turn|>
+radiology,A,C,False,A<turn|>
+radiology,C,A,False,C<turn|>
+pathology,A,A,True,A<turn|>
+dental,D,A,False,D<turn|>
+anatomy,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+dental,C,C,True,C<turn|>
+gynaecology & obstetrics,A,B,False,A<turn|>
+pharmacology,A,B,False,A<turn|>
+surgery,D,D,True,D<turn|>
+gynaecology & obstetrics,B,B,True,B<turn|>
+dental,D,D,True,D<turn|>
+biochemistry,A,A,True,A<turn|>
+dental,A,B,False,A<turn|>
+dental,C,B,False,C<turn|>
+pharmacology,A,A,True,A<turn|>
+social & preventive medicine,A,A,True,A<turn|>
+medicine,A,D,False,A<turn|>
+dental,A,A,True,A<turn|>
+medicine,C,C,True,C<turn|>
+anatomy,A,A,True,A<turn|>
+medicine,B,A,False,B<turn|>
+surgery,D,D,True,D<turn|>
+pediatrics,D,C,False,D<turn|>
+anatomy,D,C,False,D<turn|>
+physiology,B,B,True,B<turn|>
+pathology,A,D,False,A<turn|>
+medicine,A,A,True,A<turn|>
+surgery,A,B,False,A<turn|>
+anatomy,A,B,False,A<turn|>
+dental,C,A,False,C<turn|>
+anatomy,A,A,True,A<turn|>
+biochemistry,D,A,False,D<turn|>
+medicine,A,A,True,A<turn|>
+surgery,B,C,False,B<turn|>
+dental,B,C,False,B<turn|>
+gynaecology & obstetrics,D,A,False,D<turn|>
+surgery,A,A,True,A<turn|>
+dental,A,B,False,A<turn|>
+medicine,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+pathology,D,D,True,D<turn|>
+biochemistry,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+pathology,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+microbiology,A,A,True,A<turn|>
+gynaecology & obstetrics,D,D,True,D<turn|>
+pharmacology,D,C,False,D<turn|>
+radiology,B,B,True,B<turn|>
+microbiology,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+medicine,A,C,False,A<turn|>
+pathology,A,D,False,A<turn|>
+dental,D,C,False,D<turn|>
+medicine,B,B,True,B<turn|>
+biochemistry,D,D,True,D<turn|>
+dental,C,B,False,C<turn|>
+dental,A,A,True,A<turn|>
+pathology,B,B,True,B<turn|>
+anatomy,B,B,True,B<turn|>
+dental,A,B,False,A<turn|>
+medicine,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+medicine,B,B,True,B<turn|>
+pediatrics,D,C,False,D<turn|>
+dental,B,B,True,B<turn|>
+dental,D,A,False,D<turn|>
+dental,A,C,False,A<turn|>
+dental,C,B,False,C<turn|>
+pathology,C,C,True,C<turn|>
+biochemistry,C,C,True,C<turn|>
+dental,C,C,True,C<turn|>
+pediatrics,C,A,False,C<turn|>
+dental,D,D,True,D<turn|>
+forensic medicine,B,C,False,B<turn|>
+dental,C,C,True,C<turn|>
+anatomy,D,B,False,D<turn|>
+surgery,B,D,False,B<turn|>
+dental,D,C,False,D<turn|>
+dental,A,B,False,A<turn|>
+dental,D,C,False,D<turn|>
+biochemistry,C,D,False,C<turn|>
+medicine,B,B,True,B<turn|>
+pathology,A,A,True,A<turn|>
+gynaecology & obstetrics,C,C,True,C<turn|>
+pathology,B,B,True,B<turn|>
+pathology,D,D,True,D<turn|>
+surgery,C,C,True,C<turn|>
+pharmacology,A,A,True,A<turn|>
+dental,A,C,False,A<turn|>
+social & preventive medicine,A,C,False,A<turn|>
+physiology,A,A,True,A<turn|>
+pathology,B,A,False,B<turn|>
+pathology,D,D,True,D<turn|>
+ophthalmology,C,B,False,C<turn|>
+pathology,D,B,False,D<turn|>
+ophthalmology,D,D,True,D<turn|>
+pathology,B,B,True,B<turn|>
+dental,A,B,False,A<turn|>
+dental,A,A,True,A<turn|>
+dental,D,B,False,D<turn|>
+microbiology,A,A,True,A<turn|>
+surgery,B,A,False,B<turn|>
+pharmacology,C,B,False,C<turn|>
+pharmacology,C,C,True,C<turn|>
+anatomy,A,C,False,A<turn|>
+surgery,C,B,False,C<turn|>
+ent,C,C,True,C<turn|>
+dental,D,C,False,D<turn|>
+dental,C,C,True,C<turn|>
+radiology,B,B,True,B<turn|>
+radiology,A,D,False,A<turn|>
+dental,A,D,False,A<turn|>
+surgery,D,D,True,D<turn|>
+biochemistry,C,C,True,C<turn|>
+pharmacology,B,B,True,B<turn|>
+pediatrics,B,B,True,B<turn|>
+anatomy,D,D,True,D<turn|>
+pediatrics,D,D,True,D<turn|>
+pathology,C,D,False,C<turn|>
+dental,C,C,True,C<turn|>
+anatomy,D,D,True,D<turn|>
+anatomy,B,B,True,B<turn|>
+pathology,B,B,True,B<turn|>
+dental,B,C,False,B<turn|>
+gynaecology & obstetrics,C,C,True,C<turn|>
+biochemistry,C,C,True,C<turn|>
+dental,B,B,True,B<turn|>
+surgery,C,C,True,C<turn|>
+biochemistry,A,A,True,A<turn|>
+dental,C,B,False,C<turn|>
+anatomy,D,A,False,D<turn|>
+dental,B,B,True,B<turn|>
+anatomy,D,D,True,D<turn|>
+pharmacology,A,A,True,A<turn|>
+dental,D,C,False,D<turn|>
+pathology,D,A,False,D<turn|>
+dental,C,A,False,C<turn|>
+anatomy,C,B,False,C<turn|>
+dental,C,C,True,C<turn|>
+anatomy,D,D,True,D<turn|>
+ent,B,A,False,B<turn|>
+dental,A,A,True,A<turn|>
+social & preventive medicine,D,A,False,D<turn|>
+dental,A,A,True,A<turn|>
+dental,D,D,True,D<turn|>
+dental,A,C,False,A<turn|>
+social & preventive medicine,B,B,True,B<turn|>
+surgery,D,A,False,D<turn|>
+anatomy,D,A,False,D<turn|>
+anatomy,D,D,True,D<turn|>
+pharmacology,D,B,False,D<turn|>
+pathology,B,A,False,B<turn|>
+pediatrics,A,B,False,A<turn|>
+dental,A,C,False,A<turn|>
+pediatrics,B,D,False,B<turn|>
+dental,C,B,False,C<turn|>
+medicine,D,A,False,D<turn|>
+forensic medicine,A,A,True,A<turn|>
+ent,B,B,True,B<turn|>
+dental,C,D,False,C<turn|>
+gynaecology & obstetrics,C,C,True,C<turn|>
+dental,D,C,False,D<turn|>
+surgery,D,A,False,D<turn|>
+surgery,A,C,False,A<turn|>
+forensic medicine,D,B,False,D<turn|>
+forensic medicine,B,A,False,B<turn|>
+social & preventive medicine,A,B,False,A<turn|>
+medicine,C,C,True,C<turn|>
+dental,B,A,False,B<turn|>
+pathology,A,A,True,A<turn|>
+medicine,B,A,False,B<turn|>
+pharmacology,D,B,False,D<turn|>
+medicine,A,A,True,A<turn|>
+social & preventive medicine,A,B,False,A<turn|>
+dental,D,D,True,D<turn|>
+pediatrics,B,B,True,B<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+dental,D,B,False,D<turn|>
+physiology,A,A,True,A<turn|>
+dental,C,A,False,C<turn|>
+dental,A,A,True,A<turn|>
+biochemistry,B,B,True,B<turn|>
+ophthalmology,B,B,True,B<turn|>
+anatomy,A,A,True,A<turn|>
+gynaecology & obstetrics,C,C,True,C<turn|>
+social & preventive medicine,A,A,True,A<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+surgery,C,C,True,C<turn|>
+medicine,C,C,True,C<turn|>
+pharmacology,B,B,True,B<turn|>
+surgery,C,C,True,C<turn|>
+medicine,A,C,False,A<turn|>
+medicine,D,B,False,D<turn|>
+dental,B,A,False,B<turn|>
+surgery,D,B,False,D<turn|>
+pediatrics,A,A,True,A<turn|>
+biochemistry,A,A,True,A<turn|>
+pathology,A,A,True,A<turn|>
+dental,D,D,True,D<turn|>
+dental,B,B,True,B<turn|>
+pharmacology,A,D,False,A<turn|>
+biochemistry,C,C,True,C<turn|>
+dental,A,B,False,A<turn|>
+anatomy,B,A,False,B<turn|>
+dental,B,A,False,B<turn|>
+medicine,A,D,False,A<turn|>
+dental,D,B,False,D<turn|>
+surgery,A,C,False,A<turn|>
+dental,A,C,False,A<turn|>
+dental,C,C,True,C<turn|>
+dental,B,A,False,B<turn|>
+biochemistry,C,D,False,C<turn|>
+radiology,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+pharmacology,B,A,False,B<turn|>
+dental,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+dental,A,C,False,A<turn|>
+surgery,A,A,True,A<turn|>
+pediatrics,A,A,True,A<turn|>
+pharmacology,A,A,True,A<turn|>
+pharmacology,C,C,True,C<turn|>
+physiology,D,D,True,D<turn|>
+forensic medicine,B,B,True,B<turn|>
+medicine,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+dental,C,D,False,C<turn|>
+forensic medicine,B,A,False,B<turn|>
+surgery,D,B,False,D<turn|>
+medicine,D,D,True,D<turn|>
+forensic medicine,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+dental,D,C,False,D<turn|>
+pharmacology,B,C,False,B<turn|>
+dental,B,A,False,B<turn|>
+dental,D,B,False,D<turn|>
+dental,D,A,False,D<turn|>
+surgery,B,C,False,B<turn|>
+gynaecology & obstetrics,D,B,False,D<turn|>
+dental,B,B,True,B<turn|>
+dental,D,D,True,D<turn|>
+dental,A,A,True,A<turn|>
+medicine,C,A,False,C<turn|>
+physiology,C,C,True,C<turn|>
+medicine,B,B,True,B<turn|>
+dental,D,B,False,D<turn|>
+dental,B,A,False,B<turn|>
+microbiology,D,B,False,D<turn|>
+medicine,D,A,False,D<turn|>
+dental,B,B,True,B<turn|>
+anatomy,A,A,True,A<turn|>
+pharmacology,A,A,True,A<turn|>
+pediatrics,D,D,True,D<turn|>
+dental,D,D,True,D<turn|>
+pediatrics,A,A,True,A<turn|>
+pediatrics,B,A,False,B<turn|>
+pathology,A,A,True,A<turn|>
+pediatrics,C,B,False,C<turn|>
+dental,D,B,False,D<turn|>
+surgery,D,B,False,D<turn|>
+pharmacology,C,C,True,C<turn|>
+pediatrics,B,A,False,B<turn|>
+gynaecology & obstetrics,D,A,False,D<turn|>
+pharmacology,A,B,False,A<turn|>
+dental,C,C,True,C<turn|>
+dental,A,D,False,A<turn|>
+microbiology,A,A,True,A<turn|>
+pediatrics,C,C,True,C<turn|>
+medicine,C,A,False,C<turn|>
+medicine,C,C,True,C<turn|>
+pathology,A,A,True,A<turn|>
+surgery,C,A,False,C<turn|>
+physiology,C,C,True,C<turn|>
+social & preventive medicine,D,A,False,D<turn|>
+dental,A,B,False,A<turn|>
+social & preventive medicine,B,B,True,B<turn|>
+physiology,C,C,True,C<turn|>
+pathology,C,C,True,C<turn|>
+anatomy,C,C,True,C<turn|>
+dental,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+dental,A,B,False,A<turn|>
+pharmacology,A,A,True,A<turn|>
+forensic medicine,A,A,True,A<turn|>
+ent,B,A,False,B<turn|>
+dental,A,B,False,A<turn|>
+pediatrics,A,A,True,A<turn|>
+dental,C,A,False,C<turn|>
+dental,C,A,False,C<turn|>
+pharmacology,A,A,True,A<turn|>
+medicine,C,D,False,C<turn|>
+dental,B,A,False,B<turn|>
+physiology,A,B,False,A<turn|>
+pathology,C,B,False,C<turn|>
+medicine,C,C,True,C<turn|>
+microbiology,D,B,False,D<turn|>
+dental,A,A,True,A<turn|>
+pathology,A,A,True,A<turn|>
+anatomy,C,B,False,C<turn|>
+medicine,C,D,False,C<turn|>
+pharmacology,A,A,True,A<turn|>
+medicine,D,D,True,D<turn|>
+surgery,C,C,True,C<turn|>
+pediatrics,D,D,True,D<turn|>
+pathology,B,D,False,B<turn|>
+microbiology,D,C,False,D<turn|>
+dental,C,D,False,C<turn|>
+pathology,A,D,False,A<turn|>
+dental,D,B,False,D<turn|>
+medicine,A,D,False,A<turn|>
+dental,A,A,True,A<turn|>
+surgery,D,A,False,D<turn|>
+biochemistry,B,D,False,B<turn|>
+dental,D,A,False,D<turn|>
+pharmacology,B,B,True,B<turn|>
+anatomy,C,A,False,C<turn|>
+gynaecology & obstetrics,A,C,False,A<turn|>
+social & preventive medicine,B,D,False,B<turn|>
+anatomy,D,D,True,D<turn|>
+dental,D,C,False,D<turn|>
+pediatrics,A,C,False,A<turn|>
+dental,B,A,False,B<turn|>
+social & preventive medicine,C,D,False,C<turn|>
+ent,B,C,False,B<turn|>
+pediatrics,D,D,True,D<turn|>
+biochemistry,C,C,True,C<turn|>
+dental,C,B,False,C<turn|>
+anatomy,D,C,False,D<turn|>
+pharmacology,A,A,True,A<turn|>
+ent,B,B,True,B<turn|>
+pathology,B,A,False,B<turn|>
+dental,D,A,False,D<turn|>
+ophthalmology,A,B,False,A<turn|>
+dental,B,B,True,B<turn|>
+medicine,A,D,False,A<turn|>
+dental,A,B,False,A<turn|>
+dental,A,D,False,A<turn|>
+pharmacology,A,A,True,A<turn|>
+biochemistry,B,B,True,B<turn|>
+dental,C,C,True,C<turn|>
+pharmacology,A,A,True,A<turn|>
+pathology,B,B,True,B<turn|>
+surgery,A,B,False,A<turn|>
+dental,D,B,False,D<turn|>
+surgery,D,B,False,D<turn|>
+anatomy,D,C,False,D<turn|>
+radiology,C,B,False,C<turn|>
+biochemistry,C,C,True,C<turn|>
+dental,D,A,False,D<turn|>
+pediatrics,A,B,False,A<turn|>
+forensic medicine,D,A,False,D<turn|>
+dental,B,B,True,B<turn|>
+dental,D,D,True,D<turn|>
+pharmacology,A,A,True,A<turn|>
+biochemistry,C,D,False,C<turn|>
+surgery,A,C,False,A<turn|>
+physiology,B,B,True,B<turn|>
+dental,C,C,True,C<turn|>
+dental,D,D,True,D<turn|>
+anatomy,A,C,False,A<turn|>
+medicine,A,A,True,A<turn|>
+dental,C,C,True,C<turn|>
+dental,C,A,False,C<turn|>
+surgery,A,A,True,A<turn|>
+surgery,C,D,False,C<turn|>
+dental,C,C,True,C<turn|>
+surgery,A,A,True,A<turn|>
+dental,D,D,True,D<turn|>
+biochemistry,C,C,True,C<turn|>
+pharmacology,A,C,False,A<turn|>
+dental,C,C,True,C<turn|>
+pharmacology,D,D,True,D<turn|>
+ophthalmology,D,B,False,D<turn|>
+pediatrics,B,C,False,B<turn|>
+dental,A,A,True,A<turn|>
+pathology,A,C,False,A<turn|>
+medicine,C,A,False,C<turn|>
+dental,D,C,False,D<turn|>
+pediatrics,A,D,False,A<turn|>
+surgery,B,A,False,B<turn|>
+dental,C,D,False,C<turn|>
+medicine,B,C,False,B<turn|>
+dental,A,B,False,A<turn|>
+pathology,C,C,True,C<turn|>
+dental,D,D,True,D<turn|>
+radiology,D,D,True,D<turn|>
+dental,C,C,True,C<turn|>
+ent,B,B,True,B<turn|>
+dental,C,D,False,C<turn|>
+dental,C,C,True,C<turn|>
+dental,D,D,True,D<turn|>
+pathology,C,A,False,C<turn|>
+dental,A,A,True,A<turn|>
+surgery,A,C,False,A<turn|>
+pediatrics,A,A,True,A<turn|>
+medicine,A,C,False,A<turn|>
+social & preventive medicine,D,D,True,D<turn|>
+surgery,C,B,False,C<turn|>
+dental,D,A,False,D<turn|>
+surgery,A,B,False,A<turn|>
+dental,A,D,False,A<turn|>
+surgery,B,B,True,B<turn|>
+surgery,B,A,False,B<turn|>
+dental,B,C,False,B<turn|>
+dental,D,A,False,D<turn|>
+medicine,A,A,True,A<turn|>
+dental,C,A,False,C<turn|>
+pharmacology,C,C,True,C<turn|>
+pediatrics,A,A,True,A<turn|>
+dental,C,C,True,C<turn|>
+pharmacology,C,B,False,C<turn|>
+dental,C,C,True,C<turn|>
+dental,D,A,False,D<turn|>
+pharmacology,B,B,True,B<turn|>
+pharmacology,D,D,True,D<turn|>
+medicine,D,D,True,D<turn|>
+gynaecology & obstetrics,C,A,False,C<turn|>
+anatomy,C,C,True,C<turn|>
+dental,B,B,True,B<turn|>
+dental,D,C,False,D<turn|>
+surgery,A,B,False,A<turn|>
+medicine,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+dental,D,C,False,D<turn|>
+pathology,D,B,False,D<turn|>
+social & preventive medicine,C,B,False,C<turn|>
+dental,D,A,False,D<turn|>
+dental,D,D,True,D<turn|>
+pharmacology,A,A,True,A<turn|>
+surgery,C,B,False,C<turn|>
+dental,D,A,False,D<turn|>
+dental,A,C,False,A<turn|>
+biochemistry,C,C,True,C<turn|>
+pathology,D,A,False,D<turn|>
+physiology,A,D,False,A<turn|>
+surgery,A,C,False,A<turn|>
+dental,B,A,False,B<turn|>
+gynaecology & obstetrics,D,B,False,D<turn|>
+physiology,A,C,False,A<turn|>
+dental,B,C,False,B<turn|>
+dental,D,D,True,D<turn|>
+surgery,D,A,False,D<turn|>
+pharmacology,B,B,True,B<turn|>
+forensic medicine,A,B,False,A<turn|>
+anatomy,C,C,True,C<turn|>
+physiology,D,C,False,D<turn|>
+dental,B,B,True,B<turn|>
+biochemistry,A,A,True,A<turn|>
+dental,D,D,True,D<turn|>
+dental,C,C,True,C<turn|>
+forensic medicine,C,C,True,C<turn|>
+dental,D,D,True,D<turn|>
+pathology,A,B,False,A<turn|>
+dental,C,B,False,C<turn|>
+physiology,D,A,False,D<turn|>
+pharmacology,A,C,False,A<turn|>
+dental,A,A,True,A<turn|>
+dental,A,C,False,A<turn|>
+dental,C,C,True,C<turn|>
+pathology,A,D,False,A<turn|>
+forensic medicine,A,A,True,A<turn|>
+social & preventive medicine,C,D,False,C<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+anatomy,D,A,False,D<turn|>
+radiology,D,D,True,D<turn|>
+medicine,B,D,False,B<turn|>
+medicine,D,D,True,D<turn|>
+pediatrics,C,C,True,C<turn|>
+gynaecology & obstetrics,C,D,False,C<turn|>
+anatomy,B,B,True,B<turn|>
+surgery,A,D,False,A<turn|>
+dental,D,A,False,D<turn|>
+dental,B,A,False,B<turn|>
+microbiology,A,C,False,A<turn|>
+medicine,D,B,False,D<turn|>
+surgery,D,B,False,D<turn|>
+gynaecology & obstetrics,A,D,False,A<turn|>
+pharmacology,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+gynaecology & obstetrics,C,B,False,C<turn|>
+dental,D,D,True,D<turn|>
+dental,B,B,True,B<turn|>
+medicine,C,A,False,C<turn|>
+pathology,C,C,True,C<turn|>
+anatomy,B,B,True,B<turn|>
+dental,C,A,False,C<turn|>
+dental,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+microbiology,D,D,True,D<turn|>
+social & preventive medicine,C,A,False,C<turn|>
+dental,A,A,True,A<turn|>
+microbiology,A,B,False,A<turn|>
+medicine,B,A,False,B<turn|>
+pharmacology,A,A,True,A<turn|>
+gynaecology & obstetrics,C,B,False,C<turn|>
+dental,B,D,False,B<turn|>
+ophthalmology,A,D,False,A<turn|>
+surgery,C,A,False,C<turn|>
+dental,D,D,True,D<turn|>
+social & preventive medicine,C,B,False,C<turn|>
+anatomy,A,B,False,A<turn|>
+medicine,B,D,False,B<turn|>
+pathology,B,B,True,B<turn|>
+anatomy,D,D,True,D<turn|>
+pathology,B,B,True,B<turn|>
+dental,D,D,True,D<turn|>
+dental,D,B,False,D<turn|>
+pharmacology,A,A,True,A<turn|>
+surgery,B,A,False,B<turn|>
+physiology,C,A,False,C<turn|>
+dental,A,C,False,A<turn|>
+biochemistry,A,A,True,A<turn|>
+medicine,B,A,False,B<turn|>
+pediatrics,C,B,False,C<turn|>
+medicine,A,A,True,A<turn|>
+microbiology,C,B,False,C<turn|>
+dental,C,C,True,C<turn|>
+medicine,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+dental,D,D,True,D<turn|>
+pathology,D,D,True,D<turn|>
+dental,B,A,False,B<turn|>
+dental,D,B,False,D<turn|>
+dental,C,C,True,C<turn|>
+microbiology,B,C,False,B<turn|>
+social & preventive medicine,A,A,True,A<turn|>
+biochemistry,A,D,False,A<turn|>
+radiology,A,A,True,A<turn|>
+pediatrics,A,A,True,A<turn|>
+biochemistry,D,C,False,D<turn|>
+physiology,A,A,True,A<turn|>
+gynaecology & obstetrics,A,B,False,A<turn|>
+microbiology,B,B,True,B<turn|>
+surgery,A,D,False,A<turn|>
+gynaecology & obstetrics,C,A,False,C<turn|>
+medicine,C,C,True,C<turn|>
+pediatrics,A,C,False,A<turn|>
+surgery,C,C,True,C<turn|>
+dental,A,B,False,A<turn|>
+pathology,B,D,False,B<turn|>
+dental,D,A,False,D<turn|>
+dental,D,D,True,D<turn|>
+dental,B,B,True,B<turn|>
+ophthalmology,A,A,True,A<turn|>
+medicine,B,C,False,B<turn|>
+dental,C,B,False,C<turn|>
+dental,A,C,False,A<turn|>
+dental,B,D,False,B<turn|>
+social & preventive medicine,D,D,True,D<turn|>
+dental,A,D,False,A<turn|>
+pharmacology,D,B,False,D<turn|>
+dental,A,B,False,A<turn|>
+dental,D,A,False,D<turn|>
+physiology,A,B,False,A<turn|>
+surgery,A,D,False,A<turn|>
+dental,A,C,False,A<turn|>
+dental,B,A,False,B<turn|>
+dental,A,D,False,A<turn|>
+dental,D,A,False,D<turn|>
+surgery,C,A,False,C<turn|>
+pediatrics,A,C,False,A<turn|>
+pathology,D,B,False,D<turn|>
+pathology,A,B,False,A<turn|>
+pharmacology,C,C,True,C<turn|>
+dental,C,C,True,C<turn|>
+medicine,A,A,True,A<turn|>
+dental,A,C,False,A<turn|>
+biochemistry,A,B,False,A<turn|>
+anatomy,D,B,False,D<turn|>
+surgery,A,A,True,A<turn|>
+dental,A,C,False,A<turn|>
+social & preventive medicine,B,C,False,B<turn|>
+pathology,C,C,True,C<turn|>
+dental,B,A,False,B<turn|>
+dental,C,A,False,C<turn|>
+medicine,C,A,False,C<turn|>
+anatomy,C,A,False,C<turn|>
+physiology,C,C,True,C<turn|>
+dental,C,B,False,C<turn|>
+pathology,D,B,False,D<turn|>
+radiology,B,B,True,B<turn|>
+pediatrics,C,C,True,C<turn|>
+dental,B,D,False,B<turn|>
+forensic medicine,C,D,False,C<turn|>
+dental,A,A,True,A<turn|>
+dental,C,B,False,C<turn|>
+dental,A,A,True,A<turn|>
+anatomy,A,C,False,A<turn|>
+dental,A,A,True,A<turn|>
+microbiology,A,A,True,A<turn|>
+physiology,D,A,False,D<turn|>
+dental,C,B,False,C<turn|>
+pediatrics,D,B,False,D<turn|>
+pharmacology,A,B,False,A<turn|>
+dental,A,C,False,A<turn|>
+microbiology,C,C,True,C<turn|>
+social & preventive medicine,C,C,True,C<turn|>
+dental,B,B,True,B<turn|>
+dental,D,C,False,D<turn|>
+dental,A,A,True,A<turn|>
+social & preventive medicine,D,C,False,D<turn|>
+dental,D,A,False,D<turn|>
+anatomy,C,D,False,C<turn|>
+surgery,D,C,False,D<turn|>
+social & preventive medicine,A,B,False,A<turn|>
+dental,A,B,False,A<turn|>
+biochemistry,B,B,True,B<turn|>
+medicine,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+anatomy,A,A,True,A<turn|>
+pharmacology,D,B,False,D<turn|>
+dental,D,D,True,D<turn|>
+social & preventive medicine,B,B,True,B<turn|>
+pharmacology,D,D,True,D<turn|>
+microbiology,A,B,False,A<turn|>
+medicine,B,B,True,B<turn|>
+physiology,C,C,True,C<turn|>
+physiology,A,D,False,A<turn|>
+social & preventive medicine,B,B,True,B<turn|>
+pharmacology,D,D,True,D<turn|>
+biochemistry,D,D,True,D<turn|>
+surgery,C,B,False,C<turn|>
+dental,B,B,True,B<turn|>
+medicine,D,B,False,D<turn|>
+pharmacology,C,A,False,C<turn|>
+dental,C,A,False,C<turn|>
+physiology,C,C,True,C<turn|>
+surgery,B,C,False,B<turn|>
+dental,D,D,True,D<turn|>
+forensic medicine,D,B,False,D<turn|>
+physiology,D,A,False,D<turn|>
+dental,D,D,True,D<turn|>
+dental,A,B,False,A<turn|>
+dental,A,A,True,A<turn|>
+pharmacology,D,C,False,D<turn|>
+medicine,A,B,False,A<turn|>
+microbiology,C,B,False,C<turn|>
+biochemistry,B,B,True,B<turn|>
+dental,C,A,False,C<turn|>
+dental,D,D,True,D<turn|>
+ent,D,D,True,D<turn|>
+microbiology,B,B,True,B<turn|>
+dental,D,D,True,D<turn|>
+ophthalmology,B,B,True,B<turn|>
+pharmacology,B,B,True,B<turn|>
+dental,C,A,False,C<turn|>
+anatomy,B,B,True,B<turn|>
+dental,A,C,False,A<turn|>
+radiology,A,D,False,A<turn|>
+dental,A,A,True,A<turn|>
+ophthalmology,B,B,True,B<turn|>
+microbiology,C,A,False,C<turn|>
+medicine,A,D,False,A<turn|>
+dental,A,A,True,A<turn|>
+ophthalmology,A,A,True,A<turn|>
+pathology,D,A,False,D<turn|>
+surgery,D,B,False,D<turn|>
+biochemistry,B,A,False,B<turn|>
+dental,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+pathology,B,B,True,B<turn|>
+dental,A,B,False,A<turn|>
+dental,D,D,True,D<turn|>
+physiology,A,C,False,A<turn|>
+anatomy,D,A,False,D<turn|>
+dental,C,A,False,C<turn|>
+dental,A,A,True,A<turn|>
+surgery,C,A,False,C<turn|>
+microbiology,A,D,False,A<turn|>
+dental,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+radiology,C,C,True,C<turn|>
+anatomy,B,A,False,B<turn|>
+pediatrics,B,B,True,B<turn|>
+dental,D,D,True,D<turn|>
+pathology,B,C,False,B<turn|>
+dental,C,B,False,C<turn|>
+pathology,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+medicine,C,A,False,C<turn|>
+surgery,C,B,False,C<turn|>
+forensic medicine,B,B,True,B<turn|>
+pathology,D,B,False,D<turn|>
+microbiology,D,A,False,D<turn|>
+anatomy,B,B,True,B<turn|>
+dental,A,D,False,A<turn|>
+dental,B,A,False,B<turn|>
+pharmacology,D,D,True,D<turn|>
+biochemistry,A,D,False,A<turn|>
+social & preventive medicine,A,A,True,A<turn|>
+dental,B,A,False,B<turn|>
+pathology,B,B,True,B<turn|>
+dental,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+pathology,B,B,True,B<turn|>
+radiology,B,C,False,B<turn|>
+surgery,D,D,True,D<turn|>
+dental,D,D,True,D<turn|>
+physiology,D,D,True,D<turn|>
+pharmacology,A,B,False,A<turn|>
+dental,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+anatomy,D,A,False,D<turn|>
+dental,D,C,False,D<turn|>
+dental,A,A,True,A<turn|>
+physiology,D,A,False,D<turn|>
+surgery,B,B,True,B<turn|>
+pharmacology,A,A,True,A<turn|>
+dental,D,B,False,D<turn|>
+anatomy,B,B,True,B<turn|>
+dental,A,D,False,A<turn|>
+surgery,A,A,True,A<turn|>
+microbiology,A,A,True,A<turn|>
+pediatrics,B,A,False,B<turn|>
+pathology,A,A,True,A<turn|>
+medicine,A,A,True,A<turn|>
+pathology,A,A,True,A<turn|>
+medicine,B,B,True,B<turn|>
+pediatrics,A,B,False,A<turn|>
+anatomy,D,C,False,D<turn|>
+surgery,A,C,False,A<turn|>
+surgery,B,A,False,B<turn|>
+physiology,D,B,False,D<turn|>
+dental,A,B,False,A<turn|>
+dental,B,A,False,B<turn|>
+dental,A,A,True,A<turn|>
+pediatrics,D,B,False,D<turn|>
+radiology,D,D,True,D<turn|>
+ophthalmology,C,C,True,C<turn|>
+anatomy,B,D,False,B<turn|>
+dental,D,A,False,D<turn|>
+dental,C,C,True,C<turn|>
+dental,D,A,False,D<turn|>
+gynaecology & obstetrics,C,C,True,C<turn|>
+dental,B,B,True,B<turn|>
+dental,C,C,True,C<turn|>
+pharmacology,A,A,True,A<turn|>
+ent,B,A,False,B<turn|>
+dental,C,D,False,C<turn|>
+biochemistry,D,B,False,D<turn|>
+dental,D,A,False,D<turn|>
+surgery,C,B,False,C<turn|>
+pediatrics,A,A,True,A<turn|>
+gynaecology & obstetrics,B,D,False,B<turn|>
+medicine,D,B,False,D<turn|>
+dental,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+biochemistry,D,D,True,D<turn|>
+dental,A,D,False,A<turn|>
+anatomy,C,A,False,C<turn|>
+medicine,A,A,True,A<turn|>
+pediatrics,C,D,False,C<turn|>
+pediatrics,A,B,False,A<turn|>
+medicine,D,C,False,D<turn|>
+pathology,C,C,True,C<turn|>
+pediatrics,B,A,False,B<turn|>
+biochemistry,D,D,True,D<turn|>
+biochemistry,C,A,False,C<turn|>
+physiology,C,A,False,C<turn|>
+social & preventive medicine,C,C,True,C<turn|>
+surgery,B,C,False,B<turn|>
+social & preventive medicine,A,A,True,A<turn|>
+pediatrics,C,C,True,C<turn|>
+pediatrics,C,C,True,C<turn|>
+gynaecology & obstetrics,D,D,True,D<turn|>
+gynaecology & obstetrics,B,C,False,B<turn|>
+dental,A,A,True,A<turn|>
+pharmacology,A,A,True,A<turn|>
+surgery,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+pharmacology,A,D,False,A<turn|>
+physiology,B,B,True,B<turn|>
+pediatrics,D,D,True,D<turn|>
+pathology,C,A,False,C<turn|>
+dental,B,B,True,B<turn|>
+physiology,C,A,False,C<turn|>
+pediatrics,B,B,True,B<turn|>
+dental,D,A,False,D<turn|>
+surgery,A,A,True,A<turn|>
+pharmacology,A,A,True,A<turn|>
+ophthalmology,A,C,False,A<turn|>
+microbiology,C,C,True,C<turn|>
+pathology,B,B,True,B<turn|>
+gynaecology & obstetrics,B,A,False,B<turn|>
+dental,B,C,False,B<turn|>
+dental,A,B,False,A<turn|>
+physiology,D,C,False,D<turn|>
+dental,A,D,False,A<turn|>
+surgery,D,D,True,D<turn|>
+medicine,D,C,False,D<turn|>
+anatomy,B,B,True,B<turn|>
+surgery,D,A,False,D<turn|>
+ent,B,B,True,B<turn|>
+dental,C,A,False,C<turn|>
+physiology,D,A,False,D<turn|>
+physiology,C,C,True,C<turn|>
+microbiology,B,D,False,B<turn|>
+biochemistry,C,C,True,C<turn|>
+gynaecology & obstetrics,D,A,False,D<turn|>
+dental,C,D,False,C<turn|>
+surgery,A,A,True,A<turn|>
+surgery,A,C,False,A<turn|>
+surgery,C,C,True,C<turn|>
+gynaecology & obstetrics,D,C,False,D<turn|>
+biochemistry,A,A,True,A<turn|>
+dental,C,C,True,C<turn|>
+gynaecology & obstetrics,A,D,False,A<turn|>
+pathology,D,D,True,D<turn|>
+dental,A,A,True,A<turn|>
+forensic medicine,B,B,True,B<turn|>
+surgery,A,A,True,A<turn|>
+pharmacology,D,B,False,D<turn|>
+dental,B,B,True,B<turn|>
+medicine,B,B,True,B<turn|>
+surgery,D,D,True,D<turn|>
+pediatrics,D,D,True,D<turn|>
+pathology,B,B,True,B<turn|>
+dental,D,D,True,D<turn|>
+social & preventive medicine,C,C,True,C<turn|>
+anatomy,A,B,False,A<turn|>
+pathology,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+gynaecology & obstetrics,C,C,True,C<turn|>
+social & preventive medicine,B,A,False,B<turn|>
+dental,A,A,True,A<turn|>
+physiology,B,D,False,B<turn|>
+pediatrics,B,B,True,B<turn|>
+dental,B,C,False,B<turn|>
+ent,A,A,True,A<turn|>
+dental,A,B,False,A<turn|>
+dental,B,D,False,B<turn|>
+dental,D,A,False,D<turn|>
+gynaecology & obstetrics,A,C,False,A<turn|>
+dental,D,A,False,D<turn|>
+pharmacology,A,C,False,A<turn|>
+medicine,D,C,False,D<turn|>
+dental,A,C,False,A<turn|>
+surgery,A,A,True,A<turn|>
+pathology,B,C,False,B<turn|>
+dental,C,D,False,C<turn|>
+dental,B,D,False,B<turn|>
+dental,D,D,True,D<turn|>
+medicine,A,A,True,A<turn|>
+medicine,D,D,True,D<turn|>
+dental,C,C,True,C<turn|>
+dental,D,D,True,D<turn|>
+gynaecology & obstetrics,B,B,True,B<turn|>
+medicine,B,C,False,B<turn|>
+dental,A,B,False,A<turn|>
+dental,A,A,True,A<turn|>
+pathology,A,C,False,A<turn|>
+dental,A,C,False,A<turn|>
+pharmacology,A,B,False,A<turn|>
+physiology,D,D,True,D<turn|>
+dental,C,A,False,C<turn|>
+dental,D,A,False,D<turn|>
+dental,A,C,False,A<turn|>
+surgery,A,A,True,A<turn|>
+pathology,A,A,True,A<turn|>
+dental,D,A,False,D<turn|>
+dental,A,A,True,A<turn|>
+gynaecology & obstetrics,D,A,False,D<turn|>
+pathology,B,B,True,B<turn|>
+pediatrics,D,A,False,D<turn|>
+dental,B,B,True,B<turn|>
+physiology,D,A,False,D<turn|>
+pharmacology,B,B,True,B<turn|>
+forensic medicine,D,B,False,D<turn|>
+microbiology,D,B,False,D<turn|>
+social & preventive medicine,D,B,False,D<turn|>
+dental,D,D,True,D<turn|>
+medicine,D,D,True,D<turn|>
+microbiology,D,A,False,D<turn|>
+dental,A,A,True,A<turn|>
+pathology,C,C,True,C<turn|>
+pediatrics,A,A,True,A<turn|>
+anatomy,D,D,True,D<turn|>
+dental,A,B,False,A<turn|>
+pharmacology,C,B,False,C<turn|>
+medicine,A,C,False,A<turn|>
+dental,D,A,False,D<turn|>
+surgery,C,C,True,C<turn|>
+radiology,D,B,False,D<turn|>
+pathology,B,B,True,B<turn|>
+ent,C,B,False,C<turn|>
+ent,D,D,True,D<turn|>
+medicine,D,A,False,D<turn|>
+dental,D,B,False,D<turn|>
+pharmacology,A,C,False,A<turn|>
+dental,B,B,True,B<turn|>
+anatomy,D,B,False,D<turn|>
+dental,A,A,True,A<turn|>
+pharmacology,A,C,False,A<turn|>
+dental,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+physiology,C,B,False,C<turn|>
+pharmacology,C,D,False,C<turn|>
+forensic medicine,B,C,False,B<turn|>
+medicine,C,D,False,C<turn|>
+biochemistry,D,C,False,D<turn|>
+dental,B,B,True,B<turn|>
+medicine,C,C,True,C<turn|>
+social & preventive medicine,C,C,True,C<turn|>
+surgery,C,B,False,C<turn|>
+dental,A,A,True,A<turn|>
+microbiology,A,A,True,A<turn|>
+pediatrics,C,A,False,C<turn|>
+pathology,A,C,False,A<turn|>
+dental,A,C,False,A<turn|>
+surgery,B,B,True,B<turn|>
+pharmacology,A,A,True,A<turn|>
+dental,C,C,True,C<turn|>
+gynaecology & obstetrics,C,C,True,C<turn|>
+dental,B,B,True,B<turn|>
+dental,C,C,True,C<turn|>
+social & preventive medicine,B,B,True,B<turn|>
+surgery,B,B,True,B<turn|>
+dental,D,D,True,D<turn|>
+physiology,A,A,True,A<turn|>
+dental,C,C,True,C<turn|>
+dental,B,A,False,B<turn|>
+anatomy,C,A,False,C<turn|>
+physiology,C,C,True,C<turn|>
+dental,D,C,False,D<turn|>
+pathology,C,B,False,C<turn|>
+pediatrics,D,D,True,D<turn|>
+pharmacology,B,B,True,B<turn|>
+dental,A,C,False,A<turn|>
+medicine,D,C,False,D<turn|>
+pediatrics,D,D,True,D<turn|>
+dental,D,D,True,D<turn|>
+surgery,D,C,False,D<turn|>
+dental,D,D,True,D<turn|>
+pathology,D,D,True,D<turn|>
+pediatrics,A,A,True,A<turn|>
+surgery,B,B,True,B<turn|>
+medicine,B,C,False,B<turn|>
+dental,D,B,False,D<turn|>
+dental,C,C,True,C<turn|>
+surgery,A,D,False,A<turn|>
+medicine,D,C,False,D<turn|>
+biochemistry,B,A,False,B<turn|>
+physiology,A,A,True,A<turn|>
+microbiology,A,A,True,A<turn|>
+radiology,B,C,False,B<turn|>
+biochemistry,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+surgery,A,A,True,A<turn|>
+medicine,C,C,True,C<turn|>
+pathology,B,A,False,B<turn|>
+dental,A,D,False,A<turn|>
+biochemistry,D,D,True,D<turn|>
+dental,D,D,True,D<turn|>
+surgery,C,C,True,C<turn|>
+dental,B,B,True,B<turn|>
+social & preventive medicine,C,C,True,C<turn|>
+medicine,A,A,True,A<turn|>
+anatomy,D,B,False,D<turn|>
+social & preventive medicine,A,B,False,A<turn|>
+dental,A,B,False,A<turn|>
+dental,C,C,True,C<turn|>
+physiology,A,B,False,A<turn|>
+forensic medicine,B,C,False,B<turn|>
+medicine,B,D,False,B<turn|>
+dental,B,C,False,B<turn|>
+ophthalmology,D,C,False,D<turn|>
+surgery,B,C,False,B<turn|>
+pharmacology,C,B,False,C<turn|>
+dental,B,B,True,B<turn|>
+social & preventive medicine,D,D,True,D<turn|>
+dental,D,C,False,D<turn|>
+social & preventive medicine,B,A,False,B<turn|>
+social & preventive medicine,B,B,True,B<turn|>
+pharmacology,D,A,False,D<turn|>
+ophthalmology,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+pharmacology,B,B,True,B<turn|>
+biochemistry,B,B,True,B<turn|>
+pharmacology,B,A,False,B<turn|>
+dental,C,C,True,C<turn|>
+anatomy,D,D,True,D<turn|>
+surgery,B,C,False,B<turn|>
+dental,C,D,False,C<turn|>
+dental,C,A,False,C<turn|>
+dental,D,A,False,D<turn|>
+radiology,C,C,True,C<turn|>
+medicine,B,B,True,B<turn|>
+medicine,A,D,False,A<turn|>
+biochemistry,C,C,True,C<turn|>
+gynaecology & obstetrics,D,A,False,D<turn|>
+dental,A,B,False,A<turn|>
+physiology,D,D,True,D<turn|>
+dental,D,D,True,D<turn|>
+pathology,D,B,False,D<turn|>
+physiology,B,C,False,B<turn|>
+physiology,C,D,False,C<turn|>
+pathology,A,A,True,A<turn|>
+pediatrics,D,D,True,D<turn|>
+microbiology,D,A,False,D<turn|>
+pediatrics,B,A,False,B<turn|>
+radiology,D,D,True,D<turn|>
+pediatrics,A,A,True,A<turn|>
+medicine,A,A,True,A<turn|>
+gynaecology & obstetrics,B,B,True,B<turn|>
+surgery,A,A,True,A<turn|>
+pharmacology,D,C,False,D<turn|>
+dental,D,D,True,D<turn|>
+pediatrics,D,A,False,D<turn|>
+social & preventive medicine,A,C,False,A<turn|>
+dental,C,B,False,C<turn|>
+physiology,D,D,True,D<turn|>
+biochemistry,D,A,False,D<turn|>
+anatomy,D,D,True,D<turn|>
+surgery,A,A,True,A<turn|>
+surgery,A,A,True,A<turn|>
+pediatrics,D,B,False,D<turn|>
+anatomy,D,A,False,D<turn|>
+surgery,A,A,True,A<turn|>
+medicine,A,C,False,A<turn|>
+dental,D,D,True,D<turn|>
+dental,B,A,False,B<turn|>
+pathology,B,A,False,B<turn|>
+dental,C,D,False,C<turn|>
+surgery,D,D,True,D<turn|>
+surgery,C,C,True,C<turn|>
+anatomy,D,D,True,D<turn|>
+medicine,A,B,False,A<turn|>
+ent,B,A,False,B<turn|>
+medicine,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+dental,B,C,False,B<turn|>
+medicine,B,B,True,B<turn|>
+dental,C,D,False,C<turn|>
+gynaecology & obstetrics,D,C,False,D<turn|>
+biochemistry,D,C,False,D<turn|>
+pediatrics,A,C,False,A<turn|>
+pediatrics,D,B,False,D<turn|>
+surgery,D,D,True,D<turn|>
+dental,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+pharmacology,B,A,False,B<turn|>
+dental,A,A,True,A<turn|>
+medicine,C,B,False,C<turn|>
+radiology,A,A,True,A<turn|>
+surgery,C,C,True,C<turn|>
+surgery,C,C,True,C<turn|>
+biochemistry,A,C,False,A<turn|>
+dental,D,C,False,D<turn|>
+medicine,B,B,True,B<turn|>
+pharmacology,B,B,True,B<turn|>
+surgery,C,A,False,C<turn|>
+medicine,C,C,True,C<turn|>
+surgery,B,D,False,B<turn|>
+dental,D,C,False,D<turn|>
+pathology,A,A,True,A<turn|>
+microbiology,C,C,True,C<turn|>
+medicine,A,B,False,A<turn|>
+biochemistry,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+physiology,C,C,True,C<turn|>
+dental,A,B,False,A<turn|>
+medicine,D,C,False,D<turn|>
+surgery,C,C,True,C<turn|>
+dental,D,B,False,D<turn|>
+gynaecology & obstetrics,B,B,True,B<turn|>
+dental,C,C,True,C<turn|>
+pharmacology,D,D,True,D<turn|>
+dental,C,C,True,C<turn|>
+pediatrics,A,B,False,A<turn|>
+dental,C,C,True,C<turn|>
+anatomy,A,A,True,A<turn|>
+pharmacology,D,A,False,D<turn|>
+pathology,C,D,False,C<turn|>
+dental,C,C,True,C<turn|>
+physiology,D,D,True,D<turn|>
+anatomy,B,B,True,B<turn|>
+physiology,B,C,False,B<turn|>
+pediatrics,A,C,False,A<turn|>
+surgery,A,C,False,A<turn|>
+dental,A,A,True,A<turn|>
+dental,B,A,False,B<turn|>
+social & preventive medicine,B,B,True,B<turn|>
+ophthalmology,A,A,True,A<turn|>
+surgery,D,D,True,D<turn|>
+surgery,B,B,True,B<turn|>
+dental,C,C,True,C<turn|>
+medicine,D,D,True,D<turn|>
+physiology,A,A,True,A<turn|>
+surgery,C,A,False,C<turn|>
+pharmacology,D,D,True,D<turn|>
+pathology,A,B,False,A<turn|>
+forensic medicine,A,B,False,A<turn|>
+dental,A,D,False,A<turn|>
+gynaecology & obstetrics,A,B,False,A<turn|>
+medicine,A,A,True,A<turn|>
+ophthalmology,D,D,True,D<turn|>
+dental,D,C,False,D<turn|>
+gynaecology & obstetrics,D,A,False,D<turn|>
+pediatrics,A,C,False,A<turn|>
+pathology,C,B,False,C<turn|>
+dental,B,A,False,B<turn|>
+anatomy,B,D,False,B<turn|>
+microbiology,D,D,True,D<turn|>
+pathology,B,B,True,B<turn|>
+pharmacology,A,A,True,A<turn|>
+dental,D,D,True,D<turn|>
+dental,D,C,False,D<turn|>
+physiology,C,C,True,C<turn|>
+pediatrics,A,A,True,A<turn|>
+gynaecology & obstetrics,B,B,True,B<turn|>
+medicine,A,A,True,A<turn|>
+pathology,A,A,True,A<turn|>
+pharmacology,B,B,True,B<turn|>
+pediatrics,A,D,False,A<turn|>
+radiology,C,C,True,C<turn|>
+dental,A,B,False,A<turn|>
+medicine,A,A,True,A<turn|>
+anatomy,A,B,False,A<turn|>
+pathology,A,A,True,A<turn|>
+ophthalmology,B,C,False,B<turn|>
+medicine,B,B,True,B<turn|>
+pathology,A,A,True,A<turn|>
+forensic medicine,A,A,True,A<turn|>
+pathology,B,B,True,B<turn|>
+pathology,D,C,False,D<turn|>
+dental,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+biochemistry,C,C,True,C<turn|>
+dental,A,C,False,A<turn|>
+pathology,A,D,False,A<turn|>
+microbiology,D,D,True,D<turn|>
+anatomy,B,A,False,B<turn|>
+pathology,A,A,True,A<turn|>
+surgery,A,A,True,A<turn|>
+dental,C,A,False,C<turn|>
+anatomy,A,B,False,A<turn|>
+pathology,B,A,False,B<turn|>
+dental,D,B,False,D<turn|>
+dental,A,B,False,A<turn|>
+dental,A,C,False,A<turn|>
+dental,C,C,True,C<turn|>
+social & preventive medicine,D,D,True,D<turn|>
+dental,D,C,False,D<turn|>
+surgery,A,D,False,A<turn|>
+medicine,A,A,True,A<turn|>
+pediatrics,D,D,True,D<turn|>
+pathology,A,D,False,A<turn|>
+radiology,D,A,False,D<turn|>
+dental,B,B,True,B<turn|>
+pathology,C,C,True,C<turn|>
+dental,D,B,False,D<turn|>
+anatomy,D,D,True,D<turn|>
+dental,D,A,False,D<turn|>
+dental,B,A,False,B<turn|>
+dental,A,C,False,A<turn|>
+dental,B,B,True,B<turn|>
+social & preventive medicine,A,D,False,A<turn|>
+dental,A,A,True,A<turn|>
+anatomy,D,D,True,D<turn|>
+pediatrics,A,A,True,A<turn|>
+microbiology,D,B,False,D<turn|>
+biochemistry,A,A,True,A<turn|>
+anatomy,A,A,True,A<turn|>
+pathology,D,D,True,D<turn|>
+physiology,A,B,False,A<turn|>
+dental,C,A,False,C<turn|>
+gynaecology & obstetrics,A,B,False,A<turn|>
+surgery,B,A,False,B<turn|>
+surgery,B,B,True,B<turn|>
+physiology,A,A,True,A<turn|>
+medicine,D,B,False,D<turn|>
+biochemistry,D,B,False,D<turn|>
+anatomy,D,D,True,D<turn|>
+surgery,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+biochemistry,A,B,False,A<turn|>
+social & preventive medicine,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+surgery,A,C,False,A<turn|>
+dental,A,B,False,A<turn|>
+biochemistry,A,A,True,A<turn|>
+biochemistry,C,C,True,C<turn|>
+anatomy,D,B,False,D<turn|>
+gynaecology & obstetrics,D,B,False,D<turn|>
+dental,B,B,True,B<turn|>
+surgery,B,D,False,B<turn|>
+dental,B,B,True,B<turn|>
+dental,A,B,False,A<turn|>
+dental,C,A,False,C<turn|>
+pharmacology,B,A,False,B<turn|>
+dental,B,B,True,B<turn|>
+dental,D,B,False,D<turn|>
+ophthalmology,C,A,False,C<turn|>
+dental,A,A,True,A<turn|>
+pathology,A,C,False,A<turn|>
+dental,D,A,False,D<turn|>
+pharmacology,D,A,False,D<turn|>
+dental,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+dental,B,A,False,B<turn|>
+gynaecology & obstetrics,A,D,False,A<turn|>
+pathology,B,B,True,B<turn|>
+medicine,A,B,False,A<turn|>
+dental,C,C,True,C<turn|>
+biochemistry,A,A,True,A<turn|>
+physiology,D,B,False,D<turn|>
+dental,C,C,True,C<turn|>
+physiology,D,D,True,D<turn|>
+pediatrics,D,A,False,D<turn|>
+gynaecology & obstetrics,A,D,False,A<turn|>
+dental,C,B,False,C<turn|>
+dental,A,D,False,A<turn|>
+gynaecology & obstetrics,B,A,False,B<turn|>
+pathology,B,B,True,B<turn|>
+dental,B,B,True,B<turn|>
+gynaecology & obstetrics,C,C,True,C<turn|>
+dental,D,D,True,D<turn|>
+medicine,A,C,False,A<turn|>
+pathology,C,C,True,C<turn|>
+medicine,A,A,True,A<turn|>
+pathology,A,A,True,A<turn|>
+surgery,D,C,False,D<turn|>
+gynaecology & obstetrics,B,B,True,B<turn|>
+pathology,D,B,False,D<turn|>
+anatomy,D,B,False,D<turn|>
+ent,B,B,True,B<turn|>
+microbiology,D,C,False,D<turn|>
+medicine,C,B,False,C<turn|>
+dental,D,C,False,D<turn|>
+dental,D,A,False,D<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+physiology,A,A,True,A<turn|>
+pharmacology,A,A,True,A<turn|>
+dental,B,D,False,B<turn|>
+biochemistry,A,B,False,A<turn|>
+dental,D,A,False,D<turn|>
+dental,A,B,False,A<turn|>
+pathology,B,B,True,B<turn|>
+dental,A,B,False,A<turn|>
+dental,A,C,False,A<turn|>
+surgery,D,D,True,D<turn|>
+physiology,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+dental,D,D,True,D<turn|>
+dental,B,A,False,B<turn|>
+gynaecology & obstetrics,C,D,False,C<turn|>
+dental,B,B,True,B<turn|>
+physiology,D,A,False,D<turn|>
+dental,B,B,True,B<turn|>
+biochemistry,B,B,True,B<turn|>
+social & preventive medicine,C,D,False,C<turn|>
+surgery,A,C,False,A<turn|>
+anatomy,D,D,True,D<turn|>
+ent,C,C,True,C<turn|>
+medicine,D,D,True,D<turn|>
+social & preventive medicine,C,B,False,C<turn|>
+surgery,B,B,True,B<turn|>
+medicine,D,D,True,D<turn|>
+anatomy,A,A,True,A<turn|>
+microbiology,A,A,True,A<turn|>
+dental,A,B,False,A<turn|>
+surgery,D,D,True,D<turn|>
+ophthalmology,B,D,False,B<turn|>
+dental,D,A,False,D<turn|>
+physiology,A,A,True,A<turn|>
+biochemistry,A,A,True,A<turn|>
+pathology,C,B,False,C<turn|>
+anatomy,C,B,False,C<turn|>
+pathology,A,A,True,A<turn|>
+dental,B,A,False,B<turn|>
+anatomy,D,A,False,D<turn|>
+pediatrics,B,B,True,B<turn|>
+forensic medicine,A,C,False,A<turn|>
+microbiology,D,C,False,D<turn|>
+surgery,A,A,True,A<turn|>
+microbiology,D,D,True,D<turn|>
+dental,A,A,True,A<turn|>
+medicine,C,C,True,C<turn|>
+physiology,B,D,False,B<turn|>
+surgery,D,A,False,D<turn|>
+pharmacology,A,A,True,A<turn|>
+physiology,A,D,False,A<turn|>
+gynaecology & obstetrics,D,D,True,D<turn|>
+ophthalmology,A,A,True,A<turn|>
+social & preventive medicine,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+pathology,C,C,True,C<turn|>
+dental,B,B,True,B<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+anatomy,C,C,True,C<turn|>
+radiology,B,B,True,B<turn|>
+surgery,C,A,False,C<turn|>
+dental,A,B,False,A<turn|>
+dental,D,B,False,D<turn|>
+social & preventive medicine,D,A,False,D<turn|>
+pathology,B,D,False,B<turn|>
+dental,B,C,False,B<turn|>
+dental,A,C,False,A<turn|>
+dental,B,B,True,B<turn|>
+surgery,A,A,True,A<turn|>
+physiology,C,D,False,C<turn|>
+radiology,A,A,True,A<turn|>
+anatomy,D,A,False,D<turn|>
+dental,A,D,False,A<turn|>
+medicine,B,B,True,B<turn|>
+dental,B,B,True,B<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+pathology,D,C,False,D<turn|>
+dental,C,C,True,C<turn|>
+pharmacology,D,D,True,D<turn|>
+anatomy,D,A,False,D<turn|>
+dental,A,A,True,A<turn|>
+dental,C,B,False,C<turn|>
+dental,A,D,False,A<turn|>
+medicine,B,A,False,B<turn|>
+ophthalmology,C,A,False,C<turn|>
+pharmacology,A,B,False,A<turn|>
+medicine,A,A,True,A<turn|>
+dental,C,B,False,C<turn|>
+dental,B,A,False,B<turn|>
+surgery,D,A,False,D<turn|>
+pharmacology,B,B,True,B<turn|>
+dental,D,D,True,D<turn|>
+dental,D,D,True,D<turn|>
+biochemistry,A,B,False,A<turn|>
+physiology,A,A,True,A<turn|>
+pathology,A,B,False,A<turn|>
+dental,C,B,False,C<turn|>
+dental,A,A,True,A<turn|>
+dental,C,A,False,C<turn|>
+pathology,B,B,True,B<turn|>
+pathology,D,D,True,D<turn|>
+dental,A,D,False,A<turn|>
+pathology,C,B,False,C<turn|>
+dental,C,A,False,C<turn|>
+ent,B,B,True,B<turn|>
+medicine,D,D,True,D<turn|>
+dental,D,D,True,D<turn|>
+dental,D,A,False,D<turn|>
+dental,A,C,False,A<turn|>
+biochemistry,D,D,True,D<turn|>
+medicine,B,B,True,B<turn|>
+microbiology,A,A,True,A<turn|>
+pediatrics,B,B,True,B<turn|>
+dental,D,A,False,D<turn|>
+social & preventive medicine,D,A,False,D<turn|>
+forensic medicine,D,C,False,D<turn|>
+dental,C,B,False,C<turn|>
+dental,D,A,False,D<turn|>
+dental,B,C,False,B<turn|>
+microbiology,A,A,True,A<turn|>
+anatomy,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+dental,D,C,False,D<turn|>
+dental,C,C,True,C<turn|>
+dental,C,A,False,C<turn|>
+pharmacology,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+dental,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+pharmacology,D,D,True,D<turn|>
+biochemistry,A,B,False,A<turn|>
+pediatrics,A,B,False,A<turn|>
+pathology,B,B,True,B<turn|>
+physiology,D,D,True,D<turn|>
+pathology,C,C,True,C<turn|>
+physiology,A,C,False,A<turn|>
+dental,D,A,False,D<turn|>
+dental,B,C,False,B<turn|>
+dental,A,B,False,A<turn|>
+dental,D,D,True,D<turn|>
+pharmacology,B,A,False,B<turn|>
+dental,A,A,True,A<turn|>
+dental,C,D,False,C<turn|>
+pathology,A,C,False,A<turn|>
+social & preventive medicine,A,A,True,A<turn|>
+biochemistry,D,C,False,D<turn|>
+dental,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+microbiology,D,D,True,D<turn|>
+pediatrics,A,A,True,A<turn|>
+anatomy,C,C,True,C<turn|>
+pediatrics,D,C,False,D<turn|>
+pathology,B,D,False,B<turn|>
+surgery,A,A,True,A<turn|>
+anatomy,C,D,False,C<turn|>
+dental,D,A,False,D<turn|>
+dental,A,A,True,A<turn|>
+pathology,B,B,True,B<turn|>
+dental,D,B,False,D<turn|>
+dental,B,B,True,B<turn|>
+pediatrics,C,A,False,C<turn|>
+surgery,A,D,False,A<turn|>
+dental,C,B,False,C<turn|>
+dental,A,D,False,A<turn|>
+physiology,D,B,False,D<turn|>
+dental,B,A,False,B<turn|>
+pharmacology,C,C,True,C<turn|>
+biochemistry,D,A,False,D<turn|>
+dental,A,A,True,A<turn|>
+surgery,A,D,False,A<turn|>
+medicine,B,B,True,B<turn|>
+biochemistry,A,A,True,A<turn|>
+pathology,C,A,False,C<turn|>
+surgery,D,C,False,D<turn|>
+microbiology,D,C,False,D<turn|>
+physiology,A,C,False,A<turn|>
+pharmacology,D,A,False,D<turn|>
+surgery,B,B,True,B<turn|>
+dental,D,B,False,D<turn|>
+dental,A,B,False,A<turn|>
+physiology,B,A,False,B<turn|>
+microbiology,C,D,False,C<turn|>
+radiology,A,A,True,A<turn|>
+pediatrics,B,B,True,B<turn|>
+pediatrics,D,C,False,D<turn|>
+medicine,D,C,False,D<turn|>
+biochemistry,C,B,False,C<turn|>
+pathology,C,B,False,C<turn|>
+surgery,C,C,True,C<turn|>
+medicine,A,C,False,A<turn|>
+medicine,B,B,True,B<turn|>
+dental,C,C,True,C<turn|>
+dental,C,C,True,C<turn|>
+pediatrics,C,C,True,C<turn|>
+dental,B,B,True,B<turn|>
+dental,D,B,False,D<turn|>
+gynaecology & obstetrics,D,D,True,D<turn|>
+dental,D,A,False,D<turn|>
+pharmacology,B,B,True,B<turn|>
+physiology,A,A,True,A<turn|>
+medicine,A,A,True,A<turn|>
+surgery,B,B,True,B<turn|>
+ophthalmology,A,B,False,A<turn|>
+gynaecology & obstetrics,D,D,True,D<turn|>
+dental,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+dental,D,C,False,D<turn|>
+social & preventive medicine,C,C,True,C<turn|>
+dental,D,D,True,D<turn|>
+dental,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+dental,B,A,False,B<turn|>
+dental,D,A,False,D<turn|>
+biochemistry,D,D,True,D<turn|>
+dental,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+physiology,A,A,True,A<turn|>
+anatomy,D,D,True,D<turn|>
+pathology,A,A,True,A<turn|>
+pathology,A,A,True,A<turn|>
+anatomy,A,A,True,A<turn|>
+pediatrics,C,A,False,C<turn|>
+physiology,C,A,False,C<turn|>
+physiology,A,A,True,A<turn|>
+dental,D,B,False,D<turn|>
+dental,B,B,True,B<turn|>
+anatomy,A,A,True,A<turn|>
+pediatrics,D,B,False,D<turn|>
+dental,B,D,False,B<turn|>
+biochemistry,A,A,True,A<turn|>
+dental,D,A,False,D<turn|>
+dental,A,C,False,A<turn|>
+dental,B,B,True,B<turn|>
+dental,D,C,False,D<turn|>
+dental,D,C,False,D<turn|>
+dental,A,B,False,A<turn|>
+gynaecology & obstetrics,B,A,False,B<turn|>
+pediatrics,A,C,False,A<turn|>
+dental,A,A,True,A<turn|>
+dental,A,B,False,A<turn|>
+social & preventive medicine,A,D,False,A<turn|>
+forensic medicine,D,A,False,D<turn|>
+dental,A,B,False,A<turn|>
+physiology,C,B,False,C<turn|>
+surgery,C,A,False,C<turn|>
+surgery,B,C,False,B<turn|>
+pharmacology,B,B,True,B<turn|>
+medicine,D,D,True,D<turn|>
+surgery,D,B,False,D<turn|>
+dental,A,A,True,A<turn|>
+surgery,B,C,False,B<turn|>
+dental,A,B,False,A<turn|>
+biochemistry,D,D,True,D<turn|>
+pharmacology,D,B,False,D<turn|>
+medicine,D,D,True,D<turn|>
+anatomy,D,D,True,D<turn|>
+dental,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+gynaecology & obstetrics,C,C,True,C<turn|>
+physiology,A,B,False,A<turn|>
+pediatrics,C,C,True,C<turn|>
+dental,D,A,False,D<turn|>
+pediatrics,C,D,False,C<turn|>
+biochemistry,C,C,True,C<turn|>
+dental,B,B,True,B<turn|>
+gynaecology & obstetrics,D,C,False,D<turn|>
+social & preventive medicine,D,A,False,D<turn|>
+biochemistry,A,B,False,A<turn|>
+biochemistry,D,A,False,D<turn|>
+microbiology,B,B,True,B<turn|>
+biochemistry,B,A,False,B<turn|>
+physiology,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+pediatrics,B,C,False,B<turn|>
+pediatrics,A,C,False,A<turn|>
+social & preventive medicine,A,D,False,A<turn|>
+dental,A,A,True,A<turn|>
+physiology,D,C,False,D<turn|>
+pharmacology,B,B,True,B<turn|>
+pathology,B,D,False,B<turn|>
+anatomy,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+pediatrics,D,D,True,D<turn|>
+pharmacology,A,A,True,A<turn|>
+pathology,A,A,True,A<turn|>
+medicine,A,A,True,A<turn|>
+biochemistry,C,B,False,C<turn|>
+dental,A,A,True,A<turn|>
+dental,B,C,False,B<turn|>
+microbiology,C,B,False,C<turn|>
+surgery,A,C,False,A<turn|>
+microbiology,B,B,True,B<turn|>
+dental,D,D,True,D<turn|>
+dental,D,C,False,D<turn|>
+surgery,A,D,False,A<turn|>
+pathology,B,B,True,B<turn|>
+dental,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+pharmacology,B,D,False,B<turn|>
+ent,B,A,False,B<turn|>
+dental,D,D,True,D<turn|>
+gynaecology & obstetrics,D,C,False,D<turn|>
+forensic medicine,A,A,True,A<turn|>
+surgery,C,C,True,C<turn|>
+dental,D,D,True,D<turn|>
+surgery,C,C,True,C<turn|>
+pharmacology,C,C,True,C<turn|>
+biochemistry,D,D,True,D<turn|>
+dental,B,A,False,B<turn|>
+surgery,A,A,True,A<turn|>
+dental,A,B,False,A<turn|>
+radiology,C,C,True,C<turn|>
+social & preventive medicine,A,C,False,A<turn|>
+pharmacology,B,B,True,B<turn|>
+surgery,D,A,False,D<turn|>
+anatomy,D,D,True,D<turn|>
+pharmacology,C,C,True,C<turn|>
+dental,C,A,False,C<turn|>
+dental,A,A,True,A<turn|>
+pediatrics,C,B,False,C<turn|>
+gynaecology & obstetrics,A,B,False,A<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+social & preventive medicine,C,C,True,C<turn|>
+biochemistry,B,B,True,B<turn|>
+pharmacology,D,B,False,D<turn|>
+dental,D,A,False,D<turn|>
+dental,A,A,True,A<turn|>
+pediatrics,B,A,False,B<turn|>
+biochemistry,A,B,False,A<turn|>
+anatomy,B,D,False,B<turn|>
+pathology,D,D,True,D<turn|>
+pharmacology,D,D,True,D<turn|>
+dental,D,A,False,D<turn|>
+anatomy,D,D,True,D<turn|>
+dental,A,B,False,A<turn|>
+dental,B,D,False,B<turn|>
+pathology,D,D,True,D<turn|>
+medicine,A,A,True,A<turn|>
+gynaecology & obstetrics,D,C,False,D<turn|>
+ophthalmology,D,A,False,D<turn|>
+dental,D,D,True,D<turn|>
+ent,A,A,True,A<turn|>
+physiology,B,B,True,B<turn|>
+pharmacology,A,A,True,A<turn|>
+anatomy,A,B,False,A<turn|>
+medicine,A,D,False,A<turn|>
+dental,C,C,True,C<turn|>
+dental,C,C,True,C<turn|>
+dental,A,B,False,A<turn|>
+dental,A,C,False,A<turn|>
+dental,B,B,True,B<turn|>
+physiology,B,B,True,B<turn|>
+forensic medicine,D,A,False,D<turn|>
+dental,C,C,True,C<turn|>
+gynaecology & obstetrics,B,A,False,B<turn|>
+radiology,B,A,False,B<turn|>
+pediatrics,D,D,True,D<turn|>
+pathology,D,D,True,D<turn|>
+dental,C,C,True,C<turn|>
+pediatrics,C,C,True,C<turn|>
+dental,B,A,False,B<turn|>
+physiology,D,B,False,D<turn|>
+dental,C,A,False,C<turn|>
+surgery,A,A,True,A<turn|>
+pediatrics,B,B,True,B<turn|>
+anatomy,B,B,True,B<turn|>
+ent,A,A,True,A<turn|>
+medicine,D,D,True,D<turn|>
+gynaecology & obstetrics,B,B,True,B<turn|>
+dental,B,B,True,B<turn|>
+gynaecology & obstetrics,B,B,True,B<turn|>
+pediatrics,A,A,True,A<turn|>
+physiology,C,C,True,C<turn|>
+pathology,A,A,True,A<turn|>
+pharmacology,C,C,True,C<turn|>
+gynaecology & obstetrics,B,D,False,B<turn|>
+pathology,A,A,True,A<turn|>
+anatomy,D,D,True,D<turn|>
+dental,A,B,False,A<turn|>
+physiology,C,C,True,C<turn|>
+biochemistry,B,B,True,B<turn|>
+pathology,A,C,False,A<turn|>
+dental,B,C,False,B<turn|>
+surgery,A,A,True,A<turn|>
+pharmacology,C,C,True,C<turn|>
+biochemistry,A,A,True,A<turn|>
+microbiology,B,B,True,B<turn|>
+medicine,A,B,False,A<turn|>
+dental,A,B,False,A<turn|>
+dental,D,D,True,D<turn|>
+dental,D,A,False,D<turn|>
+microbiology,B,C,False,B<turn|>
+biochemistry,C,C,True,C<turn|>
+dental,A,D,False,A<turn|>
+pharmacology,D,C,False,D<turn|>
+dental,C,D,False,C<turn|>
+dental,A,A,True,A<turn|>
+pediatrics,D,D,True,D<turn|>
+gynaecology & obstetrics,D,A,False,D<turn|>
+surgery,D,A,False,D<turn|>
+dental,A,A,True,A<turn|>
+dental,C,C,True,C<turn|>
+pathology,D,B,False,D<turn|>
+surgery,D,D,True,D<turn|>
+dental,A,A,True,A<turn|>
+dental,D,A,False,D<turn|>
+dental,C,C,True,C<turn|>
+physiology,C,A,False,C<turn|>
+pediatrics,A,B,False,A<turn|>
+dental,B,B,True,B<turn|>
+dental,B,B,True,B<turn|>
+pathology,D,A,False,D<turn|>
+medicine,C,B,False,C<turn|>
+gynaecology & obstetrics,D,A,False,D<turn|>
+biochemistry,D,D,True,D<turn|>
+dental,A,B,False,A<turn|>
+pediatrics,A,A,True,A<turn|>
+pharmacology,C,C,True,C<turn|>
+medicine,D,B,False,D<turn|>
+social & preventive medicine,A,B,False,A<turn|>
+pharmacology,D,B,False,D<turn|>
+medicine,B,D,False,B<turn|>
+surgery,D,A,False,D<turn|>
+pediatrics,C,A,False,C<turn|>
+dental,B,B,True,B<turn|>
+pharmacology,A,B,False,A<turn|>
+surgery,B,D,False,B<turn|>
+surgery,C,C,True,C<turn|>
+dental,B,B,True,B<turn|>
+anatomy,D,D,True,D<turn|>
+physiology,A,A,True,A<turn|>
+pharmacology,C,B,False,C<turn|>
+pediatrics,D,D,True,D<turn|>
+dental,C,B,False,C<turn|>
+biochemistry,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+dental,C,A,False,C<turn|>
+dental,C,A,False,C<turn|>
+pharmacology,D,A,False,D<turn|>
+pediatrics,B,B,True,B<turn|>
+ophthalmology,A,C,False,A<turn|>
+dental,A,A,True,A<turn|>
+pathology,B,D,False,B<turn|>
+dental,B,B,True,B<turn|>
+physiology,B,B,True,B<turn|>
+pediatrics,A,D,False,A<turn|>
+pathology,D,A,False,D<turn|>
+dental,D,C,False,D<turn|>
+physiology,A,B,False,A<turn|>
+pharmacology,B,B,True,B<turn|>
+social & preventive medicine,B,A,False,B<turn|>
+anatomy,C,B,False,C<turn|>
+pathology,A,A,True,A<turn|>
+surgery,B,C,False,B<turn|>
+pathology,D,D,True,D<turn|>
+pathology,A,A,True,A<turn|>
+dental,D,B,False,D<turn|>
+dental,D,A,False,D<turn|>
+ent,B,A,False,B<turn|>
+gynaecology & obstetrics,D,B,False,D<turn|>
+surgery,A,A,True,A<turn|>
+gynaecology & obstetrics,D,B,False,D<turn|>
+dental,A,A,True,A<turn|>
+dental,A,D,False,A<turn|>
+gynaecology & obstetrics,C,C,True,C<turn|>
+pharmacology,C,C,True,C<turn|>
+dental,C,A,False,C<turn|>
+gynaecology & obstetrics,C,C,True,C<turn|>
+ophthalmology,C,D,False,C<turn|>
+social & preventive medicine,A,C,False,A<turn|>
+gynaecology & obstetrics,B,C,False,B<turn|>
+dental,D,B,False,D<turn|>
+dental,A,A,True,A<turn|>
+surgery,D,D,True,D<turn|>
+pathology,B,B,True,B<turn|>
+surgery,D,B,False,D<turn|>
+dental,B,B,True,B<turn|>
+dental,D,A,False,D<turn|>
+physiology,D,D,True,D<turn|>
+dental,A,D,False,A<turn|>
+surgery,A,C,False,A<turn|>
+anatomy,A,A,True,A<turn|>
+anatomy,A,A,True,A<turn|>
+dental,A,D,False,A<turn|>
+dental,D,A,False,D<turn|>
+gynaecology & obstetrics,D,B,False,D<turn|>
+biochemistry,D,D,True,D<turn|>
+medicine,C,B,False,C<turn|>
+medicine,D,D,True,D<turn|>
+anatomy,B,A,False,B<turn|>
+dental,D,D,True,D<turn|>
+surgery,C,C,True,C<turn|>
+gynaecology & obstetrics,D,C,False,D<turn|>
+social & preventive medicine,A,A,True,A<turn|>
+pathology,A,D,False,A<turn|>
+anatomy,A,A,True,A<turn|>
+pharmacology,A,A,True,A<turn|>
+anatomy,A,A,True,A<turn|>
+social & preventive medicine,B,B,True,B<turn|>
+medicine,C,A,False,C<turn|>
+biochemistry,C,B,False,C<turn|>
+physiology,C,C,True,C<turn|>
+dental,B,A,False,B<turn|>
+physiology,D,B,False,D<turn|>
+medicine,D,C,False,D<turn|>
+pathology,A,B,False,A<turn|>
+surgery,B,B,True,B<turn|>
+dental,D,A,False,D<turn|>
+social & preventive medicine,D,B,False,D<turn|>
+dental,A,D,False,A<turn|>
+surgery,B,A,False,B<turn|>
+biochemistry,A,A,True,A<turn|>
+surgery,C,B,False,C<turn|>
+gynaecology & obstetrics,A,C,False,A<turn|>
+anatomy,A,A,True,A<turn|>
+dental,C,B,False,C<turn|>
+dental,C,B,False,C<turn|>
+gynaecology & obstetrics,B,B,True,B<turn|>
+dental,A,C,False,A<turn|>
+medicine,B,B,True,B<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+forensic medicine,C,C,True,C<turn|>
+dental,B,B,True,B<turn|>
+anatomy,C,D,False,C<turn|>
+dental,D,D,True,D<turn|>
+medicine,A,A,True,A<turn|>
+microbiology,A,A,True,A<turn|>
+dental,A,C,False,A<turn|>
+pediatrics,A,A,True,A<turn|>
+gynaecology & obstetrics,C,A,False,C<turn|>
+biochemistry,B,C,False,B<turn|>
+surgery,D,C,False,D<turn|>
+microbiology,D,B,False,D<turn|>
+pathology,D,D,True,D<turn|>
+social & preventive medicine,B,B,True,B<turn|>
+medicine,A,A,True,A<turn|>
+social & preventive medicine,D,D,True,D<turn|>
+dental,A,A,True,A<turn|>
+gynaecology & obstetrics,D,D,True,D<turn|>
+surgery,A,A,True,A<turn|>
+pharmacology,A,C,False,A<turn|>
+pharmacology,A,A,True,A<turn|>
+pediatrics,A,C,False,A<turn|>
+pathology,D,D,True,D<turn|>
+dental,A,B,False,A<turn|>
+anatomy,B,D,False,B<turn|>
+pathology,B,B,True,B<turn|>
+dental,B,A,False,B<turn|>
+dental,A,A,True,A<turn|>
+medicine,A,A,True,A<turn|>
+pharmacology,B,B,True,B<turn|>
+dental,B,B,True,B<turn|>
+pharmacology,D,D,True,D<turn|>
+surgery,A,A,True,A<turn|>
+pharmacology,C,C,True,C<turn|>
+medicine,D,D,True,D<turn|>
+dental,B,D,False,B<turn|>
+pharmacology,C,A,False,C<turn|>
+surgery,B,B,True,B<turn|>
+pediatrics,A,A,True,A<turn|>
+dental,C,C,True,C<turn|>
+dental,D,B,False,D<turn|>
+dental,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+surgery,A,A,True,A<turn|>
+microbiology,A,A,True,A<turn|>
+pathology,C,C,True,C<turn|>
+pharmacology,D,A,False,D<turn|>
+pathology,C,A,False,C<turn|>
+physiology,A,A,True,A<turn|>
+dental,D,C,False,D<turn|>
+dental,C,D,False,C<turn|>
+pediatrics,C,A,False,C<turn|>
+dental,C,A,False,C<turn|>
+dental,A,D,False,A<turn|>
+gynaecology & obstetrics,A,D,False,A<turn|>
+radiology,B,C,False,B<turn|>
+dental,B,B,True,B<turn|>
+dental,C,D,False,C<turn|>
+anatomy,A,A,True,A<turn|>
+gynaecology & obstetrics,D,B,False,D<turn|>
+surgery,A,A,True,A<turn|>
+dental,D,A,False,D<turn|>
+dental,D,B,False,D<turn|>
+microbiology,B,D,False,B<turn|>
+microbiology,A,A,True,A<turn|>
+surgery,C,B,False,C<turn|>
+anatomy,A,D,False,A<turn|>
+dental,D,B,False,D<turn|>
+dental,B,D,False,B<turn|>
+medicine,D,D,True,D<turn|>
+radiology,C,B,False,C<turn|>
+dental,A,A,True,A<turn|>
+biochemistry,A,A,True,A<turn|>
+anatomy,A,D,False,A<turn|>
+anatomy,A,A,True,A<turn|>
+dental,B,C,False,B<turn|>
+dental,B,A,False,B<turn|>
+pathology,A,A,True,A<turn|>
+pathology,B,B,True,B<turn|>
+surgery,C,C,True,C<turn|>
+ophthalmology,D,D,True,D<turn|>
+social & preventive medicine,B,A,False,B<turn|>
+dental,C,C,True,C<turn|>
+dental,A,B,False,A<turn|>
+dental,A,C,False,A<turn|>
+pathology,C,C,True,C<turn|>
+dental,A,B,False,A<turn|>
+dental,C,C,True,C<turn|>
+microbiology,C,C,True,C<turn|>
+dental,B,D,False,B<turn|>
+pathology,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+medicine,C,D,False,C<turn|>
+dental,A,C,False,A<turn|>
+gynaecology & obstetrics,A,B,False,A<turn|>
+medicine,D,D,True,D<turn|>
+anatomy,A,C,False,A<turn|>
+physiology,A,B,False,A<turn|>
+pediatrics,C,D,False,C<turn|>
+pathology,C,D,False,C<turn|>
+dental,A,C,False,A<turn|>
+pathology,C,C,True,C<turn|>
+social & preventive medicine,C,C,True,C<turn|>
+physiology,B,B,True,B<turn|>
+dental,D,C,False,D<turn|>
+physiology,B,B,True,B<turn|>
+pharmacology,C,C,True,C<turn|>
+surgery,A,B,False,A<turn|>
+dental,A,C,False,A<turn|>
+pathology,B,A,False,B<turn|>
+ent,C,C,True,C<turn|>
+anatomy,D,D,True,D<turn|>
+biochemistry,D,D,True,D<turn|>
+pathology,A,A,True,A<turn|>
+microbiology,A,A,True,A<turn|>
+pharmacology,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+forensic medicine,A,A,True,A<turn|>
+anatomy,D,C,False,D<turn|>
+dental,A,A,True,A<turn|>
+dental,D,D,True,D<turn|>
+medicine,A,A,True,A<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+anatomy,D,B,False,D<turn|>
+dental,D,A,False,D<turn|>
+biochemistry,B,B,True,B<turn|>
+pathology,C,C,True,C<turn|>
+dental,D,D,True,D<turn|>
+pharmacology,A,A,True,A<turn|>
+pathology,C,C,True,C<turn|>
+dental,C,D,False,C<turn|>
+gynaecology & obstetrics,D,B,False,D<turn|>
+dental,C,B,False,C<turn|>
+medicine,B,B,True,B<turn|>
+gynaecology & obstetrics,B,D,False,B<turn|>
+dental,A,D,False,A<turn|>
+dental,A,A,True,A<turn|>
+dental,D,C,False,D<turn|>
+gynaecology & obstetrics,B,D,False,B<turn|>
+pediatrics,A,A,True,A<turn|>
+social & preventive medicine,A,B,False,A<turn|>
+dental,D,D,True,D<turn|>
+social & preventive medicine,D,C,False,D<turn|>
+social & preventive medicine,A,A,True,A<turn|>
+physiology,C,C,True,C<turn|>
+social & preventive medicine,D,A,False,D<turn|>
+anatomy,C,A,False,C<turn|>
+anatomy,C,D,False,C<turn|>
+anatomy,B,B,True,B<turn|>
+medicine,D,C,False,D<turn|>
+pediatrics,D,D,True,D<turn|>
+gynaecology & obstetrics,A,D,False,A<turn|>
+anatomy,D,A,False,D<turn|>
+biochemistry,B,D,False,B<turn|>
+biochemistry,A,A,True,A<turn|>
+pharmacology,C,C,True,C<turn|>
+microbiology,C,B,False,C<turn|>
+anatomy,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+pathology,B,B,True,B<turn|>
+microbiology,A,A,True,A<turn|>
+gynaecology & obstetrics,D,D,True,D<turn|>
+dental,D,C,False,D<turn|>
+dental,A,C,False,A<turn|>
+gynaecology & obstetrics,C,A,False,C<turn|>
+pediatrics,C,A,False,C<turn|>
+gynaecology & obstetrics,B,D,False,B<turn|>
+dental,D,D,True,D<turn|>
+surgery,B,B,True,B<turn|>
+surgery,B,B,True,B<turn|>
+ent,B,B,True,B<turn|>
+pediatrics,C,B,False,C<turn|>
+biochemistry,D,D,True,D<turn|>
+dental,A,C,False,A<turn|>
+dental,C,C,True,C<turn|>
+microbiology,A,B,False,A<turn|>
+gynaecology & obstetrics,C,D,False,C<turn|>
+microbiology,C,C,True,C<turn|>
+pathology,B,D,False,B<turn|>
+dental,C,C,True,C<turn|>
+pediatrics,B,B,True,B<turn|>
+microbiology,A,B,False,A<turn|>
+biochemistry,B,B,True,B<turn|>
+gynaecology & obstetrics,B,B,True,B<turn|>
+surgery,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+surgery,B,C,False,B<turn|>
+surgery,A,A,True,A<turn|>
+dental,D,D,True,D<turn|>
+social & preventive medicine,C,C,True,C<turn|>
+surgery,A,A,True,A<turn|>
+pediatrics,B,B,True,B<turn|>
+dental,D,A,False,D<turn|>
+pediatrics,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+gynaecology & obstetrics,A,D,False,A<turn|>
+dental,C,A,False,C<turn|>
+gynaecology & obstetrics,C,D,False,C<turn|>
+dental,C,D,False,C<turn|>
+pathology,D,B,False,D<turn|>
+dental,C,B,False,C<turn|>
+dental,A,C,False,A<turn|>
+dental,D,B,False,D<turn|>
+dental,D,C,False,D<turn|>
+pathology,C,C,True,C<turn|>
+pediatrics,C,B,False,C<turn|>
+dental,C,C,True,C<turn|>
+pharmacology,D,D,True,D<turn|>
+pathology,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+dental,C,D,False,C<turn|>
+dental,D,C,False,D<turn|>
+dental,B,B,True,B<turn|>
+physiology,C,C,True,C<turn|>
+social & preventive medicine,D,B,False,D<turn|>
+anatomy,B,B,True,B<turn|>
+anatomy,B,B,True,B<turn|>
+microbiology,D,D,True,D<turn|>
+dental,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+anatomy,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+medicine,C,C,True,C<turn|>
+surgery,A,A,True,A<turn|>
+pediatrics,D,D,True,D<turn|>
+dental,A,B,False,A<turn|>
+medicine,C,C,True,C<turn|>
+medicine,D,D,True,D<turn|>
+gynaecology & obstetrics,D,D,True,D<turn|>
+anatomy,B,D,False,B<turn|>
+pharmacology,A,A,True,A<turn|>
+medicine,C,D,False,C<turn|>
+physiology,B,B,True,B<turn|>
+anatomy,D,B,False,D<turn|>
+pathology,D,D,True,D<turn|>
+pediatrics,B,D,False,B<turn|>
+anatomy,D,D,True,D<turn|>
+physiology,B,B,True,B<turn|>
+dental,D,C,False,D<turn|>
+anatomy,A,B,False,A<turn|>
+dental,A,B,False,A<turn|>
+gynaecology & obstetrics,B,A,False,B<turn|>
+dental,D,B,False,D<turn|>
+surgery,B,A,False,B<turn|>
+medicine,D,A,False,D<turn|>
+medicine,D,D,True,D<turn|>
+dental,A,C,False,A<turn|>
+dental,C,D,False,C<turn|>
+gynaecology & obstetrics,B,A,False,B<turn|>
+dental,D,D,True,D<turn|>
+surgery,B,B,True,B<turn|>
+biochemistry,D,A,False,D<turn|>
+dental,A,B,False,A<turn|>
+social & preventive medicine,D,D,True,D<turn|>
+forensic medicine,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+social & preventive medicine,C,C,True,C<turn|>
+social & preventive medicine,C,C,True,C<turn|>
+gynaecology & obstetrics,B,B,True,B<turn|>
+pathology,B,B,True,B<turn|>
+ent,D,D,True,D<turn|>
+dental,B,A,False,B<turn|>
+radiology,C,C,True,C<turn|>
+anatomy,D,D,True,D<turn|>
+pathology,C,C,True,C<turn|>
+gynaecology & obstetrics,B,C,False,B<turn|>
+surgery,B,B,True,B<turn|>
+physiology,A,A,True,A<turn|>
+surgery,B,B,True,B<turn|>
+pathology,B,B,True,B<turn|>
+dental,C,C,True,C<turn|>
+forensic medicine,D,A,False,D<turn|>
+surgery,A,D,False,A<turn|>
+pathology,D,B,False,D<turn|>
+dental,A,D,False,A<turn|>
+dental,A,A,True,A<turn|>
+surgery,D,D,True,D<turn|>
+dental,A,D,False,A<turn|>
+dental,B,B,True,B<turn|>
+anatomy,A,A,True,A<turn|>
+dental,A,B,False,A<turn|>
+biochemistry,D,D,True,D<turn|>
+forensic medicine,D,A,False,D<turn|>
+pediatrics,A,B,False,A<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+dental,D,C,False,D<turn|>
+pathology,C,C,True,C<turn|>
+pediatrics,A,C,False,A<turn|>
+ent,A,A,True,A<turn|>
+surgery,B,B,True,B<turn|>
+gynaecology & obstetrics,A,C,False,A<turn|>
+biochemistry,C,A,False,C<turn|>
+forensic medicine,A,A,True,A<turn|>
+pathology,C,D,False,C<turn|>
+social & preventive medicine,A,A,True,A<turn|>
+dental,D,A,False,D<turn|>
+surgery,A,C,False,A<turn|>
+physiology,B,A,False,B<turn|>
+surgery,A,A,True,A<turn|>
+pathology,C,B,False,C<turn|>
+dental,C,D,False,C<turn|>
+pediatrics,C,B,False,C<turn|>
+pharmacology,D,B,False,D<turn|>
+dental,A,A,True,A<turn|>
+surgery,C,A,False,C<turn|>
+anatomy,A,A,True,A<turn|>
+pediatrics,A,A,True,A<turn|>
+dental,B,C,False,B<turn|>
+anatomy,D,D,True,D<turn|>
+dental,D,C,False,D<turn|>
+medicine,C,C,True,C<turn|>
+dental,D,D,True,D<turn|>
+social & preventive medicine,A,D,False,A<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+dental,B,C,False,B<turn|>
+medicine,C,D,False,C<turn|>
+microbiology,C,D,False,C<turn|>
+surgery,A,D,False,A<turn|>
+dental,B,C,False,B<turn|>
+gynaecology & obstetrics,B,C,False,B<turn|>
+dental,A,A,True,A<turn|>
+gynaecology & obstetrics,C,C,True,C<turn|>
+surgery,C,C,True,C<turn|>
+surgery,C,D,False,C<turn|>
+biochemistry,D,C,False,D<turn|>
+anatomy,A,A,True,A<turn|>
+pharmacology,A,A,True,A<turn|>
+anatomy,D,C,False,D<turn|>
+gynaecology & obstetrics,B,C,False,B<turn|>
+medicine,A,A,True,A<turn|>
+radiology,B,A,False,B<turn|>
+dental,A,B,False,A<turn|>
+dental,A,A,True,A<turn|>
+pathology,B,B,True,B<turn|>
+microbiology,A,A,True,A<turn|>
+pediatrics,B,B,True,B<turn|>
+gynaecology & obstetrics,B,A,False,B<turn|>
+microbiology,C,D,False,C<turn|>
+dental,A,A,True,A<turn|>
+surgery,D,C,False,D<turn|>
+dental,C,C,True,C<turn|>
+pathology,D,C,False,D<turn|>
+forensic medicine,D,D,True,D<turn|>
+medicine,C,C,True,C<turn|>
+surgery,D,C,False,D<turn|>
+medicine,A,D,False,A<turn|>
+dental,A,C,False,A<turn|>
+pathology,B,B,True,B<turn|>
+pharmacology,D,C,False,D<turn|>
+pathology,C,B,False,C<turn|>
+biochemistry,A,C,False,A<turn|>
+surgery,B,B,True,B<turn|>
+pediatrics,B,A,False,B<turn|>
+dental,C,B,False,C<turn|>
+medicine,D,D,True,D<turn|>
+dental,A,A,True,A<turn|>
+pharmacology,D,D,True,D<turn|>
+dental,A,A,True,A<turn|>
+surgery,A,B,False,A<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+pharmacology,C,C,True,C<turn|>
+physiology,A,A,True,A<turn|>
+microbiology,B,B,True,B<turn|>
+surgery,D,D,True,D<turn|>
+surgery,C,A,False,C<turn|>
+ophthalmology,A,C,False,A<turn|>
+gynaecology & obstetrics,D,D,True,D<turn|>
+dental,D,D,True,D<turn|>
+anatomy,A,A,True,A<turn|>
+dental,A,B,False,A<turn|>
+gynaecology & obstetrics,C,C,True,C<turn|>
+pathology,B,C,False,B<turn|>
+radiology,A,A,True,A<turn|>
+biochemistry,D,C,False,D<turn|>
+microbiology,A,C,False,A<turn|>
+social & preventive medicine,A,C,False,A<turn|>
+pathology,D,D,True,D<turn|>
+dental,D,D,True,D<turn|>
+anatomy,B,B,True,B<turn|>
+pathology,D,C,False,D<turn|>
+surgery,C,A,False,C<turn|>
+dental,C,C,True,C<turn|>
+medicine,A,B,False,A<turn|>
+medicine,A,B,False,A<turn|>
+pediatrics,A,B,False,A<turn|>
+surgery,C,A,False,C<turn|>
+pharmacology,A,A,True,A<turn|>
+dental,D,A,False,D<turn|>
+dental,A,C,False,A<turn|>
+dental,C,C,True,C<turn|>
+surgery,B,B,True,B<turn|>
+surgery,D,B,False,D<turn|>
+dental,A,B,False,A<turn|>
+pathology,B,D,False,B<turn|>
+pharmacology,A,A,True,A<turn|>
+dental,D,D,True,D<turn|>
+radiology,C,A,False,C<turn|>
+microbiology,A,A,True,A<turn|>
+microbiology,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+anatomy,D,D,True,D<turn|>
+dental,B,B,True,B<turn|>
+pharmacology,A,D,False,A<turn|>
+dental,B,D,False,B<turn|>
+dental,D,D,True,D<turn|>
+pathology,B,B,True,B<turn|>
+dental,D,B,False,D<turn|>
+surgery,A,C,False,A<turn|>
+dental,A,A,True,A<turn|>
+gynaecology & obstetrics,B,B,True,B<turn|>
+surgery,B,D,False,B<turn|>
+anatomy,C,B,False,C<turn|>
+ophthalmology,D,C,False,D<turn|>
+dental,A,A,True,A<turn|>
+dental,A,C,False,A<turn|>
+medicine,C,C,True,C<turn|>
+dental,D,D,True,D<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+surgery,A,B,False,A<turn|>
+pharmacology,D,B,False,D<turn|>
+dental,B,D,False,B<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+anatomy,A,A,True,A<turn|>
+dental,C,B,False,C<turn|>
+pharmacology,C,C,True,C<turn|>
+dental,B,D,False,B<turn|>
+anatomy,A,A,True,A<turn|>
+microbiology,A,A,True,A<turn|>
+anatomy,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+pediatrics,D,A,False,D<turn|>
+gynaecology & obstetrics,B,C,False,B<turn|>
+dental,D,B,False,D<turn|>
+dental,A,A,True,A<turn|>
+dental,D,A,False,D<turn|>
+dental,A,A,True,A<turn|>
+ent,D,A,False,D<turn|>
+gynaecology & obstetrics,A,B,False,A<turn|>
+dental,A,A,True,A<turn|>
+dental,D,D,True,D<turn|>
+dental,A,A,True,A<turn|>
+gynaecology & obstetrics,C,D,False,C<turn|>
+surgery,C,C,True,C<turn|>
+medicine,D,D,True,D<turn|>
+dental,D,D,True,D<turn|>
+dental,D,D,True,D<turn|>
+dental,C,B,False,C<turn|>
+dental,D,D,True,D<turn|>
+dental,A,B,False,A<turn|>
+dental,A,A,True,A<turn|>
+medicine,D,C,False,D<turn|>
+dental,C,C,True,C<turn|>
+gynaecology & obstetrics,C,D,False,C<turn|>
+medicine,A,B,False,A<turn|>
+dental,A,A,True,A<turn|>
+medicine,C,C,True,C<turn|>
+dental,B,B,True,B<turn|>
+biochemistry,B,B,True,B<turn|>
+dental,D,A,False,D<turn|>
+anatomy,A,A,True,A<turn|>
+dental,A,D,False,A<turn|>
+dental,B,C,False,B<turn|>
+forensic medicine,C,C,True,C<turn|>
+dental,D,A,False,D<turn|>
+anatomy,D,D,True,D<turn|>
+dental,A,A,True,A<turn|>
+biochemistry,B,A,False,B<turn|>
+pathology,A,A,True,A<turn|>
+biochemistry,D,D,True,D<turn|>
+pathology,A,A,True,A<turn|>
+dental,C,C,True,C<turn|>
+surgery,B,B,True,B<turn|>
+medicine,D,A,False,D<turn|>
+ent,B,B,True,B<turn|>
+pathology,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+anatomy,C,C,True,C<turn|>
+dental,D,D,True,D<turn|>
+pharmacology,A,D,False,A<turn|>
+pathology,A,B,False,A<turn|>
+dental,A,C,False,A<turn|>
+pediatrics,A,A,True,A<turn|>
+dental,C,C,True,C<turn|>
+social & preventive medicine,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+microbiology,A,A,True,A<turn|>
+dental,D,B,False,D<turn|>
+medicine,A,A,True,A<turn|>
+dental,C,D,False,C<turn|>
+dental,A,C,False,A<turn|>
+pathology,D,C,False,D<turn|>
+physiology,D,D,True,D<turn|>
+dental,D,A,False,D<turn|>
+pathology,A,A,True,A<turn|>
+pathology,A,C,False,A<turn|>
+surgery,A,B,False,A<turn|>
+dental,C,C,True,C<turn|>
+microbiology,D,A,False,D<turn|>
+dental,B,B,True,B<turn|>
+dental,B,B,True,B<turn|>
+pathology,A,D,False,A<turn|>
+pediatrics,A,C,False,A<turn|>
+anatomy,D,C,False,D<turn|>
+gynaecology & obstetrics,D,D,True,D<turn|>
+gynaecology & obstetrics,D,D,True,D<turn|>
+social & preventive medicine,B,B,True,B<turn|>
+pathology,B,B,True,B<turn|>
+pediatrics,A,C,False,A<turn|>
+microbiology,D,D,True,D<turn|>
+medicine,D,D,True,D<turn|>
+anatomy,A,A,True,A<turn|>
+ophthalmology,A,A,True,A<turn|>
+dental,D,A,False,D<turn|>
+radiology,C,C,True,C<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+pharmacology,B,A,False,B<turn|>
+pediatrics,B,B,True,B<turn|>
+surgery,B,B,True,B<turn|>
+pathology,D,D,True,D<turn|>
+dental,D,C,False,D<turn|>
+anatomy,B,B,True,B<turn|>
+ent,A,B,False,A<turn|>
+dental,C,A,False,C<turn|>
+physiology,B,A,False,B<turn|>
+dental,A,A,True,A<turn|>
+pathology,C,C,True,C<turn|>
+dental,D,D,True,D<turn|>
+dental,B,B,True,B<turn|>
+biochemistry,D,D,True,D<turn|>
+dental,A,B,False,A<turn|>
+medicine,B,C,False,B<turn|>
+dental,B,B,True,B<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+dental,A,B,False,A<turn|>
+anatomy,C,C,True,C<turn|>
+medicine,D,C,False,D<turn|>
+dental,A,B,False,A<turn|>
+dental,C,C,True,C<turn|>
+pediatrics,D,C,False,D<turn|>
+surgery,A,C,False,A<turn|>
+dental,A,A,True,A<turn|>
+dental,D,D,True,D<turn|>
+dental,C,A,False,C<turn|>
+dental,A,B,False,A<turn|>
+dental,C,A,False,C<turn|>
+biochemistry,C,C,True,C<turn|>
+pharmacology,C,C,True,C<turn|>
+dental,C,A,False,C<turn|>
+pathology,D,D,True,D<turn|>
+dental,D,A,False,D<turn|>
+dental,C,A,False,C<turn|>
+dental,B,A,False,B<turn|>
+medicine,B,B,True,B<turn|>
+medicine,C,C,True,C<turn|>
+surgery,A,A,True,A<turn|>
+pediatrics,A,A,True,A<turn|>
+dental,B,A,False,B<turn|>
+pediatrics,A,A,True,A<turn|>
+pharmacology,A,A,True,A<turn|>
+dental,A,D,False,A<turn|>
+physiology,A,C,False,A<turn|>
+dental,B,C,False,B<turn|>
+gynaecology & obstetrics,A,C,False,A<turn|>
+dental,B,A,False,B<turn|>
+physiology,A,A,True,A<turn|>
+surgery,C,D,False,C<turn|>
+dental,A,A,True,A<turn|>
+surgery,A,A,True,A<turn|>
+pharmacology,D,D,True,D<turn|>
+gynaecology & obstetrics,D,B,False,D<turn|>
+medicine,C,D,False,C<turn|>
+pathology,B,A,False,B<turn|>
+gynaecology & obstetrics,B,D,False,B<turn|>
+surgery,D,A,False,D<turn|>
+surgery,C,A,False,C<turn|>
+dental,A,A,True,A<turn|>
+biochemistry,A,A,True,A<turn|>
+pathology,A,D,False,A<turn|>
+gynaecology & obstetrics,A,D,False,A<turn|>
+social & preventive medicine,A,B,False,A<turn|>
+ent,B,C,False,B<turn|>
+surgery,D,D,True,D<turn|>
+pathology,A,A,True,A<turn|>
+anatomy,A,A,True,A<turn|>
+physiology,B,B,True,B<turn|>
+dental,C,A,False,C<turn|>
+dental,A,D,False,A<turn|>
+pathology,C,B,False,C<turn|>
+surgery,B,B,True,B<turn|>
+pathology,D,D,True,D<turn|>
+medicine,A,D,False,A<turn|>
+medicine,C,C,True,C<turn|>
+pathology,A,D,False,A<turn|>
+pathology,D,D,True,D<turn|>
+dental,A,A,True,A<turn|>
+surgery,D,A,False,D<turn|>
+anatomy,B,B,True,B<turn|>
+pathology,B,D,False,B<turn|>
+surgery,B,B,True,B<turn|>
+surgery,A,A,True,A<turn|>
+ent,B,B,True,B<turn|>
+dental,D,C,False,D<turn|>
+gynaecology & obstetrics,C,C,True,C<turn|>
+pathology,D,A,False,D<turn|>
+surgery,B,B,True,B<turn|>
+pharmacology,A,A,True,A<turn|>
+dental,D,A,False,D<turn|>
+anatomy,B,B,True,B<turn|>
+pediatrics,A,B,False,A<turn|>
+pediatrics,C,C,True,C<turn|>
+dental,C,C,True,C<turn|>
+dental,B,C,False,B<turn|>
+pediatrics,B,C,False,B<turn|>
+gynaecology & obstetrics,B,D,False,B<turn|>
+ent,C,A,False,C<turn|>
+surgery,A,A,True,A<turn|>
+radiology,A,A,True,A<turn|>
+social & preventive medicine,A,D,False,A<turn|>
+dental,D,C,False,D<turn|>
+pathology,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+pathology,B,B,True,B<turn|>
+physiology,B,C,False,B<turn|>
+anatomy,A,A,True,A<turn|>
+dental,D,B,False,D<turn|>
+pathology,D,D,True,D<turn|>
+gynaecology & obstetrics,A,D,False,A<turn|>
+dental,B,A,False,B<turn|>
+pathology,C,D,False,C<turn|>
+dental,D,D,True,D<turn|>
+dental,B,B,True,B<turn|>
+medicine,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+dental,B,A,False,B<turn|>
+dental,B,B,True,B<turn|>
+gynaecology & obstetrics,C,C,True,C<turn|>
+microbiology,C,B,False,C<turn|>
+medicine,A,A,True,A<turn|>
+dental,B,A,False,B<turn|>
+dental,C,C,True,C<turn|>
+gynaecology & obstetrics,C,B,False,C<turn|>
+microbiology,A,B,False,A<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+gynaecology & obstetrics,A,C,False,A<turn|>
+dental,A,B,False,A<turn|>
+biochemistry,D,D,True,D<turn|>
+surgery,C,C,True,C<turn|>
+gynaecology & obstetrics,D,D,True,D<turn|>
+gynaecology & obstetrics,A,D,False,A<turn|>
+dental,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+dental,D,B,False,D<turn|>
+anatomy,D,D,True,D<turn|>
+gynaecology & obstetrics,D,C,False,D<turn|>
+surgery,B,A,False,B<turn|>
+dental,A,B,False,A<turn|>
+anatomy,D,D,True,D<turn|>
+dental,A,A,True,A<turn|>
+pharmacology,C,C,True,C<turn|>
+pediatrics,D,D,True,D<turn|>
+dental,B,C,False,B<turn|>
+pathology,D,D,True,D<turn|>
+social & preventive medicine,A,B,False,A<turn|>
+pharmacology,A,B,False,A<turn|>
+dental,C,C,True,C<turn|>
+dental,D,D,True,D<turn|>
+ophthalmology,C,C,True,C<turn|>
+pathology,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+pharmacology,D,D,True,D<turn|>
+gynaecology & obstetrics,B,B,True,B<turn|>
+physiology,D,C,False,D<turn|>
+dental,A,A,True,A<turn|>
+physiology,B,B,True,B<turn|>
+pathology,D,C,False,D<turn|>
+pediatrics,A,B,False,A<turn|>
+dental,D,D,True,D<turn|>
+surgery,D,A,False,D<turn|>
+physiology,A,D,False,A<turn|>
+microbiology,A,C,False,A<turn|>
+pathology,A,A,True,A<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+radiology,C,C,True,C<turn|>
+surgery,D,A,False,D<turn|>
+pediatrics,C,B,False,C<turn|>
+dental,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+pathology,C,B,False,C<turn|>
+medicine,A,A,True,A<turn|>
+pathology,A,A,True,A<turn|>
+dental,A,C,False,A<turn|>
+pediatrics,A,D,False,A<turn|>
+pharmacology,A,A,True,A<turn|>
+surgery,A,A,True,A<turn|>
+pharmacology,A,A,True,A<turn|>
+medicine,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+medicine,D,B,False,D<turn|>
+gynaecology & obstetrics,D,B,False,D<turn|>
+medicine,D,D,True,D<turn|>
+pathology,D,D,True,D<turn|>
+dental,C,A,False,C<turn|>
+gynaecology & obstetrics,D,D,True,D<turn|>
+dental,B,C,False,B<turn|>
+pediatrics,A,B,False,A<turn|>
+dental,A,A,True,A<turn|>
+anatomy,C,C,True,C<turn|>
+anatomy,D,D,True,D<turn|>
+physiology,D,C,False,D<turn|>
+pediatrics,A,A,True,A<turn|>
+surgery,C,C,True,C<turn|>
+surgery,C,C,True,C<turn|>
+pathology,A,D,False,A<turn|>
+biochemistry,A,A,True,A<turn|>
+surgery,C,A,False,C<turn|>
+surgery,B,A,False,B<turn|>
+dental,A,C,False,A<turn|>
+pediatrics,B,B,True,B<turn|>
+surgery,C,C,True,C<turn|>
+surgery,A,B,False,A<turn|>
+surgery,A,A,True,A<turn|>
+pharmacology,A,A,True,A<turn|>
+surgery,B,A,False,B<turn|>
+pathology,C,A,False,C<turn|>
+dental,A,B,False,A<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+forensic medicine,A,C,False,A<turn|>
+dental,C,C,True,C<turn|>
+medicine,C,C,True,C<turn|>
+dental,A,C,False,A<turn|>
+medicine,B,B,True,B<turn|>
+dental,D,D,True,D<turn|>
+medicine,A,A,True,A<turn|>
+dental,B,B,True,B<turn|>
+biochemistry,D,D,True,D<turn|>
+dental,A,C,False,A<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+social & preventive medicine,D,D,True,D<turn|>
+pathology,A,C,False,A<turn|>
+dental,B,B,True,B<turn|>
+pathology,C,B,False,C<turn|>
+pharmacology,A,A,True,A<turn|>
+surgery,B,C,False,B<turn|>
+dental,A,A,True,A<turn|>
+dental,A,A,True,A<turn|>
+pathology,D,D,True,D<turn|>
+medicine,A,C,False,A<turn|>
+ophthalmology,B,C,False,B<turn|>
+anatomy,B,C,False,B<turn|>
+microbiology,C,C,True,C<turn|>
+pediatrics,D,A,False,D<turn|>
+dental,C,C,True,C<turn|>
+medicine,D,D,True,D<turn|>
+dental,D,B,False,D<turn|>
+dental,C,A,False,C<turn|>
+dental,A,A,True,A<turn|>
+dental,B,C,False,B<turn|>
+anatomy,A,A,True,A<turn|>
+surgery,A,B,False,A<turn|>
+pathology,B,B,True,B<turn|>
+microbiology,B,B,True,B<turn|>
+radiology,C,C,True,C<turn|>
+dental,A,A,True,A<turn|>
+gynaecology & obstetrics,D,A,False,D<turn|>
+dental,A,D,False,A<turn|>
+physiology,D,D,True,D<turn|>
+dental,A,A,True,A<turn|>
+dental,C,D,False,C<turn|>
+anatomy,D,D,True,D<turn|>
+pathology,D,A,False,D<turn|>
+biochemistry,C,C,True,C<turn|>
+pathology,A,A,True,A<turn|>
+biochemistry,B,A,False,B<turn|>
+radiology,B,B,True,B<turn|>
+dental,A,A,True,A<turn|>
+medicine,B,B,True,B<turn|>
+pediatrics,D,C,False,D<turn|>
+forensic medicine,D,A,False,D<turn|>
+pharmacology,A,A,True,A<turn|>
+medicine,A,B,False,A<turn|>
+dental,A,C,False,A<turn|>
+microbiology,D,B,False,D<turn|>
+surgery,A,A,True,A<turn|>
+medicine,D,D,True,D<turn|>
+pathology,B,B,True,B<turn|>
+ent,C,C,True,C<turn|>
+ophthalmology,D,D,True,D<turn|>
+gynaecology & obstetrics,A,A,True,A<turn|>
+medicine,B,B,True,B<turn|>
+ophthalmology,B,B,True,B<turn|>
+anatomy,B,A,False,B<turn|>
+dental,C,A,False,C<turn|>
+dental,D,C,False,D<turn|>
+dental,C,B,False,C<turn|>
+pharmacology,B,B,True,B<turn|>
+social & preventive medicine,B,A,False,B<turn|>
+pediatrics,D,D,True,D<turn|>
+pharmacology,A,A,True,A<turn|>
+pediatrics,B,B,True,B<turn|>
+pathology,A,A,True,A<turn|>

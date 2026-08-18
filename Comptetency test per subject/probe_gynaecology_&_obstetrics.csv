@@ -1,0 +1,54 @@
+subject,id,raw_response,predicted,correct_answer,is_correct
+gynaecology & obstetrics,e5e1f694-5bce-4ea7-8d47-b629076533e1,C,C,C,True
+gynaecology & obstetrics,08f757d6-1296-48c4-8307-d4e61d2979b9,C,C,C,True
+gynaecology & obstetrics,4c193618-d7aa-41b5-a04c-0ff57cabbb3a,C,C,C,True
+gynaecology & obstetrics,89e4fd81-0a6a-4702-8229-b393fcf8bf91,B,B,B,True
+gynaecology & obstetrics,22bc4a41-38a8-42cd-b629-a88bb7745260,A,A,A,True
+gynaecology & obstetrics,f5b89559-4ce3-4dd5-b950-5624eb6f4ca8,A,A,A,True
+gynaecology & obstetrics,a05c8cf2-b0bc-496e-b5fd-51467952e2ca,C,C,D,False
+gynaecology & obstetrics,10baae45-ecc0-4efa-bbb9-cd5b33b79770,D,D,D,True
+gynaecology & obstetrics,b7b14d8f-2501-431e-afcd-e8b43dfb39f1,A,A,A,True
+gynaecology & obstetrics,cb6588a7-e4ef-4670-b6aa-7eae297fb443,C,C,C,True
+gynaecology & obstetrics,9ccd0247-2723-4707-b569-ca0402842cd9,D,D,B,False
+gynaecology & obstetrics,93d8bac0-76ae-4440-91c0-fa3b724bbc65,D,D,B,False
+gynaecology & obstetrics,5bca2ed8-85d7-4ec5-8c3a-96ce2c3ca045,D,D,D,True
+gynaecology & obstetrics,ae4e70ec-f2cc-4afa-b122-cdb5a4eede13,A,A,A,True
+gynaecology & obstetrics,a2106819-7406-4698-8f7d-b166a05fe17e,A,A,A,True
+gynaecology & obstetrics,05c55694-331d-4f11-a9b4-a5efbc32de79,B,B,B,True
+gynaecology & obstetrics,ff15f943-5815-44a6-a8cf-5513f692fde6,D,D,D,True
+gynaecology & obstetrics,250445f9-5a5a-45c0-9035-f581f79f5030,D,D,D,True
+gynaecology & obstetrics,841fa263-7535-4d40-ae25-cddb831b5254,D,D,D,True
+gynaecology & obstetrics,6d899f34-1374-4e19-b4d7-4f3b855176fe,B,B,B,True
+gynaecology & obstetrics,3f14a758-0e86-43ba-a517-ce29c38b6dbf,A,A,B,False
+gynaecology & obstetrics,d2aaf9d3-3ec9-450c-94cd-7df423fe49e8,D,D,D,True
+gynaecology & obstetrics,fd711e43-2e62-409e-89fc-4ac2a9a2d5d9,A,A,B,False
+gynaecology & obstetrics,cf9116f0-d344-4b8d-b010-050ac77a8dd1,A,A,A,True
+gynaecology & obstetrics,d17b270d-86c3-4b7d-ad1b-d1175e0b406a,B,B,A,False
+gynaecology & obstetrics,6944b9e7-b49f-46ac-ac6f-b748f2c4cc46,A,A,A,True
+gynaecology & obstetrics,42924e5a-723d-478f-ab78-a46ec8e8041b,A,A,A,True
+gynaecology & obstetrics,16ad7610-2cda-48ff-8eb6-94530a9eeb51,D,D,D,True
+gynaecology & obstetrics,76ad139f-2d71-44b7-aca8-bd96da79500b,D,D,D,True
+gynaecology & obstetrics,b0f5d8eb-eda4-48a2-ad59-d158d8132c16,A,A,A,True
+gynaecology & obstetrics,77997eca-fce9-4840-916d-b373c61c411d,C,C,C,True
+gynaecology & obstetrics,29e0d9dd-5554-44a6-9b97-1fb9eb226a50,D,D,D,True
+gynaecology & obstetrics,ee343e97-60cc-402d-8c90-c92e8f168813,C,C,B,False
+gynaecology & obstetrics,56b31e0c-e675-450b-838d-52ac15efc3fd,C,C,C,True
+gynaecology & obstetrics,ee6fc122-f7cc-425b-b372-9c55c4f5f5ab,"To calculate the modified Bishop score for this patient, we evaluate the five components:
+
+1. **Dilation**: 1 cm = **1 point**
+2. **Effacement**: 30% (corresponds to",C,C,True
+gynaecology & obstetrics,1ea823e8-1b70-4820-96e1-c46d5fd23885,The correct answer is **C**.,C,C,True
+gynaecology & obstetrics,59ca3227-50c1-4151-a65f-3bfeb8768028,A,A,A,True
+gynaecology & obstetrics,48b657a1-b046-40e2-b0bf-a2ece3cbcb8e,C,C,C,True
+gynaecology & obstetrics,8340cc71-4a15-4134-b582-fed084765cf0,A,A,A,True
+gynaecology & obstetrics,014ba2fe-d596-4265-bf46-616641ea4a9f,A,A,C,False
+gynaecology & obstetrics,89e0b62e-fa1d-4964-8870-d57cb8b871f4,B,B,B,True
+gynaecology & obstetrics,2fad53ed-ad7b-4194-8316-7fd39b1089a4,C,C,C,True
+gynaecology & obstetrics,ab01afe5-53fa-43eb-8419-c92653ed2b1f,A,A,A,True
+gynaecology & obstetrics,641fe4d1-8fc4-4393-ada9-0f1fc1c25462,A,A,A,True
+gynaecology & obstetrics,b7899c5a-8bd2-4a87-8082-0ad7980f3886,A,A,B,False
+gynaecology & obstetrics,8870f48b-468f-484c-8070-3b135b2c7ada,C,C,C,True
+gynaecology & obstetrics,621316dd-5ef8-4ba1-953c-6f214b414b56,C,C,C,True
+gynaecology & obstetrics,35624499-7ec5-46f1-8cc2-befa686829c4,B,B,A,False
+gynaecology & obstetrics,4506e30a-65c0-48a5-86db-595e5084787c,D,D,D,True
+gynaecology & obstetrics,0c879562-cc36-4620-a809-fd26c1275a47,B,B,B,True

@@ -1,0 +1,53 @@
+subject,id,raw_response,predicted,correct_answer,is_correct
+forensic medicine,8a045017-cef4-4ca8-ad9b-52bf5a0bed63,A,A,A,True
+forensic medicine,efbacdd9-1c25-4697-8ad9-377c7a8105b8,A,A,A,True
+forensic medicine,81a24a92-4459-4999-9c49-6ee91a6182a3,B,B,C,False
+forensic medicine,2ab8b27b-1646-4886-8378-f2f11f84a79e,C,C,C,True
+forensic medicine,734e0bc2-f9d4-4ae2-a7f5-eae1c1500352,B,B,B,True
+forensic medicine,7654b57a-4955-4f89-a828-a8c82995f619,B,B,B,True
+forensic medicine,9323af0c-ce73-4fcd-9646-88c87ea5d0f7,D,D,A,False
+forensic medicine,d2a908d2-59df-4591-9a9c-1212a0ce7347,C,C,C,True
+forensic medicine,12bfacf6-a27e-41dc-85ee-64e1b8955000,"To determine who was the driver in a fatal car accident, forensic pathologists look for specific pattern injuries:
+* **Steering wheel imprint** (Option B) is a classic sign found on the driver.
+* **Sparrow",D,C,False
+forensic medicine,745734e9-afe6-4098-bd64-66ee49c64dc0,A,A,A,True
+forensic medicine,5d03f6ea-52a4-4358-94b1-ab24840e0f77,B,B,C,False
+forensic medicine,9b33051b-e39d-4342-acd7-8bc45abdf2d6,A,A,A,True
+forensic medicine,132fec12-271f-4778-93af-042d6ec32a22,A,A,A,True
+forensic medicine,cfa28a58-dd1f-4852-b34f-d150a9fd9011,D,D,D,True
+forensic medicine,5c578aa4-a6fd-4de5-b0f6-adb926564122,A,A,A,True
+forensic medicine,b7d8bd74-0651-43ca-9284-f29321e22628,A,A,A,True
+forensic medicine,8db7e145-052a-4774-9a5f-db3c4e9ac1d6,D,D,C,False
+forensic medicine,4c0b406e-5d78-4f1d-99ca-c51f8d240e4f,A,A,A,True
+forensic medicine,c27e7c0b-7d26-4ca7-b537-c44b71114d55,C,C,C,True
+forensic medicine,1a32e105-4c5b-4116-a635-c2eb48d8c25e,A,A,A,True
+forensic medicine,c54f6d65-4afa-4778-8c98-b32ff9a9782d,D,D,A,False
+forensic medicine,2ae293df-8147-46d5-bd46-b913a95c2593,B,B,B,True
+forensic medicine,2cc86d26-ec8a-43f8-8fa8-bd56054db9f2,C,C,B,False
+forensic medicine,cd0edc92-8fb3-4f97-b0ce-d74446009179,B,B,A,False
+forensic medicine,16a341b0-9b1c-4a94-94a6-8f8aaa931295,C,C,C,True
+forensic medicine,b317f77b-62b2-4ad9-a520-3bdbe0c37f47,B,B,B,True
+forensic medicine,5b062fde-455e-4ab5-aa3b-a661c3643f42,B,B,C,False
+forensic medicine,519a4ff4-7e05-455a-b8dd-edd85636dccf,C,C,C,True
+forensic medicine,070ff387-f612-43ac-a23e-ab3e8ed192b4,C,C,C,True
+forensic medicine,1ec93a8b-e2dd-4468-bee1-74100f803516,A,A,A,True
+forensic medicine,5ba07589-bec7-4600-b1a2-93beb50dbc17,B,B,B,True
+forensic medicine,864ebcb5-85f5-45eb-a209-5d14ef53e787,B,B,B,True
+forensic medicine,004aab8b-a6e3-408f-a255-6824b132d97c,B,B,B,True
+forensic medicine,044e8f11-ca21-4220-9ddc-0fca648ed401,B,B,B,True
+forensic medicine,e48eccc3-3935-4cdc-90a7-4aebfaa3e76e,C,C,A,False
+forensic medicine,c3330937-9414-435c-91f3-38e7197f7ba1,C,C,C,True
+forensic medicine,34d20a1d-da67-4205-b8c7-981dc313289f,A,A,A,True
+forensic medicine,5e39f6db-6d90-49fa-a2a6-f9e0c9d1b821,D,D,D,True
+forensic medicine,2caaca13-e6d7-451f-b63e-4eb2eefea736,A,A,A,True
+forensic medicine,08261677-c2d9-467e-9b36-2860dd82c98c,B,B,B,True
+forensic medicine,7801e0bc-129a-47f5-a8f2-5c78981b28d8,B,B,B,True
+forensic medicine,236b5f58-36f4-4644-b7ee-8f90903dba8f,A,A,A,True
+forensic medicine,3a99eeb5-973d-4468-bf41-4111c70ec9ff,A,A,A,True
+forensic medicine,ae166e0e-586c-42ab-9438-dd02125e35c0,D,D,D,True
+forensic medicine,a221ada6-01e5-47bb-9aaf-5277ea353f1c,"Based on the standard medical board questions regarding specific physical signs (such as Mees' lines, Aldrich-Mees lines, or garlic odor associated with arsenic, or Burton's line/basophilic stippling associated with lead),",B,C,False
+forensic medicine,a0bc9d51-9ac3-4847-bd92-9f29d7216e8d,C,C,B,False
+forensic medicine,67f63ad4-0c9a-46fb-8689-c79b7a7224da,A,A,A,True
+forensic medicine,6f1fdbc9-920f-4bff-b2eb-ba300fd9cc59,C,C,D,False
+forensic medicine,46ad7b87-21e1-41da-bc30-50e96b3acd45,A,A,A,True
+forensic medicine,0c240f5f-b2d4-4229-8a70-5c2bd42f2144,D,D,D,True

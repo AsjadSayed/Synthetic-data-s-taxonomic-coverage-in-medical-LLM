@@ -1,0 +1,16 @@
+{"subject": "anatomy", "kept": 200, "rejected": 0, "malformed": 2, "errors": 0, "minutes": 38.8, "answer_dist": {"C": 52, "D": 54, "A": 56, "B": 38}}
+{"subject": "biochemistry", "kept": 200, "rejected": 0, "malformed": 9, "errors": 0, "minutes": 75.5, "answer_dist": {"A": 50, "C": 54, "D": 51, "B": 45}}
+{"subject": "dental", "kept": 200, "rejected": 0, "malformed": 3, "errors": 0, "minutes": 17.8, "answer_dist": {"A": 54, "B": 56, "D": 40, "C": 50}}
+{"subject": "ent", "kept": 200, "rejected": 0, "malformed": 9, "errors": 2, "minutes": 26.1, "answer_dist": {"B": 48, "D": 50, "A": 39, "C": 63}}
+{"subject": "forensic medicine", "kept": 200, "rejected": 0, "malformed": 13, "errors": 0, "minutes": 39.0, "answer_dist": {"B": 54, "C": 45, "D": 46, "A": 55}}
+{"subject": "gynaecology & obstetrics", "kept": 200, "rejected": 0, "malformed": 16, "errors": 0, "minutes": 33.9, "answer_dist": {"D": 50, "A": 43, "B": 63, "C": 44}}
+{"subject": "medicine", "kept": 200, "rejected": 0, "malformed": 19, "errors": 0, "minutes": 15.3, "answer_dist": {"B": 57, "D": 56, "A": 44, "C": 43}}
+{"subject": "microbiology", "kept": 200, "rejected": 0, "malformed": 8, "errors": 0, "minutes": 23.0, "answer_dist": {"C": 50, "B": 53, "D": 43, "A": 54}}
+{"subject": "ophthalmology", "kept": 200, "rejected": 0, "malformed": 6, "errors": 0, "minutes": 13.4, "answer_dist": {"C": 43, "B": 48, "A": 49, "D": 60}}
+{"subject": "pathology", "kept": 200, "rejected": 0, "malformed": 12, "errors": 0, "minutes": 14.7, "answer_dist": {"D": 57, "C": 53, "B": 55, "A": 35}}
+{"subject": "pediatrics", "kept": 200, "rejected": 0, "malformed": 12, "errors": 0, "minutes": 13.3, "answer_dist": {"A": 47, "C": 52, "B": 49, "D": 52}}
+{"subject": "pharmacology", "kept": 200, "rejected": 0, "malformed": 15, "errors": 0, "minutes": 18.6, "answer_dist": {"A": 42, "D": 60, "C": 48, "B": 50}}
+{"subject": "physiology", "kept": 200, "rejected": 0, "malformed": 5, "errors": 0, "minutes": 11.1, "answer_dist": {"B": 50, "D": 54, "C": 45, "A": 51}}
+{"subject": "radiology", "kept": 200, "rejected": 0, "malformed": 12, "errors": 0, "minutes": 12.9, "answer_dist": {"B": 47, "D": 49, "A": 53, "C": 51}}
+{"subject": "social & preventive medicine", "kept": 200, "rejected": 0, "malformed": 27, "errors": 0, "minutes": 13.2, "answer_dist": {"C": 44, "B": 47, "D": 53, "A": 56}}
+{"subject": "surgery", "kept": 200, "rejected": 0, "malformed": 10, "errors": 0, "minutes": 10.2, "answer_dist": {"D": 48, "C": 59, "A": 47, "B": 46}}

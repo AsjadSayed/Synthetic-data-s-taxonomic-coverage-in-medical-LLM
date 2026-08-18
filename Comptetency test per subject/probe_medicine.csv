@@ -1,0 +1,57 @@
+subject,id,raw_response,predicted,correct_answer,is_correct
+medicine,b93a261f-e949-43f7-baab-ff96eaf4d530,C,C,C,True
+medicine,37d6e02a-0f4d-44a5-bbe0-f8040e1522fa,A,A,A,True
+medicine,dfd6bf3b-b4c4-48c9-87aa-4532fa309157,D,D,D,True
+medicine,599273bd-ad8a-4c31-8038-d8d26701bc41,"Based on the clinical presentation of Keratosis Pharyngis (often associated with smoking and requiring cancer screening) or potentially Keratosis Tonsillaris/Leukoplakia, the correct management is:
+
+B",B,D,False
+medicine,b3eb29e7-c094-4225-8379-8e4341a621a6,D,D,D,True
+medicine,d7a840fd-00b4-4980-a01a-4de04a73d18f,A,A,A,True
+medicine,52214090-675c-402d-b898-bb6c05aa3e95,A,A,A,True
+medicine,cc1da36a-147f-4b74-9015-b7640ebb7ead,D,D,D,True
+medicine,00eaa1c4-c041-4172-ab04-51205c84410f,A,A,A,True
+medicine,fd1abff0-73fe-49da-b311-3184d0c0e54d,C,C,C,True
+medicine,ba74314a-2adf-4b6a-8c74-2c8c7f5b641f,B,B,B,True
+medicine,04c3b35b-a3b2-41a1-b540-12a59137a97c,A,A,A,True
+medicine,f2bb0a0b-b19d-41d8-9435-36d7eab51d07,D,D,A,False
+medicine,98cdca63-3ab9-437c-b89a-0466c580fd07,A,A,A,True
+medicine,a3254f11-cbb8-4b34-b1fa-db125225541f,D,D,D,True
+medicine,7d6455c7-5b76-4e75-84e6-0e37f920fa5a,B,B,B,True
+medicine,23452aab-77af-4d16-ad42-8563863aa899,B,B,B,True
+medicine,7b2e3490-4efc-45bd-850e-0435ebb15bc5,B,B,B,True
+medicine,9b357d4d-8a53-4939-9ff7-bb6f72c53bb6,A,A,A,True
+medicine,d14e6c46-6260-4e50-b24e-19218c4c9587,B,B,B,True
+medicine,464d4742-246a-425e-9acb-7705512f8f5a,A,A,A,True
+medicine,f5cd69ed-816c-4f6b-99cf-4cb41bce9f55,"Based on the clinical presentation of a 50-year-old male with severe hypertension (160/100 mm Hg) and tachycardia (120/min), the suspected diagnosis is an acute aortic dissection",B,A,False
+medicine,383be13b-3dbe-4db9-b1da-419c97fbfe83,A,A,A,True
+medicine,be284b52-a2f5-4b28-8d48-f1101176661f,D,D,D,True
+medicine,16413ad3-db66-4d30-905b-489baf124bad,A,A,A,True
+medicine,86da0aa9-4ee5-4d2d-909b-e40e20b97d1c,B,B,B,True
+medicine,af6b018a-9c4d-4714-82f3-2fab1f1c679d,C,C,A,False
+medicine,4982eef9-e03f-4b52-af7d-e0e2f588358e,C,C,C,True
+medicine,747359d5-2ce7-439e-b229-d04381853421,B,B,B,True
+medicine,80eccba1-1f33-4548-90bc-885cf7d98961,C,C,C,True
+medicine,ff70acbd-354f-4d68-bf18-74a4c6489695,"To calculate the base deficit (or bicarbonate deficit) in a patient, the standard formula used is:
+
+$$\text{Bicarbonate Deficit (mEq)} = 0.4 \times \text{Body Weight (",C,C,True
+medicine,c953149a-a76d-47a2-8d08-35614f87217a,D,D,D,True
+medicine,4ae28007-4e30-4358-b6ad-a13c7a4d8015,"To assess for pulsus paradoxus (which is a key sign in cardiac tamponade), the patient should be instructed to breathe normally, not to take deep breaths, as deep breathing can artificially exaggerate or alter the variation in systolic blood",A,C,False
+medicine,cc64f500-28ff-4757-9bef-65e53ea5685f,B,B,B,True
+medicine,3b6a211f-c575-44fd-b0c4-77bf1152bcb6,B,B,B,True
+medicine,308610da-6a5d-46d6-8e39-9d56159a3be0,C,C,C,True
+medicine,25145d77-f953-43f3-b658-8471be181cc1,"To determine the correct acid-base observation, we can analyze the given arterial blood gas (ABG) and electrolyte values:
+
+1. **pH, $\text{pCO}_2$, and $\text{HCO}_3",D,D,True
+medicine,f603675d-c697-4895-bbda-c782cdadbd6f,B,B,B,True
+medicine,aa84299f-e4a1-4123-bb64-e280c6a06f23,B,B,B,True
+medicine,6fe48790-f8f0-4c37-8dae-a76ddbac8a7a,D,D,D,True
+medicine,f7da806e-72c7-4e47-9a89-46abf9f8fae6,A,A,A,True
+medicine,5db315ce-ffe3-4f63-9071-d9168619ce60,D,D,D,True
+medicine,c2cf6fda-d767-48e5-acbe-c663d376240b,D,D,D,True
+medicine,36e20a28-fe52-4272-8027-043e6f66ab54,C,C,C,True
+medicine,2df0c27e-46a1-4f96-9de7-fb847c80a454,A,A,A,True
+medicine,381822c7-9bac-41d4-9e81-af0d3b9a3eea,D,D,D,True
+medicine,ad195e5d-7f52-42cc-a183-b05e3181d0ab,B,B,B,True
+medicine,b674d02e-af50-4f16-9f81-e3983a854b6a,C,C,C,True
+medicine,ee55a9bc-62bb-4952-957a-1902ff5b4376,C,C,C,True
+medicine,753a7a8e-6da4-419b-9efb-0b74581d3992,C,C,C,True
